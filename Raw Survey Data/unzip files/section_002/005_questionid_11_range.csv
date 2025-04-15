@@ -1,0 +1,618 @@
+ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Row,Value,ColumnIndex,Text
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,4,-3,0,... allows differences to be expressed and discussed.
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,8,-2,1,... allows for expressing concerns about developments.
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,7,-1,2,... allows for the exchange of information.
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,3,-1,2,... makes it possible to clarify our mutual expectations.
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,1,-1,2,... allows us to learn how our partners tick.
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,9,1,3,... allows us to communicate our position on a particular situation.
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,6,3,5,... provides us with a platform to pursue our interests.
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,10,1,3,... allows our partners to learn how the EU ticks.
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,5,3,5,... increases the chances that our objectives and policies are understood.
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,2,3,5,... enables to build trust between our counterparts and us.
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,11,2,4,... allows us to see if we share similar values.
+36,24,11,QA5,2,2024-09-29 10:28:17.17600963 +0000 UTC,16,12,2,4,dfadsfadsfasdfa
+67,21,11,QA5,2,2024-09-29 10:59:56.58259988 +0000 UTC,9,4,-3,0,... allows differences to be expressed and discussed.
+67,21,11,QA5,2,2024-09-29 10:59:56.58259988 +0000 UTC,9,8,-3,0,... allows for expressing concerns about developments.
+67,21,11,QA5,2,2024-09-29 10:59:56.58259988 +0000 UTC,9,7,-3,0,... allows for the exchange of information.
+67,21,11,QA5,2,2024-09-29 10:59:56.58259988 +0000 UTC,9,3,-3,0,... makes it possible to clarify our mutual expectations.
+67,21,11,QA5,2,2024-09-29 10:59:56.58259988 +0000 UTC,9,1,-3,0,... allows us to learn how our partners tick.
+67,21,11,QA5,2,2024-09-29 10:59:56.58259988 +0000 UTC,9,9,-3,0,... allows us to communicate our position on a particular situation.
+67,21,11,QA5,2,2024-09-29 10:59:56.58259988 +0000 UTC,9,6,-3,0,... provides us with a platform to pursue our interests.
+67,21,11,QA5,2,2024-09-29 10:59:56.58259988 +0000 UTC,9,10,-3,0,... allows our partners to learn how the EU ticks.
+67,21,11,QA5,2,2024-09-29 10:59:56.58259988 +0000 UTC,9,5,-3,0,... increases the chances that our objectives and policies are understood.
+67,21,11,QA5,2,2024-09-29 10:59:56.58259988 +0000 UTC,9,2,-3,0,... enables to build trust between our counterparts and us.
+67,21,11,QA5,2,2024-09-29 10:59:56.58259988 +0000 UTC,9,11,-3,0,... allows us to see if we share similar values.
+95,26,11,QA5,2,2024-09-30 13:58:41.185534154 +0000 UTC,27,1,3,5,... allows us to learn how our partners tick.
+95,26,11,QA5,2,2024-09-30 13:58:41.185534154 +0000 UTC,27,3,2,4,... makes it possible to clarify our mutual expectations.
+95,26,11,QA5,2,2024-09-30 13:58:41.185534154 +0000 UTC,27,7,1,3,... allows for the exchange of information.
+95,26,11,QA5,2,2024-09-30 13:58:41.185534154 +0000 UTC,27,5,-1,2,... increases the chances that our objectives and policies are understood.
+95,26,11,QA5,2,2024-09-30 13:58:41.185534154 +0000 UTC,27,9,-3,0,... allows us to communicate our position on a particular situation.
+95,26,11,QA5,2,2024-09-30 13:58:41.185534154 +0000 UTC,27,4,-1,2,... allows differences to be expressed and discussed.
+95,26,11,QA5,2,2024-09-30 13:58:41.185534154 +0000 UTC,27,8,-3,0,... allows for expressing concerns about developments.
+95,26,11,QA5,2,2024-09-30 13:58:41.185534154 +0000 UTC,27,10,-1,2,... allows our partners to learn how the EU ticks.
+95,26,11,QA5,2,2024-09-30 13:58:41.185534154 +0000 UTC,27,6,-2,1,... provides us with a platform to pursue our interests.
+95,26,11,QA5,2,2024-09-30 13:58:41.185534154 +0000 UTC,27,2,-3,0,... enables to build trust between our counterparts and us.
+95,26,11,QA5,2,2024-09-30 13:58:41.185534154 +0000 UTC,27,11,98,6,... allows us to see if we share similar values.
+123,28,11,QA5,2,2024-09-30 14:09:49.173152681 +0000 UTC,12,2,2,4,Es ermöglicht den Aufbau von Vertrauen zwischen unseren Partner:innen und uns.
+123,28,11,QA5,2,2024-09-30 14:09:49.173152681 +0000 UTC,12,10,2,4,"Es ermöglicht unseren Partnern zu lernen, wie die EU funktioniert"
+123,28,11,QA5,2,2024-09-30 14:09:49.173152681 +0000 UTC,12,3,1,3,"Es ermöglicht, unsere gegenseitigen Erwartungen zu klären."
+123,28,11,QA5,2,2024-09-30 14:09:49.173152681 +0000 UTC,12,7,1,3,Es ermöglicht den Austausch von Informationen.
+123,28,11,QA5,2,2024-09-30 14:09:49.173152681 +0000 UTC,12,4,1,3,"Es ermöglicht, dass Unterschiede zum Ausdruck gebracht und diskutiert werden können."
+123,28,11,QA5,2,2024-09-30 14:09:49.173152681 +0000 UTC,12,8,2,4,"Es ermöglicht, Bedenken über Entwicklungen zu äussern."
+123,28,11,QA5,2,2024-09-30 14:09:49.173152681 +0000 UTC,12,9,2,4,"Es ermöglicht uns, unseren Standpunkt zu einer bestimmten Situation mitzuteilen."
+123,28,11,QA5,2,2024-09-30 14:09:49.173152681 +0000 UTC,12,6,2,4,"Es bietet uns eine Plattform, um unsere Interessen zu verfolgen."
+123,28,11,QA5,2,2024-09-30 14:09:49.173152681 +0000 UTC,12,5,1,3,"Es erhöht die Wahrscheinlichkeit, dass unsere Ziele und Strategien verstanden werden."
+123,28,11,QA5,2,2024-09-30 14:09:49.173152681 +0000 UTC,12,11,1,3,"Es ermöglicht es uns zu sehen, ob wir ähnliche Werte teilen."
+123,28,11,QA5,2,2024-09-30 14:09:49.173152681 +0000 UTC,12,1,2,4,"Es ermöglicht uns zu lernen, wie unsere Partner ticken."
+195,40,11,QA5,2,2024-10-05 20:34:39.467270692 +0000 UTC,92,6,2,4,... provides us with a platform to pursue our interests.
+195,40,11,QA5,2,2024-10-05 20:34:39.467270692 +0000 UTC,92,4,2,4,... allows differences to be expressed and discussed.
+195,40,11,QA5,2,2024-10-05 20:34:39.467270692 +0000 UTC,92,11,1,3,... allows us to see if we share similar values.
+195,40,11,QA5,2,2024-10-05 20:34:39.467270692 +0000 UTC,92,8,1,3,... allows for expressing concerns about developments.
+195,40,11,QA5,2,2024-10-05 20:34:39.467270692 +0000 UTC,92,5,1,3,... increases the chances that our objectives and policies are understood.
+195,40,11,QA5,2,2024-10-05 20:34:39.467270692 +0000 UTC,92,10,2,4,... allows our partners to learn how the EU ticks.
+195,40,11,QA5,2,2024-10-05 20:34:39.467270692 +0000 UTC,92,7,3,5,... allows for the exchange of information.
+195,40,11,QA5,2,2024-10-05 20:34:39.467270692 +0000 UTC,92,2,3,5,... enables to build trust between our counterparts and us.
+195,40,11,QA5,2,2024-10-05 20:34:39.467270692 +0000 UTC,92,9,3,5,... allows us to communicate our position on a particular situation.
+195,40,11,QA5,2,2024-10-05 20:34:39.467270692 +0000 UTC,92,1,3,5,... allows us to learn how our partners tick.
+195,40,11,QA5,2,2024-10-05 20:34:39.467270692 +0000 UTC,92,3,2,4,... makes it possible to clarify our mutual expectations.
+257,47,11,QA5,2,2024-10-14 08:33:33.780097538 +0000 UTC,33,6,2,4,... provides us with a platform to pursue our interests.
+257,47,11,QA5,2,2024-10-14 08:33:33.780097538 +0000 UTC,33,4,2,4,... allows differences to be expressed and discussed.
+257,47,11,QA5,2,2024-10-14 08:33:33.780097538 +0000 UTC,33,11,2,4,... allows us to see if we share similar values.
+257,47,11,QA5,2,2024-10-14 08:33:33.780097538 +0000 UTC,33,8,2,4,... allows for expressing concerns about developments.
+257,47,11,QA5,2,2024-10-14 08:33:33.780097538 +0000 UTC,33,5,2,4,... increases the chances that our objectives and policies are understood.
+257,47,11,QA5,2,2024-10-14 08:33:33.780097538 +0000 UTC,33,10,2,4,... allows our partners to learn how the EU ticks.
+257,47,11,QA5,2,2024-10-14 08:33:33.780097538 +0000 UTC,33,7,2,4,... allows for the exchange of information.
+257,47,11,QA5,2,2024-10-14 08:33:33.780097538 +0000 UTC,33,2,2,4,... enables to build trust between our counterparts and us.
+257,47,11,QA5,2,2024-10-14 08:33:33.780097538 +0000 UTC,33,9,3,5,... allows us to communicate our position on a particular situation.
+257,47,11,QA5,2,2024-10-14 08:33:33.780097538 +0000 UTC,33,1,2,4,... allows us to learn how our partners tick.
+257,47,11,QA5,2,2024-10-14 08:33:33.780097538 +0000 UTC,33,3,3,5,... makes it possible to clarify our mutual expectations.
+296,51,11,QA5,2,2024-10-17 18:56:22.139773866 +0000 UTC,46,6,2,4,... provides us with a platform to pursue our interests.
+296,51,11,QA5,2,2024-10-17 18:56:22.139773866 +0000 UTC,46,4,2,4,... allows differences to be expressed and discussed.
+296,51,11,QA5,2,2024-10-17 18:56:22.139773866 +0000 UTC,46,11,3,5,... allows us to see if we share similar values.
+296,51,11,QA5,2,2024-10-17 18:56:22.139773866 +0000 UTC,46,8,1,3,... allows for expressing concerns about developments.
+296,51,11,QA5,2,2024-10-17 18:56:22.139773866 +0000 UTC,46,5,3,5,... increases the chances that our objectives and policies are understood.
+296,51,11,QA5,2,2024-10-17 18:56:22.139773866 +0000 UTC,46,10,2,4,... allows our partners to learn how the EU ticks.
+296,51,11,QA5,2,2024-10-17 18:56:22.139773866 +0000 UTC,46,7,3,5,... allows for the exchange of information.
+296,51,11,QA5,2,2024-10-17 18:56:22.139773866 +0000 UTC,46,2,3,5,... enables to build trust between our counterparts and us.
+296,51,11,QA5,2,2024-10-17 18:56:22.139773866 +0000 UTC,46,9,3,5,... allows us to communicate our position on a particular situation.
+296,51,11,QA5,2,2024-10-17 18:56:22.139773866 +0000 UTC,46,1,3,5,... allows us to learn how our partners tick.
+296,51,11,QA5,2,2024-10-17 18:56:22.139773866 +0000 UTC,46,3,3,5,... makes it possible to clarify our mutual expectations.
+355,55,11,QA5,2,2024-10-18 14:42:44.499983536 +0000 UTC,50,6,-2,1,... provides us with a platform to pursue our interests.
+355,55,11,QA5,2,2024-10-18 14:42:44.499983536 +0000 UTC,50,4,2,4,... allows differences to be expressed and discussed.
+355,55,11,QA5,2,2024-10-18 14:42:44.499983536 +0000 UTC,50,11,2,4,... allows us to see if we share similar values.
+355,55,11,QA5,2,2024-10-18 14:42:44.499983536 +0000 UTC,50,8,2,4,... allows for expressing concerns about developments.
+355,55,11,QA5,2,2024-10-18 14:42:44.499983536 +0000 UTC,50,5,2,4,... increases the chances that our objectives and policies are understood.
+355,55,11,QA5,2,2024-10-18 14:42:44.499983536 +0000 UTC,50,10,1,3,... allows our partners to learn how the EU ticks.
+355,55,11,QA5,2,2024-10-18 14:42:44.499983536 +0000 UTC,50,7,3,5,... allows for the exchange of information.
+355,55,11,QA5,2,2024-10-18 14:42:44.499983536 +0000 UTC,50,2,3,5,... enables to build trust between our counterparts and us.
+355,55,11,QA5,2,2024-10-18 14:42:44.499983536 +0000 UTC,50,9,2,4,... allows us to communicate our position on a particular situation.
+355,55,11,QA5,2,2024-10-18 14:42:44.499983536 +0000 UTC,50,1,2,4,... allows us to learn how our partners tick.
+355,55,11,QA5,2,2024-10-18 14:42:44.499983536 +0000 UTC,50,3,2,4,... makes it possible to clarify our mutual expectations.
+372,57,11,QA5,2,2024-10-18 17:42:54.286201169 +0000 UTC,39,6,2,4,... provides us with a platform to pursue our interests.
+372,57,11,QA5,2,2024-10-18 17:42:54.286201169 +0000 UTC,39,4,1,3,... allows differences to be expressed and discussed.
+372,57,11,QA5,2,2024-10-18 17:42:54.286201169 +0000 UTC,39,11,1,3,... allows us to see if we share similar values.
+372,57,11,QA5,2,2024-10-18 17:42:54.286201169 +0000 UTC,39,8,1,3,... allows for expressing concerns about developments.
+372,57,11,QA5,2,2024-10-18 17:42:54.286201169 +0000 UTC,39,5,2,4,... increases the chances that our objectives and policies are understood.
+372,57,11,QA5,2,2024-10-18 17:42:54.286201169 +0000 UTC,39,10,2,4,... allows our partners to learn how the EU ticks.
+372,57,11,QA5,2,2024-10-18 17:42:54.286201169 +0000 UTC,39,7,3,5,... allows for the exchange of information.
+372,57,11,QA5,2,2024-10-18 17:42:54.286201169 +0000 UTC,39,2,2,4,... enables to build trust between our counterparts and us.
+372,57,11,QA5,2,2024-10-18 17:42:54.286201169 +0000 UTC,39,9,3,5,... allows us to communicate our position on a particular situation.
+372,57,11,QA5,2,2024-10-18 17:42:54.286201169 +0000 UTC,39,1,2,4,... allows us to learn how our partners tick.
+372,57,11,QA5,2,2024-10-18 17:42:54.286201169 +0000 UTC,39,3,2,4,... makes it possible to clarify our mutual expectations.
+468,64,11,QA5,2,2024-10-24 11:59:02.092079751 +0000 UTC,44,6,3,5,... provides us with a platform to pursue our interests.
+468,64,11,QA5,2,2024-10-24 11:59:02.092079751 +0000 UTC,44,4,3,5,... allows differences to be expressed and discussed.
+468,64,11,QA5,2,2024-10-24 11:59:02.092079751 +0000 UTC,44,11,3,5,... allows us to see if we share similar values.
+468,64,11,QA5,2,2024-10-24 11:59:02.092079751 +0000 UTC,44,8,3,5,... allows for expressing concerns about developments.
+468,64,11,QA5,2,2024-10-24 11:59:02.092079751 +0000 UTC,44,5,3,5,... increases the chances that our objectives and policies are understood.
+468,64,11,QA5,2,2024-10-24 11:59:02.092079751 +0000 UTC,44,10,3,5,... allows our partners to learn how the EU ticks.
+468,64,11,QA5,2,2024-10-24 11:59:02.092079751 +0000 UTC,44,7,3,5,... allows for the exchange of information.
+468,64,11,QA5,2,2024-10-24 11:59:02.092079751 +0000 UTC,44,2,3,5,... enables to build trust between our counterparts and us.
+468,64,11,QA5,2,2024-10-24 11:59:02.092079751 +0000 UTC,44,9,3,5,... allows us to communicate our position on a particular situation.
+468,64,11,QA5,2,2024-10-24 11:59:02.092079751 +0000 UTC,44,1,3,5,... allows us to learn how our partners tick.
+468,64,11,QA5,2,2024-10-24 11:59:02.092079751 +0000 UTC,44,3,3,5,... makes it possible to clarify our mutual expectations.
+510,69,11,QA5,2,2024-11-05 16:33:04.827760569 +0000 UTC,62,6,2,4,... provides us with a platform to pursue our interests.
+510,69,11,QA5,2,2024-11-05 16:33:04.827760569 +0000 UTC,62,4,2,4,... allows differences to be expressed and discussed.
+510,69,11,QA5,2,2024-11-05 16:33:04.827760569 +0000 UTC,62,11,2,4,... allows us to see if we share similar values.
+510,69,11,QA5,2,2024-11-05 16:33:04.827760569 +0000 UTC,62,8,2,4,... allows for expressing concerns about developments.
+510,69,11,QA5,2,2024-11-05 16:33:04.827760569 +0000 UTC,62,5,2,4,... increases the chances that our objectives and policies are understood.
+510,69,11,QA5,2,2024-11-05 16:33:04.827760569 +0000 UTC,62,10,2,4,... allows our partners to learn how the EU ticks.
+510,69,11,QA5,2,2024-11-05 16:33:04.827760569 +0000 UTC,62,7,3,5,... allows for the exchange of information.
+510,69,11,QA5,2,2024-11-05 16:33:04.827760569 +0000 UTC,62,2,2,4,... enables to build trust between our counterparts and us.
+510,69,11,QA5,2,2024-11-05 16:33:04.827760569 +0000 UTC,62,9,2,4,... allows us to communicate our position on a particular situation.
+510,69,11,QA5,2,2024-11-05 16:33:04.827760569 +0000 UTC,62,1,2,4,... allows us to learn how our partners tick.
+510,69,11,QA5,2,2024-11-05 16:33:04.827760569 +0000 UTC,62,3,3,5,... makes it possible to clarify our mutual expectations.
+630,76,11,QA5,2,2024-11-13 15:57:37.992276685 +0000 UTC,81,6,1,3,... provides us with a platform to pursue our interests.
+630,76,11,QA5,2,2024-11-13 15:57:37.992276685 +0000 UTC,81,3,2,4,... makes it possible to clarify our mutual expectations.
+630,76,11,QA5,2,2024-11-13 15:57:37.992276685 +0000 UTC,81,2,3,5,... enables to build trust between our counterparts and us.
+630,76,11,QA5,2,2024-11-13 15:57:37.992276685 +0000 UTC,81,8,2,4,... allows for expressing concerns about developments.
+630,76,11,QA5,2,2024-11-13 15:57:37.992276685 +0000 UTC,81,11,2,4,... allows us to see if we share similar values.
+630,76,11,QA5,2,2024-11-13 15:57:37.992276685 +0000 UTC,81,10,3,5,... allows our partners to learn how the EU ticks.
+630,76,11,QA5,2,2024-11-13 15:57:37.992276685 +0000 UTC,81,5,2,4,... increases the chances that our objectives and policies are understood.
+630,76,11,QA5,2,2024-11-13 15:57:37.992276685 +0000 UTC,81,7,2,4,... allows for the exchange of information.
+630,76,11,QA5,2,2024-11-13 15:57:37.992276685 +0000 UTC,81,9,2,4,... allows us to communicate our position on a particular situation.
+630,76,11,QA5,2,2024-11-13 15:57:37.992276685 +0000 UTC,81,1,3,5,... allows us to learn how our partners tick.
+630,76,11,QA5,2,2024-11-13 15:57:37.992276685 +0000 UTC,81,4,1,3,... allows differences to be expressed and discussed.
+658,94,11,QA5,2,2024-11-14 09:24:15.60402802 +0000 UTC,133,6,98,6,... provides us with a platform to pursue our interests.
+658,94,11,QA5,2,2024-11-14 09:24:15.60402802 +0000 UTC,133,3,1,3,... makes it possible to clarify our mutual expectations.
+658,94,11,QA5,2,2024-11-14 09:24:15.60402802 +0000 UTC,133,2,98,6,... enables to build trust between our counterparts and us.
+658,94,11,QA5,2,2024-11-14 09:24:15.60402802 +0000 UTC,133,8,1,3,... allows for expressing concerns about developments.
+658,94,11,QA5,2,2024-11-14 09:24:15.60402802 +0000 UTC,133,11,1,3,... allows us to see if we share similar values.
+658,94,11,QA5,2,2024-11-14 09:24:15.60402802 +0000 UTC,133,10,1,3,... allows our partners to learn how the EU ticks.
+658,94,11,QA5,2,2024-11-14 09:24:15.60402802 +0000 UTC,133,5,1,3,... increases the chances that our objectives and policies are understood.
+658,94,11,QA5,2,2024-11-14 09:24:15.60402802 +0000 UTC,133,7,1,3,... allows for the exchange of information.
+658,94,11,QA5,2,2024-11-14 09:24:15.60402802 +0000 UTC,133,9,1,3,... allows us to communicate our position on a particular situation.
+658,94,11,QA5,2,2024-11-14 09:24:15.60402802 +0000 UTC,133,1,1,3,... allows us to learn how our partners tick.
+658,94,11,QA5,2,2024-11-14 09:24:15.60402802 +0000 UTC,133,4,1,3,... allows differences to be expressed and discussed.
+686,95,11,QA5,2,2024-11-14 10:01:05.41111656 +0000 UTC,30,6,98,6,... provides us with a platform to pursue our interests.
+686,95,11,QA5,2,2024-11-14 10:01:05.41111656 +0000 UTC,30,3,98,6,... makes it possible to clarify our mutual expectations.
+686,95,11,QA5,2,2024-11-14 10:01:05.41111656 +0000 UTC,30,2,98,6,... enables to build trust between our counterparts and us.
+686,95,11,QA5,2,2024-11-14 10:01:05.41111656 +0000 UTC,30,8,98,6,... allows for expressing concerns about developments.
+686,95,11,QA5,2,2024-11-14 10:01:05.41111656 +0000 UTC,30,11,98,6,... allows us to see if we share similar values.
+686,95,11,QA5,2,2024-11-14 10:01:05.41111656 +0000 UTC,30,10,98,6,... allows our partners to learn how the EU ticks.
+686,95,11,QA5,2,2024-11-14 10:01:05.41111656 +0000 UTC,30,5,98,6,... increases the chances that our objectives and policies are understood.
+686,95,11,QA5,2,2024-11-14 10:01:05.41111656 +0000 UTC,30,7,98,6,... allows for the exchange of information.
+686,95,11,QA5,2,2024-11-14 10:01:05.41111656 +0000 UTC,30,9,98,6,... allows us to communicate our position on a particular situation.
+686,95,11,QA5,2,2024-11-14 10:01:05.41111656 +0000 UTC,30,1,98,6,... allows us to learn how our partners tick.
+686,95,11,QA5,2,2024-11-14 10:01:05.41111656 +0000 UTC,30,4,98,6,... allows differences to be expressed and discussed.
+729,98,11,QA5,2,2024-11-21 10:25:22.854406208 +0000 UTC,49,6,1,3,... provides us with a platform to pursue our interests.
+729,98,11,QA5,2,2024-11-21 10:25:22.854406208 +0000 UTC,49,5,2,4,... increases the chances that our objectives and policies are understood.
+729,98,11,QA5,2,2024-11-21 10:25:22.854406208 +0000 UTC,49,8,2,4,... allows for expressing concerns about developments.
+729,98,11,QA5,2,2024-11-21 10:25:22.854406208 +0000 UTC,49,11,1,3,... allows us to see if we share similar values.
+729,98,11,QA5,2,2024-11-21 10:25:22.854406208 +0000 UTC,49,2,1,3,... enables to build trust between our counterparts and us.
+729,98,11,QA5,2,2024-11-21 10:25:22.854406208 +0000 UTC,49,1,1,3,... allows us to learn how our partners tick.
+729,98,11,QA5,2,2024-11-21 10:25:22.854406208 +0000 UTC,49,4,2,4,... allows differences to be expressed and discussed.
+729,98,11,QA5,2,2024-11-21 10:25:22.854406208 +0000 UTC,49,10,2,4,... allows our partners to learn how the EU ticks.
+729,98,11,QA5,2,2024-11-21 10:25:22.854406208 +0000 UTC,49,3,1,3,... makes it possible to clarify our mutual expectations.
+729,98,11,QA5,2,2024-11-21 10:25:22.854406208 +0000 UTC,49,9,2,4,... allows us to communicate our position on a particular situation.
+729,98,11,QA5,2,2024-11-21 10:25:22.854406208 +0000 UTC,49,7,2,4,... allows for the exchange of information.
+779,102,11,QA5,2,2024-11-27 14:56:48.339911437 +0000 UTC,59,6,2,4,... provides us with a platform to pursue our interests.
+779,102,11,QA5,2,2024-11-27 14:56:48.339911437 +0000 UTC,59,5,3,5,... increases the chances that our objectives and policies are understood.
+779,102,11,QA5,2,2024-11-27 14:56:48.339911437 +0000 UTC,59,8,3,5,... allows for expressing concerns about developments.
+779,102,11,QA5,2,2024-11-27 14:56:48.339911437 +0000 UTC,59,11,1,3,... allows us to see if we share similar values.
+779,102,11,QA5,2,2024-11-27 14:56:48.339911437 +0000 UTC,59,2,3,5,... enables to build trust between our counterparts and us.
+779,102,11,QA5,2,2024-11-27 14:56:48.339911437 +0000 UTC,59,1,3,5,... allows us to learn how our partners tick.
+779,102,11,QA5,2,2024-11-27 14:56:48.339911437 +0000 UTC,59,4,3,5,... allows differences to be expressed and discussed.
+779,102,11,QA5,2,2024-11-27 14:56:48.339911437 +0000 UTC,59,10,3,5,... allows our partners to learn how the EU ticks.
+779,102,11,QA5,2,2024-11-27 14:56:48.339911437 +0000 UTC,59,3,3,5,... makes it possible to clarify our mutual expectations.
+779,102,11,QA5,2,2024-11-27 14:56:48.339911437 +0000 UTC,59,9,3,5,... allows us to communicate our position on a particular situation.
+779,102,11,QA5,2,2024-11-27 14:56:48.339911437 +0000 UTC,59,7,98,6,... allows for the exchange of information.
+807,103,11,QA5,2,2024-11-27 16:46:40.838569889 +0000 UTC,41,6,-1,2,... provides us with a platform to pursue our interests.
+807,103,11,QA5,2,2024-11-27 16:46:40.838569889 +0000 UTC,41,5,1,3,... increases the chances that our objectives and policies are understood.
+807,103,11,QA5,2,2024-11-27 16:46:40.838569889 +0000 UTC,41,8,2,4,... allows for expressing concerns about developments.
+807,103,11,QA5,2,2024-11-27 16:46:40.838569889 +0000 UTC,41,11,2,4,... allows us to see if we share similar values.
+807,103,11,QA5,2,2024-11-27 16:46:40.838569889 +0000 UTC,41,2,2,4,... enables to build trust between our counterparts and us.
+807,103,11,QA5,2,2024-11-27 16:46:40.838569889 +0000 UTC,41,1,3,5,... allows us to learn how our partners tick.
+807,103,11,QA5,2,2024-11-27 16:46:40.838569889 +0000 UTC,41,4,3,5,... allows differences to be expressed and discussed.
+807,103,11,QA5,2,2024-11-27 16:46:40.838569889 +0000 UTC,41,10,3,5,... allows our partners to learn how the EU ticks.
+807,103,11,QA5,2,2024-11-27 16:46:40.838569889 +0000 UTC,41,3,3,5,... makes it possible to clarify our mutual expectations.
+807,103,11,QA5,2,2024-11-27 16:46:40.838569889 +0000 UTC,41,9,3,5,... allows us to communicate our position on a particular situation.
+807,103,11,QA5,2,2024-11-27 16:46:40.838569889 +0000 UTC,41,7,3,5,... allows for the exchange of information.
+849,108,11,QA5,2,2024-12-02 07:38:46.519427362 +0000 UTC,84,6,2,4,... provides us with a platform to pursue our interests.
+849,108,11,QA5,2,2024-12-02 07:38:46.519427362 +0000 UTC,84,5,2,4,... increases the chances that our objectives and policies are understood.
+849,108,11,QA5,2,2024-12-02 07:38:46.519427362 +0000 UTC,84,8,3,5,... allows for expressing concerns about developments.
+849,108,11,QA5,2,2024-12-02 07:38:46.519427362 +0000 UTC,84,11,98,6,... allows us to see if we share similar values.
+849,108,11,QA5,2,2024-12-02 07:38:46.519427362 +0000 UTC,84,2,3,5,... enables to build trust between our counterparts and us.
+849,108,11,QA5,2,2024-12-02 07:38:46.519427362 +0000 UTC,84,1,2,4,... allows us to learn how our partners tick.
+849,108,11,QA5,2,2024-12-02 07:38:46.519427362 +0000 UTC,84,4,2,4,... allows differences to be expressed and discussed.
+849,108,11,QA5,2,2024-12-02 07:38:46.519427362 +0000 UTC,84,10,3,5,... allows our partners to learn how the EU ticks.
+849,108,11,QA5,2,2024-12-02 07:38:46.519427362 +0000 UTC,84,3,3,5,... makes it possible to clarify our mutual expectations.
+849,108,11,QA5,2,2024-12-02 07:38:46.519427362 +0000 UTC,84,9,3,5,... allows us to communicate our position on a particular situation.
+849,108,11,QA5,2,2024-12-02 07:38:46.519427362 +0000 UTC,84,7,3,5,... allows for the exchange of information.
+887,115,11,QA5,2,2024-12-10 16:06:27.602184056 +0000 UTC,67,6,-1,2,... provides us with a platform to pursue our interests.
+887,115,11,QA5,2,2024-12-10 16:06:27.602184056 +0000 UTC,67,5,3,5,... increases the chances that our objectives and policies are understood.
+887,115,11,QA5,2,2024-12-10 16:06:27.602184056 +0000 UTC,67,8,3,5,... allows for expressing concerns about developments.
+887,115,11,QA5,2,2024-12-10 16:06:27.602184056 +0000 UTC,67,11,3,5,... allows us to see if we share similar values.
+887,115,11,QA5,2,2024-12-10 16:06:27.602184056 +0000 UTC,67,2,3,5,... enables to build trust between our counterparts and us.
+887,115,11,QA5,2,2024-12-10 16:06:27.602184056 +0000 UTC,67,1,3,5,... allows us to learn how our partners tick.
+887,115,11,QA5,2,2024-12-10 16:06:27.602184056 +0000 UTC,67,4,3,5,... allows differences to be expressed and discussed.
+887,115,11,QA5,2,2024-12-10 16:06:27.602184056 +0000 UTC,67,10,3,5,... allows our partners to learn how the EU ticks.
+887,115,11,QA5,2,2024-12-10 16:06:27.602184056 +0000 UTC,67,3,3,5,... makes it possible to clarify our mutual expectations.
+887,115,11,QA5,2,2024-12-10 16:06:27.602184056 +0000 UTC,67,9,3,5,... allows us to communicate our position on a particular situation.
+887,115,11,QA5,2,2024-12-10 16:06:27.602184056 +0000 UTC,67,7,3,5,... allows for the exchange of information.
+922,117,11,QA5,2,2024-12-11 13:01:40.678654911 +0000 UTC,80,6,2,4,... provides us with a platform to pursue our interests.
+922,117,11,QA5,2,2024-12-11 13:01:40.678654911 +0000 UTC,80,5,3,5,... increases the chances that our objectives and policies are understood.
+922,117,11,QA5,2,2024-12-11 13:01:40.678654911 +0000 UTC,80,8,2,4,... allows for expressing concerns about developments.
+922,117,11,QA5,2,2024-12-11 13:01:40.678654911 +0000 UTC,80,11,2,4,... allows us to see if we share similar values.
+922,117,11,QA5,2,2024-12-11 13:01:40.678654911 +0000 UTC,80,2,2,4,... enables to build trust between our counterparts and us.
+922,117,11,QA5,2,2024-12-11 13:01:40.678654911 +0000 UTC,80,1,3,5,... allows us to learn how our partners tick.
+922,117,11,QA5,2,2024-12-11 13:01:40.678654911 +0000 UTC,80,4,-1,2,... allows differences to be expressed and discussed.
+922,117,11,QA5,2,2024-12-11 13:01:40.678654911 +0000 UTC,80,10,2,4,... allows our partners to learn how the EU ticks.
+922,117,11,QA5,2,2024-12-11 13:01:40.678654911 +0000 UTC,80,3,1,3,... makes it possible to clarify our mutual expectations.
+922,117,11,QA5,2,2024-12-11 13:01:40.678654911 +0000 UTC,80,9,2,4,... allows us to communicate our position on a particular situation.
+922,117,11,QA5,2,2024-12-11 13:01:40.678654911 +0000 UTC,80,7,98,6,... allows for the exchange of information.
+953,119,11,QA5,2,2024-12-11 14:15:27.08378533 +0000 UTC,85,6,2,4,... provides us with a platform to pursue our interests.
+953,119,11,QA5,2,2024-12-11 14:15:27.08378533 +0000 UTC,85,5,-1,2,... increases the chances that our objectives and policies are understood.
+953,119,11,QA5,2,2024-12-11 14:15:27.08378533 +0000 UTC,85,8,3,5,... allows for expressing concerns about developments.
+953,119,11,QA5,2,2024-12-11 14:15:27.08378533 +0000 UTC,85,11,3,5,... allows us to see if we share similar values.
+953,119,11,QA5,2,2024-12-11 14:15:27.08378533 +0000 UTC,85,2,3,5,... enables to build trust between our counterparts and us.
+953,119,11,QA5,2,2024-12-11 14:15:27.08378533 +0000 UTC,85,1,3,5,... allows us to learn how our partners tick.
+953,119,11,QA5,2,2024-12-11 14:15:27.08378533 +0000 UTC,85,4,2,4,... allows differences to be expressed and discussed.
+953,119,11,QA5,2,2024-12-11 14:15:27.08378533 +0000 UTC,85,10,2,4,... allows our partners to learn how the EU ticks.
+953,119,11,QA5,2,2024-12-11 14:15:27.08378533 +0000 UTC,85,3,3,5,... makes it possible to clarify our mutual expectations.
+953,119,11,QA5,2,2024-12-11 14:15:27.08378533 +0000 UTC,85,9,3,5,... allows us to communicate our position on a particular situation.
+953,119,11,QA5,2,2024-12-11 14:15:27.08378533 +0000 UTC,85,7,3,5,... allows for the exchange of information.
+1059,132,11,QA5,2,2024-12-17 11:34:38.946593994 +0000 UTC,59,6,1,3,... provides us with a platform to pursue our interests.
+1059,132,11,QA5,2,2024-12-17 11:34:38.946593994 +0000 UTC,59,5,2,4,... increases the chances that our objectives and policies are understood.
+1059,132,11,QA5,2,2024-12-17 11:34:38.946593994 +0000 UTC,59,8,-1,2,... allows for expressing concerns about developments.
+1059,132,11,QA5,2,2024-12-17 11:34:38.946593994 +0000 UTC,59,11,1,3,... allows us to see if we share similar values.
+1059,132,11,QA5,2,2024-12-17 11:34:38.946593994 +0000 UTC,59,2,1,3,... enables to build trust between our counterparts and us.
+1059,132,11,QA5,2,2024-12-17 11:34:38.946593994 +0000 UTC,59,1,1,3,... allows us to learn how our partners tick.
+1059,132,11,QA5,2,2024-12-17 11:34:38.946593994 +0000 UTC,59,4,-1,2,... allows differences to be expressed and discussed.
+1059,132,11,QA5,2,2024-12-17 11:34:38.946593994 +0000 UTC,59,10,1,3,... allows our partners to learn how the EU ticks.
+1059,132,11,QA5,2,2024-12-17 11:34:38.946593994 +0000 UTC,59,3,1,3,... makes it possible to clarify our mutual expectations.
+1059,132,11,QA5,2,2024-12-17 11:34:38.946593994 +0000 UTC,59,9,-1,2,... allows us to communicate our position on a particular situation.
+1059,132,11,QA5,2,2024-12-17 11:34:38.946593994 +0000 UTC,59,7,1,3,... allows for the exchange of information.
+1182,148,11,QA5,2,2025-01-05 16:36:11.561944248 +0000 UTC,58,6,3,5,... provides us with a platform to pursue our interests.
+1182,148,11,QA5,2,2025-01-05 16:36:11.561944248 +0000 UTC,58,5,3,5,... increases the chances that our objectives and policies are understood.
+1182,148,11,QA5,2,2025-01-05 16:36:11.561944248 +0000 UTC,58,8,3,5,... allows for expressing concerns about developments.
+1182,148,11,QA5,2,2025-01-05 16:36:11.561944248 +0000 UTC,58,11,2,4,... allows us to see if we share similar values.
+1182,148,11,QA5,2,2025-01-05 16:36:11.561944248 +0000 UTC,58,2,2,4,... enables to build trust between our counterparts and us.
+1182,148,11,QA5,2,2025-01-05 16:36:11.561944248 +0000 UTC,58,1,3,5,... allows us to learn how our partners tick.
+1182,148,11,QA5,2,2025-01-05 16:36:11.561944248 +0000 UTC,58,4,2,4,... allows differences to be expressed and discussed.
+1182,148,11,QA5,2,2025-01-05 16:36:11.561944248 +0000 UTC,58,10,1,3,... allows our partners to learn how the EU ticks.
+1182,148,11,QA5,2,2025-01-05 16:36:11.561944248 +0000 UTC,58,3,3,5,... makes it possible to clarify our mutual expectations.
+1182,148,11,QA5,2,2025-01-05 16:36:11.561944248 +0000 UTC,58,9,2,4,... allows us to communicate our position on a particular situation.
+1182,148,11,QA5,2,2025-01-05 16:36:11.561944248 +0000 UTC,58,7,3,5,... allows for the exchange of information.
+1210,149,11,QA5,2,2025-01-05 16:53:28.947825736 +0000 UTC,13,6,1,3,... provides us with a platform to pursue our interests.
+1210,149,11,QA5,2,2025-01-05 16:53:28.947825736 +0000 UTC,13,5,1,3,... increases the chances that our objectives and policies are understood.
+1210,149,11,QA5,2,2025-01-05 16:53:28.947825736 +0000 UTC,13,8,1,3,... allows for expressing concerns about developments.
+1210,149,11,QA5,2,2025-01-05 16:53:28.947825736 +0000 UTC,13,11,-1,2,... allows us to see if we share similar values.
+1210,149,11,QA5,2,2025-01-05 16:53:28.947825736 +0000 UTC,13,2,1,3,... enables to build trust between our counterparts and us.
+1210,149,11,QA5,2,2025-01-05 16:53:28.947825736 +0000 UTC,13,1,-1,2,... allows us to learn how our partners tick.
+1210,149,11,QA5,2,2025-01-05 16:53:28.947825736 +0000 UTC,13,4,1,3,... allows differences to be expressed and discussed.
+1210,149,11,QA5,2,2025-01-05 16:53:28.947825736 +0000 UTC,13,10,2,4,... allows our partners to learn how the EU ticks.
+1210,149,11,QA5,2,2025-01-05 16:53:28.947825736 +0000 UTC,13,3,1,3,... makes it possible to clarify our mutual expectations.
+1210,149,11,QA5,2,2025-01-05 16:53:28.947825736 +0000 UTC,13,9,-1,2,... allows us to communicate our position on a particular situation.
+1210,149,11,QA5,2,2025-01-05 16:53:28.947825736 +0000 UTC,13,7,1,3,... allows for the exchange of information.
+1240,151,11,QA5,2,2025-01-05 17:15:04.280370922 +0000 UTC,15,6,1,3,... provides us with a platform to pursue our interests.
+1240,151,11,QA5,2,2025-01-05 17:15:04.280370922 +0000 UTC,15,5,1,3,... increases the chances that our objectives and policies are understood.
+1240,151,11,QA5,2,2025-01-05 17:15:04.280370922 +0000 UTC,15,8,-1,2,... allows for expressing concerns about developments.
+1240,151,11,QA5,2,2025-01-05 17:15:04.280370922 +0000 UTC,15,11,1,3,... allows us to see if we share similar values.
+1240,151,11,QA5,2,2025-01-05 17:15:04.280370922 +0000 UTC,15,2,2,4,... enables to build trust between our counterparts and us.
+1240,151,11,QA5,2,2025-01-05 17:15:04.280370922 +0000 UTC,15,1,3,5,... allows us to learn how our partners tick.
+1240,151,11,QA5,2,2025-01-05 17:15:04.280370922 +0000 UTC,15,4,2,4,... allows differences to be expressed and discussed.
+1240,151,11,QA5,2,2025-01-05 17:15:04.280370922 +0000 UTC,15,10,2,4,... allows our partners to learn how the EU ticks.
+1240,151,11,QA5,2,2025-01-05 17:15:04.280370922 +0000 UTC,15,3,3,5,... makes it possible to clarify our mutual expectations.
+1240,151,11,QA5,2,2025-01-05 17:15:04.280370922 +0000 UTC,15,9,2,4,... allows us to communicate our position on a particular situation.
+1240,151,11,QA5,2,2025-01-05 17:15:04.280370922 +0000 UTC,15,7,1,3,... allows for the exchange of information.
+1268,152,11,QA5,2,2025-01-05 17:21:29.66571833 +0000 UTC,17,6,2,4,... provides us with a platform to pursue our interests.
+1268,152,11,QA5,2,2025-01-05 17:21:29.66571833 +0000 UTC,17,5,2,4,... increases the chances that our objectives and policies are understood.
+1268,152,11,QA5,2,2025-01-05 17:21:29.66571833 +0000 UTC,17,8,1,3,... allows for expressing concerns about developments.
+1268,152,11,QA5,2,2025-01-05 17:21:29.66571833 +0000 UTC,17,11,2,4,... allows us to see if we share similar values.
+1268,152,11,QA5,2,2025-01-05 17:21:29.66571833 +0000 UTC,17,2,1,3,... enables to build trust between our counterparts and us.
+1268,152,11,QA5,2,2025-01-05 17:21:29.66571833 +0000 UTC,17,1,2,4,... allows us to learn how our partners tick.
+1268,152,11,QA5,2,2025-01-05 17:21:29.66571833 +0000 UTC,17,4,2,4,... allows differences to be expressed and discussed.
+1268,152,11,QA5,2,2025-01-05 17:21:29.66571833 +0000 UTC,17,10,1,3,... allows our partners to learn how the EU ticks.
+1268,152,11,QA5,2,2025-01-05 17:21:29.66571833 +0000 UTC,17,3,3,5,... makes it possible to clarify our mutual expectations.
+1268,152,11,QA5,2,2025-01-05 17:21:29.66571833 +0000 UTC,17,9,3,5,... allows us to communicate our position on a particular situation.
+1268,152,11,QA5,2,2025-01-05 17:21:29.66571833 +0000 UTC,17,7,3,5,... allows for the exchange of information.
+1296,153,11,QA5,2,2025-01-05 17:29:30.709416407 +0000 UTC,14,6,-1,2,... provides us with a platform to pursue our interests.
+1296,153,11,QA5,2,2025-01-05 17:29:30.709416407 +0000 UTC,14,5,-1,2,... increases the chances that our objectives and policies are understood.
+1296,153,11,QA5,2,2025-01-05 17:29:30.709416407 +0000 UTC,14,8,-2,1,... allows for expressing concerns about developments.
+1296,153,11,QA5,2,2025-01-05 17:29:30.709416407 +0000 UTC,14,11,-1,2,... allows us to see if we share similar values.
+1296,153,11,QA5,2,2025-01-05 17:29:30.709416407 +0000 UTC,14,2,1,3,... enables to build trust between our counterparts and us.
+1296,153,11,QA5,2,2025-01-05 17:29:30.709416407 +0000 UTC,14,1,-1,2,... allows us to learn how our partners tick.
+1296,153,11,QA5,2,2025-01-05 17:29:30.709416407 +0000 UTC,14,4,2,4,... allows differences to be expressed and discussed.
+1296,153,11,QA5,2,2025-01-05 17:29:30.709416407 +0000 UTC,14,10,2,4,... allows our partners to learn how the EU ticks.
+1296,153,11,QA5,2,2025-01-05 17:29:30.709416407 +0000 UTC,14,3,-1,2,... makes it possible to clarify our mutual expectations.
+1296,153,11,QA5,2,2025-01-05 17:29:30.709416407 +0000 UTC,14,9,1,3,... allows us to communicate our position on a particular situation.
+1296,153,11,QA5,2,2025-01-05 17:29:30.709416407 +0000 UTC,14,7,2,4,... allows for the exchange of information.
+1324,154,11,QA5,2,2025-01-05 17:36:07.285746937 +0000 UTC,49,6,2,4,... provides us with a platform to pursue our interests.
+1324,154,11,QA5,2,2025-01-05 17:36:07.285746937 +0000 UTC,49,5,1,3,... increases the chances that our objectives and policies are understood.
+1324,154,11,QA5,2,2025-01-05 17:36:07.285746937 +0000 UTC,49,8,1,3,... allows for expressing concerns about developments.
+1324,154,11,QA5,2,2025-01-05 17:36:07.285746937 +0000 UTC,49,11,1,3,... allows us to see if we share similar values.
+1324,154,11,QA5,2,2025-01-05 17:36:07.285746937 +0000 UTC,49,2,1,3,... enables to build trust between our counterparts and us.
+1324,154,11,QA5,2,2025-01-05 17:36:07.285746937 +0000 UTC,49,1,1,3,... allows us to learn how our partners tick.
+1324,154,11,QA5,2,2025-01-05 17:36:07.285746937 +0000 UTC,49,4,2,4,... allows differences to be expressed and discussed.
+1324,154,11,QA5,2,2025-01-05 17:36:07.285746937 +0000 UTC,49,10,2,4,... allows our partners to learn how the EU ticks.
+1324,154,11,QA5,2,2025-01-05 17:36:07.285746937 +0000 UTC,49,3,3,5,... makes it possible to clarify our mutual expectations.
+1324,154,11,QA5,2,2025-01-05 17:36:07.285746937 +0000 UTC,49,9,2,4,... allows us to communicate our position on a particular situation.
+1324,154,11,QA5,2,2025-01-05 17:36:07.285746937 +0000 UTC,49,7,1,3,... allows for the exchange of information.
+1352,155,11,QA5,2,2025-01-05 18:32:33.433470515 +0000 UTC,12,6,2,4,... provides us with a platform to pursue our interests.
+1352,155,11,QA5,2,2025-01-05 18:32:33.433470515 +0000 UTC,12,5,1,3,... increases the chances that our objectives and policies are understood.
+1352,155,11,QA5,2,2025-01-05 18:32:33.433470515 +0000 UTC,12,8,2,4,... allows for expressing concerns about developments.
+1352,155,11,QA5,2,2025-01-05 18:32:33.433470515 +0000 UTC,12,11,2,4,... allows us to see if we share similar values.
+1352,155,11,QA5,2,2025-01-05 18:32:33.433470515 +0000 UTC,12,2,1,3,... enables to build trust between our counterparts and us.
+1352,155,11,QA5,2,2025-01-05 18:32:33.433470515 +0000 UTC,12,1,-1,2,... allows us to learn how our partners tick.
+1352,155,11,QA5,2,2025-01-05 18:32:33.433470515 +0000 UTC,12,4,1,3,... allows differences to be expressed and discussed.
+1352,155,11,QA5,2,2025-01-05 18:32:33.433470515 +0000 UTC,12,10,2,4,... allows our partners to learn how the EU ticks.
+1352,155,11,QA5,2,2025-01-05 18:32:33.433470515 +0000 UTC,12,3,3,5,... makes it possible to clarify our mutual expectations.
+1352,155,11,QA5,2,2025-01-05 18:32:33.433470515 +0000 UTC,12,9,2,4,... allows us to communicate our position on a particular situation.
+1352,155,11,QA5,2,2025-01-05 18:32:33.433470515 +0000 UTC,12,7,2,4,... allows for the exchange of information.
+1380,156,11,QA5,2,2025-01-05 18:37:21.019164769 +0000 UTC,12,6,1,3,... provides us with a platform to pursue our interests.
+1380,156,11,QA5,2,2025-01-05 18:37:21.019164769 +0000 UTC,12,5,1,3,... increases the chances that our objectives and policies are understood.
+1380,156,11,QA5,2,2025-01-05 18:37:21.019164769 +0000 UTC,12,8,2,4,... allows for expressing concerns about developments.
+1380,156,11,QA5,2,2025-01-05 18:37:21.019164769 +0000 UTC,12,11,2,4,... allows us to see if we share similar values.
+1380,156,11,QA5,2,2025-01-05 18:37:21.019164769 +0000 UTC,12,2,1,3,... enables to build trust between our counterparts and us.
+1380,156,11,QA5,2,2025-01-05 18:37:21.019164769 +0000 UTC,12,1,2,4,... allows us to learn how our partners tick.
+1380,156,11,QA5,2,2025-01-05 18:37:21.019164769 +0000 UTC,12,4,3,5,... allows differences to be expressed and discussed.
+1380,156,11,QA5,2,2025-01-05 18:37:21.019164769 +0000 UTC,12,10,1,3,... allows our partners to learn how the EU ticks.
+1380,156,11,QA5,2,2025-01-05 18:37:21.019164769 +0000 UTC,12,3,2,4,... makes it possible to clarify our mutual expectations.
+1380,156,11,QA5,2,2025-01-05 18:37:21.019164769 +0000 UTC,12,9,3,5,... allows us to communicate our position on a particular situation.
+1380,156,11,QA5,2,2025-01-05 18:37:21.019164769 +0000 UTC,12,7,3,5,... allows for the exchange of information.
+1408,157,11,QA5,2,2025-01-05 18:48:12.488173271 +0000 UTC,10,6,1,3,... provides us with a platform to pursue our interests.
+1408,157,11,QA5,2,2025-01-05 18:48:12.488173271 +0000 UTC,10,5,2,4,... increases the chances that our objectives and policies are understood.
+1408,157,11,QA5,2,2025-01-05 18:48:12.488173271 +0000 UTC,10,8,2,4,... allows for expressing concerns about developments.
+1408,157,11,QA5,2,2025-01-05 18:48:12.488173271 +0000 UTC,10,11,1,3,... allows us to see if we share similar values.
+1408,157,11,QA5,2,2025-01-05 18:48:12.488173271 +0000 UTC,10,2,1,3,... enables to build trust between our counterparts and us.
+1408,157,11,QA5,2,2025-01-05 18:48:12.488173271 +0000 UTC,10,1,2,4,... allows us to learn how our partners tick.
+1408,157,11,QA5,2,2025-01-05 18:48:12.488173271 +0000 UTC,10,4,2,4,... allows differences to be expressed and discussed.
+1408,157,11,QA5,2,2025-01-05 18:48:12.488173271 +0000 UTC,10,10,3,5,... allows our partners to learn how the EU ticks.
+1408,157,11,QA5,2,2025-01-05 18:48:12.488173271 +0000 UTC,10,3,3,5,... makes it possible to clarify our mutual expectations.
+1408,157,11,QA5,2,2025-01-05 18:48:12.488173271 +0000 UTC,10,9,2,4,... allows us to communicate our position on a particular situation.
+1408,157,11,QA5,2,2025-01-05 18:48:12.488173271 +0000 UTC,10,7,2,4,... allows for the exchange of information.
+1436,158,11,QA5,2,2025-01-05 19:00:17.386579201 +0000 UTC,14,6,2,4,... provides us with a platform to pursue our interests.
+1436,158,11,QA5,2,2025-01-05 19:00:17.386579201 +0000 UTC,14,5,2,4,... increases the chances that our objectives and policies are understood.
+1436,158,11,QA5,2,2025-01-05 19:00:17.386579201 +0000 UTC,14,8,1,3,... allows for expressing concerns about developments.
+1436,158,11,QA5,2,2025-01-05 19:00:17.386579201 +0000 UTC,14,11,1,3,... allows us to see if we share similar values.
+1436,158,11,QA5,2,2025-01-05 19:00:17.386579201 +0000 UTC,14,2,2,4,... enables to build trust between our counterparts and us.
+1436,158,11,QA5,2,2025-01-05 19:00:17.386579201 +0000 UTC,14,1,3,5,... allows us to learn how our partners tick.
+1436,158,11,QA5,2,2025-01-05 19:00:17.386579201 +0000 UTC,14,4,3,5,... allows differences to be expressed and discussed.
+1436,158,11,QA5,2,2025-01-05 19:00:17.386579201 +0000 UTC,14,10,3,5,... allows our partners to learn how the EU ticks.
+1436,158,11,QA5,2,2025-01-05 19:00:17.386579201 +0000 UTC,14,3,2,4,... makes it possible to clarify our mutual expectations.
+1436,158,11,QA5,2,2025-01-05 19:00:17.386579201 +0000 UTC,14,9,2,4,... allows us to communicate our position on a particular situation.
+1436,158,11,QA5,2,2025-01-05 19:00:17.386579201 +0000 UTC,14,7,3,5,... allows for the exchange of information.
+1464,159,11,QA5,2,2025-01-05 19:04:10.741218234 +0000 UTC,14,6,2,4,... provides us with a platform to pursue our interests.
+1464,159,11,QA5,2,2025-01-05 19:04:10.741218234 +0000 UTC,14,5,3,5,... increases the chances that our objectives and policies are understood.
+1464,159,11,QA5,2,2025-01-05 19:04:10.741218234 +0000 UTC,14,8,3,5,... allows for expressing concerns about developments.
+1464,159,11,QA5,2,2025-01-05 19:04:10.741218234 +0000 UTC,14,11,2,4,... allows us to see if we share similar values.
+1464,159,11,QA5,2,2025-01-05 19:04:10.741218234 +0000 UTC,14,2,2,4,... enables to build trust between our counterparts and us.
+1464,159,11,QA5,2,2025-01-05 19:04:10.741218234 +0000 UTC,14,1,1,3,... allows us to learn how our partners tick.
+1464,159,11,QA5,2,2025-01-05 19:04:10.741218234 +0000 UTC,14,4,1,3,... allows differences to be expressed and discussed.
+1464,159,11,QA5,2,2025-01-05 19:04:10.741218234 +0000 UTC,14,10,1,3,... allows our partners to learn how the EU ticks.
+1464,159,11,QA5,2,2025-01-05 19:04:10.741218234 +0000 UTC,14,3,1,3,... makes it possible to clarify our mutual expectations.
+1464,159,11,QA5,2,2025-01-05 19:04:10.741218234 +0000 UTC,14,9,2,4,... allows us to communicate our position on a particular situation.
+1464,159,11,QA5,2,2025-01-05 19:04:10.741218234 +0000 UTC,14,7,3,5,... allows for the exchange of information.
+1492,160,11,QA5,2,2025-01-05 19:11:33.86143171 +0000 UTC,11,6,3,5,... provides us with a platform to pursue our interests.
+1492,160,11,QA5,2,2025-01-05 19:11:33.86143171 +0000 UTC,11,5,2,4,... increases the chances that our objectives and policies are understood.
+1492,160,11,QA5,2,2025-01-05 19:11:33.86143171 +0000 UTC,11,8,1,3,... allows for expressing concerns about developments.
+1492,160,11,QA5,2,2025-01-05 19:11:33.86143171 +0000 UTC,11,11,2,4,... allows us to see if we share similar values.
+1492,160,11,QA5,2,2025-01-05 19:11:33.86143171 +0000 UTC,11,2,2,4,... enables to build trust between our counterparts and us.
+1492,160,11,QA5,2,2025-01-05 19:11:33.86143171 +0000 UTC,11,1,2,4,... allows us to learn how our partners tick.
+1492,160,11,QA5,2,2025-01-05 19:11:33.86143171 +0000 UTC,11,4,3,5,... allows differences to be expressed and discussed.
+1492,160,11,QA5,2,2025-01-05 19:11:33.86143171 +0000 UTC,11,10,3,5,... allows our partners to learn how the EU ticks.
+1492,160,11,QA5,2,2025-01-05 19:11:33.86143171 +0000 UTC,11,3,2,4,... makes it possible to clarify our mutual expectations.
+1492,160,11,QA5,2,2025-01-05 19:11:33.86143171 +0000 UTC,11,9,1,3,... allows us to communicate our position on a particular situation.
+1492,160,11,QA5,2,2025-01-05 19:11:33.86143171 +0000 UTC,11,7,3,5,... allows for the exchange of information.
+1520,161,11,QA5,2,2025-01-05 19:23:38.878161879 +0000 UTC,8,6,3,5,... provides us with a platform to pursue our interests.
+1520,161,11,QA5,2,2025-01-05 19:23:38.878161879 +0000 UTC,8,5,2,4,... increases the chances that our objectives and policies are understood.
+1520,161,11,QA5,2,2025-01-05 19:23:38.878161879 +0000 UTC,8,8,3,5,... allows for expressing concerns about developments.
+1520,161,11,QA5,2,2025-01-05 19:23:38.878161879 +0000 UTC,8,11,3,5,... allows us to see if we share similar values.
+1520,161,11,QA5,2,2025-01-05 19:23:38.878161879 +0000 UTC,8,2,2,4,... enables to build trust between our counterparts and us.
+1520,161,11,QA5,2,2025-01-05 19:23:38.878161879 +0000 UTC,8,1,3,5,... allows us to learn how our partners tick.
+1520,161,11,QA5,2,2025-01-05 19:23:38.878161879 +0000 UTC,8,4,3,5,... allows differences to be expressed and discussed.
+1520,161,11,QA5,2,2025-01-05 19:23:38.878161879 +0000 UTC,8,10,2,4,... allows our partners to learn how the EU ticks.
+1520,161,11,QA5,2,2025-01-05 19:23:38.878161879 +0000 UTC,8,3,3,5,... makes it possible to clarify our mutual expectations.
+1520,161,11,QA5,2,2025-01-05 19:23:38.878161879 +0000 UTC,8,9,3,5,... allows us to communicate our position on a particular situation.
+1520,161,11,QA5,2,2025-01-05 19:23:38.878161879 +0000 UTC,8,7,3,5,... allows for the exchange of information.
+1548,162,11,QA5,2,2025-01-05 19:28:06.166085465 +0000 UTC,12,6,1,3,... provides us with a platform to pursue our interests.
+1548,162,11,QA5,2,2025-01-05 19:28:06.166085465 +0000 UTC,12,5,1,3,... increases the chances that our objectives and policies are understood.
+1548,162,11,QA5,2,2025-01-05 19:28:06.166085465 +0000 UTC,12,8,-1,2,... allows for expressing concerns about developments.
+1548,162,11,QA5,2,2025-01-05 19:28:06.166085465 +0000 UTC,12,11,1,3,... allows us to see if we share similar values.
+1548,162,11,QA5,2,2025-01-05 19:28:06.166085465 +0000 UTC,12,2,2,4,... enables to build trust between our counterparts and us.
+1548,162,11,QA5,2,2025-01-05 19:28:06.166085465 +0000 UTC,12,1,3,5,... allows us to learn how our partners tick.
+1548,162,11,QA5,2,2025-01-05 19:28:06.166085465 +0000 UTC,12,4,3,5,... allows differences to be expressed and discussed.
+1548,162,11,QA5,2,2025-01-05 19:28:06.166085465 +0000 UTC,12,10,2,4,... allows our partners to learn how the EU ticks.
+1548,162,11,QA5,2,2025-01-05 19:28:06.166085465 +0000 UTC,12,3,2,4,... makes it possible to clarify our mutual expectations.
+1548,162,11,QA5,2,2025-01-05 19:28:06.166085465 +0000 UTC,12,9,2,4,... allows us to communicate our position on a particular situation.
+1548,162,11,QA5,2,2025-01-05 19:28:06.166085465 +0000 UTC,12,7,3,5,... allows for the exchange of information.
+1579,164,11,QA5,2,2025-01-05 19:32:39.65656618 +0000 UTC,9,6,3,5,... provides us with a platform to pursue our interests.
+1579,164,11,QA5,2,2025-01-05 19:32:39.65656618 +0000 UTC,9,5,3,5,... increases the chances that our objectives and policies are understood.
+1579,164,11,QA5,2,2025-01-05 19:32:39.65656618 +0000 UTC,9,8,2,4,... allows for expressing concerns about developments.
+1579,164,11,QA5,2,2025-01-05 19:32:39.65656618 +0000 UTC,9,11,2,4,... allows us to see if we share similar values.
+1579,164,11,QA5,2,2025-01-05 19:32:39.65656618 +0000 UTC,9,2,2,4,... enables to build trust between our counterparts and us.
+1579,164,11,QA5,2,2025-01-05 19:32:39.65656618 +0000 UTC,9,1,2,4,... allows us to learn how our partners tick.
+1579,164,11,QA5,2,2025-01-05 19:32:39.65656618 +0000 UTC,9,4,3,5,... allows differences to be expressed and discussed.
+1579,164,11,QA5,2,2025-01-05 19:32:39.65656618 +0000 UTC,9,10,2,4,... allows our partners to learn how the EU ticks.
+1579,164,11,QA5,2,2025-01-05 19:32:39.65656618 +0000 UTC,9,3,1,3,... makes it possible to clarify our mutual expectations.
+1579,164,11,QA5,2,2025-01-05 19:32:39.65656618 +0000 UTC,9,9,2,4,... allows us to communicate our position on a particular situation.
+1579,164,11,QA5,2,2025-01-05 19:32:39.65656618 +0000 UTC,9,7,3,5,... allows for the exchange of information.
+1607,165,11,QA5,2,2025-01-05 19:41:23.213841443 +0000 UTC,8,6,2,4,... provides us with a platform to pursue our interests.
+1607,165,11,QA5,2,2025-01-05 19:41:23.213841443 +0000 UTC,8,5,2,4,... increases the chances that our objectives and policies are understood.
+1607,165,11,QA5,2,2025-01-05 19:41:23.213841443 +0000 UTC,8,8,3,5,... allows for expressing concerns about developments.
+1607,165,11,QA5,2,2025-01-05 19:41:23.213841443 +0000 UTC,8,11,3,5,... allows us to see if we share similar values.
+1607,165,11,QA5,2,2025-01-05 19:41:23.213841443 +0000 UTC,8,2,3,5,... enables to build trust between our counterparts and us.
+1607,165,11,QA5,2,2025-01-05 19:41:23.213841443 +0000 UTC,8,1,2,4,... allows us to learn how our partners tick.
+1607,165,11,QA5,2,2025-01-05 19:41:23.213841443 +0000 UTC,8,4,3,5,... allows differences to be expressed and discussed.
+1607,165,11,QA5,2,2025-01-05 19:41:23.213841443 +0000 UTC,8,10,3,5,... allows our partners to learn how the EU ticks.
+1607,165,11,QA5,2,2025-01-05 19:41:23.213841443 +0000 UTC,8,3,2,4,... makes it possible to clarify our mutual expectations.
+1607,165,11,QA5,2,2025-01-05 19:41:23.213841443 +0000 UTC,8,9,3,5,... allows us to communicate our position on a particular situation.
+1607,165,11,QA5,2,2025-01-05 19:41:23.213841443 +0000 UTC,8,7,3,5,... allows for the exchange of information.
+1635,166,11,QA5,2,2025-01-05 19:45:46.418906942 +0000 UTC,8,6,3,5,... provides us with a platform to pursue our interests.
+1635,166,11,QA5,2,2025-01-05 19:45:46.418906942 +0000 UTC,8,5,2,4,... increases the chances that our objectives and policies are understood.
+1635,166,11,QA5,2,2025-01-05 19:45:46.418906942 +0000 UTC,8,8,1,3,... allows for expressing concerns about developments.
+1635,166,11,QA5,2,2025-01-05 19:45:46.418906942 +0000 UTC,8,11,2,4,... allows us to see if we share similar values.
+1635,166,11,QA5,2,2025-01-05 19:45:46.418906942 +0000 UTC,8,2,3,5,... enables to build trust between our counterparts and us.
+1635,166,11,QA5,2,2025-01-05 19:45:46.418906942 +0000 UTC,8,1,2,4,... allows us to learn how our partners tick.
+1635,166,11,QA5,2,2025-01-05 19:45:46.418906942 +0000 UTC,8,4,2,4,... allows differences to be expressed and discussed.
+1635,166,11,QA5,2,2025-01-05 19:45:46.418906942 +0000 UTC,8,10,2,4,... allows our partners to learn how the EU ticks.
+1635,166,11,QA5,2,2025-01-05 19:45:46.418906942 +0000 UTC,8,3,3,5,... makes it possible to clarify our mutual expectations.
+1635,166,11,QA5,2,2025-01-05 19:45:46.418906942 +0000 UTC,8,9,3,5,... allows us to communicate our position on a particular situation.
+1635,166,11,QA5,2,2025-01-05 19:45:46.418906942 +0000 UTC,8,7,3,5,... allows for the exchange of information.
+1663,167,11,QA5,2,2025-01-05 19:50:02.306478405 +0000 UTC,8,6,3,5,... provides us with a platform to pursue our interests.
+1663,167,11,QA5,2,2025-01-05 19:50:02.306478405 +0000 UTC,8,5,2,4,... increases the chances that our objectives and policies are understood.
+1663,167,11,QA5,2,2025-01-05 19:50:02.306478405 +0000 UTC,8,8,3,5,... allows for expressing concerns about developments.
+1663,167,11,QA5,2,2025-01-05 19:50:02.306478405 +0000 UTC,8,11,2,4,... allows us to see if we share similar values.
+1663,167,11,QA5,2,2025-01-05 19:50:02.306478405 +0000 UTC,8,2,2,4,... enables to build trust between our counterparts and us.
+1663,167,11,QA5,2,2025-01-05 19:50:02.306478405 +0000 UTC,8,1,3,5,... allows us to learn how our partners tick.
+1663,167,11,QA5,2,2025-01-05 19:50:02.306478405 +0000 UTC,8,4,3,5,... allows differences to be expressed and discussed.
+1663,167,11,QA5,2,2025-01-05 19:50:02.306478405 +0000 UTC,8,10,2,4,... allows our partners to learn how the EU ticks.
+1663,167,11,QA5,2,2025-01-05 19:50:02.306478405 +0000 UTC,8,3,3,5,... makes it possible to clarify our mutual expectations.
+1663,167,11,QA5,2,2025-01-05 19:50:02.306478405 +0000 UTC,8,9,3,5,... allows us to communicate our position on a particular situation.
+1663,167,11,QA5,2,2025-01-05 19:50:02.306478405 +0000 UTC,8,7,3,5,... allows for the exchange of information.
+1691,168,11,QA5,2,2025-01-07 13:17:32.806625974 +0000 UTC,66,6,1,3,... provides us with a platform to pursue our interests.
+1691,168,11,QA5,2,2025-01-07 13:17:32.806625974 +0000 UTC,66,5,3,5,... increases the chances that our objectives and policies are understood.
+1691,168,11,QA5,2,2025-01-07 13:17:32.806625974 +0000 UTC,66,8,3,5,... allows for expressing concerns about developments.
+1691,168,11,QA5,2,2025-01-07 13:17:32.806625974 +0000 UTC,66,11,2,4,... allows us to see if we share similar values.
+1691,168,11,QA5,2,2025-01-07 13:17:32.806625974 +0000 UTC,66,2,3,5,... enables to build trust between our counterparts and us.
+1691,168,11,QA5,2,2025-01-07 13:17:32.806625974 +0000 UTC,66,1,2,4,... allows us to learn how our partners tick.
+1691,168,11,QA5,2,2025-01-07 13:17:32.806625974 +0000 UTC,66,4,-1,2,... allows differences to be expressed and discussed.
+1691,168,11,QA5,2,2025-01-07 13:17:32.806625974 +0000 UTC,66,10,-1,2,... allows our partners to learn how the EU ticks.
+1691,168,11,QA5,2,2025-01-07 13:17:32.806625974 +0000 UTC,66,3,-1,2,... makes it possible to clarify our mutual expectations.
+1691,168,11,QA5,2,2025-01-07 13:17:32.806625974 +0000 UTC,66,9,2,4,... allows us to communicate our position on a particular situation.
+1691,168,11,QA5,2,2025-01-07 13:17:32.806625974 +0000 UTC,66,7,3,5,... allows for the exchange of information.
+1719,169,11,QA5,2,2025-01-08 12:46:25.918231008 +0000 UTC,77,6,-1,2,... provides us with a platform to pursue our interests.
+1719,169,11,QA5,2,2025-01-08 12:46:25.918231008 +0000 UTC,77,5,1,3,... increases the chances that our objectives and policies are understood.
+1719,169,11,QA5,2,2025-01-08 12:46:25.918231008 +0000 UTC,77,8,1,3,... allows for expressing concerns about developments.
+1719,169,11,QA5,2,2025-01-08 12:46:25.918231008 +0000 UTC,77,11,2,4,... allows us to see if we share similar values.
+1719,169,11,QA5,2,2025-01-08 12:46:25.918231008 +0000 UTC,77,2,3,5,... enables to build trust between our counterparts and us.
+1719,169,11,QA5,2,2025-01-08 12:46:25.918231008 +0000 UTC,77,1,2,4,... allows us to learn how our partners tick.
+1719,169,11,QA5,2,2025-01-08 12:46:25.918231008 +0000 UTC,77,4,2,4,... allows differences to be expressed and discussed.
+1719,169,11,QA5,2,2025-01-08 12:46:25.918231008 +0000 UTC,77,10,2,4,... allows our partners to learn how the EU ticks.
+1719,169,11,QA5,2,2025-01-08 12:46:25.918231008 +0000 UTC,77,3,2,4,... makes it possible to clarify our mutual expectations.
+1719,169,11,QA5,2,2025-01-08 12:46:25.918231008 +0000 UTC,77,9,3,5,... allows us to communicate our position on a particular situation.
+1719,169,11,QA5,2,2025-01-08 12:46:25.918231008 +0000 UTC,77,7,3,5,... allows for the exchange of information.
+1747,170,11,QA5,2,2025-01-15 13:45:30.262866651 +0000 UTC,50,6,2,4,... provides us with a platform to pursue our interests.
+1747,170,11,QA5,2,2025-01-15 13:45:30.262866651 +0000 UTC,50,5,2,4,... increases the chances that our objectives and policies are understood.
+1747,170,11,QA5,2,2025-01-15 13:45:30.262866651 +0000 UTC,50,8,2,4,... allows for expressing concerns about developments.
+1747,170,11,QA5,2,2025-01-15 13:45:30.262866651 +0000 UTC,50,11,2,4,... allows us to see if we share similar values.
+1747,170,11,QA5,2,2025-01-15 13:45:30.262866651 +0000 UTC,50,2,3,5,... enables to build trust between our counterparts and us.
+1747,170,11,QA5,2,2025-01-15 13:45:30.262866651 +0000 UTC,50,1,3,5,... allows us to learn how our partners tick.
+1747,170,11,QA5,2,2025-01-15 13:45:30.262866651 +0000 UTC,50,4,2,4,... allows differences to be expressed and discussed.
+1747,170,11,QA5,2,2025-01-15 13:45:30.262866651 +0000 UTC,50,10,2,4,... allows our partners to learn how the EU ticks.
+1747,170,11,QA5,2,2025-01-15 13:45:30.262866651 +0000 UTC,50,3,2,4,... makes it possible to clarify our mutual expectations.
+1747,170,11,QA5,2,2025-01-15 13:45:30.262866651 +0000 UTC,50,9,2,4,... allows us to communicate our position on a particular situation.
+1747,170,11,QA5,2,2025-01-15 13:45:30.262866651 +0000 UTC,50,7,1,3,... allows for the exchange of information.
+1787,176,11,QA5,2,2025-01-28 20:31:24.593638172 +0000 UTC,53,1,3,5,"Es ermöglicht uns zu lernen, wie unsere Partner ticken."
+1787,176,11,QA5,2,2025-01-28 20:31:24.593638172 +0000 UTC,53,4,2,4,"Es ermöglicht, dass Unterschiede zum Ausdruck gebracht und diskutiert werden können."
+1787,176,11,QA5,2,2025-01-28 20:31:24.593638172 +0000 UTC,53,6,3,5,"Es bietet uns eine Plattform, um unsere Interessen zu verfolgen."
+1787,176,11,QA5,2,2025-01-28 20:31:24.593638172 +0000 UTC,53,7,2,4,Es ermöglicht den Austausch von Informationen.
+1787,176,11,QA5,2,2025-01-28 20:31:24.593638172 +0000 UTC,53,9,2,4,"Es ermöglicht uns, unseren Standpunkt zu einer bestimmten Situation mitzuteilen."
+1787,176,11,QA5,2,2025-01-28 20:31:24.593638172 +0000 UTC,53,5,1,3,"Es erhöht die Wahrscheinlichkeit, dass unsere Ziele und Strategien verstanden werden."
+1787,176,11,QA5,2,2025-01-28 20:31:24.593638172 +0000 UTC,53,11,1,3,"Es ermöglicht es uns zu sehen, ob wir ähnliche Werte teilen."
+1787,176,11,QA5,2,2025-01-28 20:31:24.593638172 +0000 UTC,53,2,1,3,Es ermöglicht den Aufbau von Vertrauen zwischen unseren Partner:innen und uns.
+1787,176,11,QA5,2,2025-01-28 20:31:24.593638172 +0000 UTC,53,10,-1,2,"Es ermöglicht unseren Partnern zu lernen, wie die EU funktioniert"
+1787,176,11,QA5,2,2025-01-28 20:31:24.593638172 +0000 UTC,53,3,1,3,"Es ermöglicht, unsere gegenseitigen Erwartungen zu klären."
+1787,176,11,QA5,2,2025-01-28 20:31:24.593638172 +0000 UTC,53,8,2,4,"Es ermöglicht, Bedenken über Entwicklungen zu äussern."
+1831,179,11,QA5,2,2025-01-28 22:49:55.277586714 +0000 UTC,24,6,98,6,... provides us with a platform to pursue our interests.
+1831,179,11,QA5,2,2025-01-28 22:49:55.277586714 +0000 UTC,24,5,98,6,... increases the chances that our objectives and policies are understood.
+1831,179,11,QA5,2,2025-01-28 22:49:55.277586714 +0000 UTC,24,8,98,6,... allows for expressing concerns about developments.
+1831,179,11,QA5,2,2025-01-28 22:49:55.277586714 +0000 UTC,24,11,98,6,... allows us to see if we share similar values.
+1831,179,11,QA5,2,2025-01-28 22:49:55.277586714 +0000 UTC,24,2,98,6,... enables to build trust between our counterparts and us.
+1831,179,11,QA5,2,2025-01-28 22:49:55.277586714 +0000 UTC,24,1,98,6,... allows us to learn how our partners tick.
+1831,179,11,QA5,2,2025-01-28 22:49:55.277586714 +0000 UTC,24,4,98,6,... allows differences to be expressed and discussed.
+1831,179,11,QA5,2,2025-01-28 22:49:55.277586714 +0000 UTC,24,10,98,6,... allows our partners to learn how the EU ticks.
+1831,179,11,QA5,2,2025-01-28 22:49:55.277586714 +0000 UTC,24,3,98,6,... makes it possible to clarify our mutual expectations.
+1831,179,11,QA5,2,2025-01-28 22:49:55.277586714 +0000 UTC,24,9,98,6,... allows us to communicate our position on a particular situation.
+1831,179,11,QA5,2,2025-01-28 22:49:55.277586714 +0000 UTC,24,7,98,6,... allows for the exchange of information.
+1935,191,11,QA5,2,2025-01-29 13:43:26.428889149 +0000 UTC,71,6,-2,1,... provides us with a platform to pursue our interests.
+1935,191,11,QA5,2,2025-01-29 13:43:26.428889149 +0000 UTC,71,5,3,5,... increases the chances that our objectives and policies are understood.
+1935,191,11,QA5,2,2025-01-29 13:43:26.428889149 +0000 UTC,71,8,3,5,... allows for expressing concerns about developments.
+1935,191,11,QA5,2,2025-01-29 13:43:26.428889149 +0000 UTC,71,11,3,5,... allows us to see if we share similar values.
+1935,191,11,QA5,2,2025-01-29 13:43:26.428889149 +0000 UTC,71,2,3,5,... enables to build trust between our counterparts and us.
+1935,191,11,QA5,2,2025-01-29 13:43:26.428889149 +0000 UTC,71,1,3,5,... allows us to learn how our partners tick.
+1935,191,11,QA5,2,2025-01-29 13:43:26.428889149 +0000 UTC,71,4,3,5,... allows differences to be expressed and discussed.
+1935,191,11,QA5,2,2025-01-29 13:43:26.428889149 +0000 UTC,71,10,3,5,... allows our partners to learn how the EU ticks.
+1935,191,11,QA5,2,2025-01-29 13:43:26.428889149 +0000 UTC,71,3,3,5,... makes it possible to clarify our mutual expectations.
+1935,191,11,QA5,2,2025-01-29 13:43:26.428889149 +0000 UTC,71,9,3,5,... allows us to communicate our position on a particular situation.
+1935,191,11,QA5,2,2025-01-29 13:43:26.428889149 +0000 UTC,71,7,3,5,... allows for the exchange of information.
+2023,199,11,QA5,2,2025-02-03 15:55:18.33948913 +0000 UTC,56,6,2,4,... provides us with a platform to pursue our interests.
+2023,199,11,QA5,2,2025-02-03 15:55:18.33948913 +0000 UTC,56,5,2,4,... increases the chances that our objectives and policies are understood.
+2023,199,11,QA5,2,2025-02-03 15:55:18.33948913 +0000 UTC,56,8,2,4,... allows for expressing concerns about developments.
+2023,199,11,QA5,2,2025-02-03 15:55:18.33948913 +0000 UTC,56,11,2,4,... allows us to see if we share similar values.
+2023,199,11,QA5,2,2025-02-03 15:55:18.33948913 +0000 UTC,56,2,3,5,... enables to build trust between our counterparts and us.
+2023,199,11,QA5,2,2025-02-03 15:55:18.33948913 +0000 UTC,56,1,3,5,... allows us to learn how our partners tick.
+2023,199,11,QA5,2,2025-02-03 15:55:18.33948913 +0000 UTC,56,4,3,5,... allows differences to be expressed and discussed.
+2023,199,11,QA5,2,2025-02-03 15:55:18.33948913 +0000 UTC,56,10,3,5,... allows our partners to learn how the EU ticks.
+2023,199,11,QA5,2,2025-02-03 15:55:18.33948913 +0000 UTC,56,3,3,5,... makes it possible to clarify our mutual expectations.
+2023,199,11,QA5,2,2025-02-03 15:55:18.33948913 +0000 UTC,56,9,3,5,... allows us to communicate our position on a particular situation.
+2023,199,11,QA5,2,2025-02-03 15:55:18.33948913 +0000 UTC,56,7,2,4,... allows for the exchange of information.
+2056,201,11,QA5,2,2025-02-05 21:41:01.228628331 +0000 UTC,19,6,98,6,... provides us with a platform to pursue our interests.
+2056,201,11,QA5,2,2025-02-05 21:41:01.228628331 +0000 UTC,19,5,98,6,... increases the chances that our objectives and policies are understood.
+2056,201,11,QA5,2,2025-02-05 21:41:01.228628331 +0000 UTC,19,8,98,6,... allows for expressing concerns about developments.
+2056,201,11,QA5,2,2025-02-05 21:41:01.228628331 +0000 UTC,19,11,98,6,... allows us to see if we share similar values.
+2056,201,11,QA5,2,2025-02-05 21:41:01.228628331 +0000 UTC,19,2,98,6,... enables to build trust between our counterparts and us.
+2056,201,11,QA5,2,2025-02-05 21:41:01.228628331 +0000 UTC,19,1,98,6,... allows us to learn how our partners tick.
+2056,201,11,QA5,2,2025-02-05 21:41:01.228628331 +0000 UTC,19,4,98,6,... allows differences to be expressed and discussed.
+2056,201,11,QA5,2,2025-02-05 21:41:01.228628331 +0000 UTC,19,10,98,6,... allows our partners to learn how the EU ticks.
+2056,201,11,QA5,2,2025-02-05 21:41:01.228628331 +0000 UTC,19,3,98,6,... makes it possible to clarify our mutual expectations.
+2056,201,11,QA5,2,2025-02-05 21:41:01.228628331 +0000 UTC,19,9,98,6,... allows us to communicate our position on a particular situation.
+2056,201,11,QA5,2,2025-02-05 21:41:01.228628331 +0000 UTC,19,7,98,6,... allows for the exchange of information.
+2165,217,11,QA5,2,2025-03-11 15:15:45.316367426 +0000 UTC,17,7,-1,2,... allows for the exchange of information.
+2165,217,11,QA5,2,2025-03-11 15:15:45.316367426 +0000 UTC,17,2,1,3,... enables to build trust between our counterparts and us.
+2165,217,11,QA5,2,2025-03-11 15:15:45.316367426 +0000 UTC,17,6,-1,2,... provides us with a platform to pursue our interests.
+2165,217,11,QA5,2,2025-03-11 15:15:45.316367426 +0000 UTC,17,5,1,3,... increases the chances that our objectives and policies are understood.
+2165,217,11,QA5,2,2025-03-11 15:15:45.316367426 +0000 UTC,17,4,-1,2,... allows differences to be expressed and discussed.
+2165,217,11,QA5,2,2025-03-11 15:15:45.316367426 +0000 UTC,17,9,-1,2,... allows us to communicate our position on a particular situation.
+2165,217,11,QA5,2,2025-03-11 15:15:45.316367426 +0000 UTC,17,3,1,3,... makes it possible to clarify our mutual expectations.
+2165,217,11,QA5,2,2025-03-11 15:15:45.316367426 +0000 UTC,17,1,-1,2,... allows us to learn how our partners tick.
+2165,217,11,QA5,2,2025-03-11 15:15:45.316367426 +0000 UTC,17,10,1,3,... allows our partners to learn how the EU ticks.
+2165,217,11,QA5,2,2025-03-11 15:15:45.316367426 +0000 UTC,17,8,-1,2,... allows for expressing concerns about developments.
+2165,217,11,QA5,2,2025-03-11 15:15:45.316367426 +0000 UTC,17,11,1,3,... allows us to see if we share similar values.
+2193,219,11,QA5,2,2025-03-17 16:08:00.378058525 +0000 UTC,52,7,2,4,... allows for the exchange of information.
+2193,219,11,QA5,2,2025-03-17 16:08:00.378058525 +0000 UTC,52,2,2,4,... enables to build trust between our counterparts and us.
+2193,219,11,QA5,2,2025-03-17 16:08:00.378058525 +0000 UTC,52,6,98,6,... provides us with a platform to pursue our interests.
+2193,219,11,QA5,2,2025-03-17 16:08:00.378058525 +0000 UTC,52,5,3,5,... increases the chances that our objectives and policies are understood.
+2193,219,11,QA5,2,2025-03-17 16:08:00.378058525 +0000 UTC,52,4,98,6,... allows differences to be expressed and discussed.
+2193,219,11,QA5,2,2025-03-17 16:08:00.378058525 +0000 UTC,52,9,3,5,... allows us to communicate our position on a particular situation.
+2193,219,11,QA5,2,2025-03-17 16:08:00.378058525 +0000 UTC,52,3,3,5,... makes it possible to clarify our mutual expectations.
+2193,219,11,QA5,2,2025-03-17 16:08:00.378058525 +0000 UTC,52,1,2,4,... allows us to learn how our partners tick.
+2193,219,11,QA5,2,2025-03-17 16:08:00.378058525 +0000 UTC,52,10,2,4,... allows our partners to learn how the EU ticks.
+2193,219,11,QA5,2,2025-03-17 16:08:00.378058525 +0000 UTC,52,8,3,5,... allows for expressing concerns about developments.
+2193,219,11,QA5,2,2025-03-17 16:08:00.378058525 +0000 UTC,52,11,2,4,... allows us to see if we share similar values.
+2221,220,11,QA5,2,2025-03-18 12:20:52.752786854 +0000 UTC,128,7,3,5,... allows for the exchange of information.
+2221,220,11,QA5,2,2025-03-18 12:20:52.752786854 +0000 UTC,128,2,2,4,... enables to build trust between our counterparts and us.
+2221,220,11,QA5,2,2025-03-18 12:20:52.752786854 +0000 UTC,128,6,1,3,... provides us with a platform to pursue our interests.
+2221,220,11,QA5,2,2025-03-18 12:20:52.752786854 +0000 UTC,128,5,1,3,... increases the chances that our objectives and policies are understood.
+2221,220,11,QA5,2,2025-03-18 12:20:52.752786854 +0000 UTC,128,4,3,5,... allows differences to be expressed and discussed.
+2221,220,11,QA5,2,2025-03-18 12:20:52.752786854 +0000 UTC,128,9,3,5,... allows us to communicate our position on a particular situation.
+2221,220,11,QA5,2,2025-03-18 12:20:52.752786854 +0000 UTC,128,3,2,4,... makes it possible to clarify our mutual expectations.
+2221,220,11,QA5,2,2025-03-18 12:20:52.752786854 +0000 UTC,128,1,3,5,... allows us to learn how our partners tick.
+2221,220,11,QA5,2,2025-03-18 12:20:52.752786854 +0000 UTC,128,10,2,4,... allows our partners to learn how the EU ticks.
+2221,220,11,QA5,2,2025-03-18 12:20:52.752786854 +0000 UTC,128,8,3,5,... allows for expressing concerns about developments.
+2221,220,11,QA5,2,2025-03-18 12:20:52.752786854 +0000 UTC,128,11,2,4,... allows us to see if we share similar values.
+2260,223,11,QA5,2,2025-03-18 17:30:00.545214935 +0000 UTC,22,7,98,6,... allows for the exchange of information.
+2260,223,11,QA5,2,2025-03-18 17:30:00.545214935 +0000 UTC,22,2,98,6,... enables to build trust between our counterparts and us.
+2260,223,11,QA5,2,2025-03-18 17:30:00.545214935 +0000 UTC,22,6,98,6,... provides us with a platform to pursue our interests.
+2260,223,11,QA5,2,2025-03-18 17:30:00.545214935 +0000 UTC,22,5,98,6,... increases the chances that our objectives and policies are understood.
+2260,223,11,QA5,2,2025-03-18 17:30:00.545214935 +0000 UTC,22,4,98,6,... allows differences to be expressed and discussed.
+2260,223,11,QA5,2,2025-03-18 17:30:00.545214935 +0000 UTC,22,9,98,6,... allows us to communicate our position on a particular situation.
+2260,223,11,QA5,2,2025-03-18 17:30:00.545214935 +0000 UTC,22,3,98,6,... makes it possible to clarify our mutual expectations.
+2260,223,11,QA5,2,2025-03-18 17:30:00.545214935 +0000 UTC,22,1,98,6,... allows us to learn how our partners tick.
+2260,223,11,QA5,2,2025-03-18 17:30:00.545214935 +0000 UTC,22,10,98,6,... allows our partners to learn how the EU ticks.
+2260,223,11,QA5,2,2025-03-18 17:30:00.545214935 +0000 UTC,22,8,98,6,... allows for expressing concerns about developments.
+2260,223,11,QA5,2,2025-03-18 17:30:00.545214935 +0000 UTC,22,11,98,6,... allows us to see if we share similar values.
+2288,224,11,QA5,2,2025-03-19 13:41:18.6510149 +0000 UTC,32,7,3,5,... allows for the exchange of information.
+2288,224,11,QA5,2,2025-03-19 13:41:18.6510149 +0000 UTC,32,2,3,5,... enables to build trust between our counterparts and us.
+2288,224,11,QA5,2,2025-03-19 13:41:18.6510149 +0000 UTC,32,6,1,3,... provides us with a platform to pursue our interests.
+2288,224,11,QA5,2,2025-03-19 13:41:18.6510149 +0000 UTC,32,5,1,3,... increases the chances that our objectives and policies are understood.
+2288,224,11,QA5,2,2025-03-19 13:41:18.6510149 +0000 UTC,32,4,1,3,... allows differences to be expressed and discussed.
+2288,224,11,QA5,2,2025-03-19 13:41:18.6510149 +0000 UTC,32,9,1,3,... allows us to communicate our position on a particular situation.
+2288,224,11,QA5,2,2025-03-19 13:41:18.6510149 +0000 UTC,32,3,2,4,... makes it possible to clarify our mutual expectations.
+2288,224,11,QA5,2,2025-03-19 13:41:18.6510149 +0000 UTC,32,1,1,3,... allows us to learn how our partners tick.
+2288,224,11,QA5,2,2025-03-19 13:41:18.6510149 +0000 UTC,32,10,1,3,... allows our partners to learn how the EU ticks.
+2288,224,11,QA5,2,2025-03-19 13:41:18.6510149 +0000 UTC,32,8,2,4,... allows for expressing concerns about developments.
+2288,224,11,QA5,2,2025-03-19 13:41:18.6510149 +0000 UTC,32,11,1,3,... allows us to see if we share similar values.
+2375,231,11,QA5,2,2025-04-01 15:42:10.537090123 +0000 UTC,39,7,2,4,... allows for the exchange of information.
+2375,231,11,QA5,2,2025-04-01 15:42:10.537090123 +0000 UTC,39,2,2,4,... enables to build trust between our counterparts and us.
+2375,231,11,QA5,2,2025-04-01 15:42:10.537090123 +0000 UTC,39,6,2,4,... provides us with a platform to pursue our interests.
+2375,231,11,QA5,2,2025-04-01 15:42:10.537090123 +0000 UTC,39,5,2,4,... increases the chances that our objectives and policies are understood.
+2375,231,11,QA5,2,2025-04-01 15:42:10.537090123 +0000 UTC,39,4,2,4,... allows differences to be expressed and discussed.
+2375,231,11,QA5,2,2025-04-01 15:42:10.537090123 +0000 UTC,39,9,2,4,... allows us to communicate our position on a particular situation.
+2375,231,11,QA5,2,2025-04-01 15:42:10.537090123 +0000 UTC,39,3,2,4,... makes it possible to clarify our mutual expectations.
+2375,231,11,QA5,2,2025-04-01 15:42:10.537090123 +0000 UTC,39,1,98,6,... allows us to learn how our partners tick.
+2375,231,11,QA5,2,2025-04-01 15:42:10.537090123 +0000 UTC,39,10,98,6,... allows our partners to learn how the EU ticks.
+2375,231,11,QA5,2,2025-04-01 15:42:10.537090123 +0000 UTC,39,8,2,4,... allows for expressing concerns about developments.
+2375,231,11,QA5,2,2025-04-01 15:42:10.537090123 +0000 UTC,39,11,2,4,... allows us to see if we share similar values.
+2403,232,11,QA5,2,2025-04-01 16:35:24.8698153 +0000 UTC,34,7,-3,0,... allows for the exchange of information.
+2403,232,11,QA5,2,2025-04-01 16:35:24.8698153 +0000 UTC,34,2,-3,0,... enables to build trust between our counterparts and us.
+2403,232,11,QA5,2,2025-04-01 16:35:24.8698153 +0000 UTC,34,6,-3,0,... provides us with a platform to pursue our interests.
+2403,232,11,QA5,2,2025-04-01 16:35:24.8698153 +0000 UTC,34,5,-3,0,... increases the chances that our objectives and policies are understood.
+2403,232,11,QA5,2,2025-04-01 16:35:24.8698153 +0000 UTC,34,4,-3,0,... allows differences to be expressed and discussed.
+2403,232,11,QA5,2,2025-04-01 16:35:24.8698153 +0000 UTC,34,9,-3,0,... allows us to communicate our position on a particular situation.
+2403,232,11,QA5,2,2025-04-01 16:35:24.8698153 +0000 UTC,34,3,-3,0,... makes it possible to clarify our mutual expectations.
+2403,232,11,QA5,2,2025-04-01 16:35:24.8698153 +0000 UTC,34,1,-3,0,... allows us to learn how our partners tick.
+2403,232,11,QA5,2,2025-04-01 16:35:24.8698153 +0000 UTC,34,10,-3,0,... allows our partners to learn how the EU ticks.
+2403,232,11,QA5,2,2025-04-01 16:35:24.8698153 +0000 UTC,34,8,-3,0,... allows for expressing concerns about developments.
+2403,232,11,QA5,2,2025-04-01 16:35:24.8698153 +0000 UTC,34,11,-3,0,... allows us to see if we share similar values.
+2452,236,11,QA5,2,2025-04-08 07:42:52.90295643 +0000 UTC,41,7,3,5,... allows for the exchange of information.
+2452,236,11,QA5,2,2025-04-08 07:42:52.90295643 +0000 UTC,41,2,3,5,... enables to build trust between our counterparts and us.
+2452,236,11,QA5,2,2025-04-08 07:42:52.90295643 +0000 UTC,41,6,3,5,... provides us with a platform to pursue our interests.
+2452,236,11,QA5,2,2025-04-08 07:42:52.90295643 +0000 UTC,41,5,3,5,... increases the chances that our objectives and policies are understood.
+2452,236,11,QA5,2,2025-04-08 07:42:52.90295643 +0000 UTC,41,4,3,5,... allows differences to be expressed and discussed.
+2452,236,11,QA5,2,2025-04-08 07:42:52.90295643 +0000 UTC,41,9,3,5,... allows us to communicate our position on a particular situation.
+2452,236,11,QA5,2,2025-04-08 07:42:52.90295643 +0000 UTC,41,3,1,3,... makes it possible to clarify our mutual expectations.
+2452,236,11,QA5,2,2025-04-08 07:42:52.90295643 +0000 UTC,41,1,2,4,... allows us to learn how our partners tick.
+2452,236,11,QA5,2,2025-04-08 07:42:52.90295643 +0000 UTC,41,10,-1,2,... allows our partners to learn how the EU ticks.
+2452,236,11,QA5,2,2025-04-08 07:42:52.90295643 +0000 UTC,41,8,1,3,... allows for expressing concerns about developments.
+2452,236,11,QA5,2,2025-04-08 07:42:52.90295643 +0000 UTC,41,11,1,3,... allows us to see if we share similar values.

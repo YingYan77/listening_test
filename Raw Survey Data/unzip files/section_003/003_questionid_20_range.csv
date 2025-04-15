@@ -1,0 +1,729 @@
+ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Row,Value,ColumnIndex,Text
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,9,3,3,Collecting different understandings and views and transmitting this information to the government.
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,3,2,2,Providing a forum for the expression and dissemination of the government’s political program and policies.
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,6,3,3,Raising citizens’ grievances and informing government about local interests.
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,5,3,3,Negotiating the budget lines prepared by the government.
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,8,2,2,Scrutinizing international requirements considering national interests.
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,10,4,4,Signaling unity of the political elite to the public.
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,7,4,4,Providing a forum for negotiating matters of public interest.
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,1,4,4,Representing the society to the government.
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+45,24,20,QB3,3,2024-09-29 10:30:13.875822908 +0000 UTC,16,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,9,0,0,Collecting different understandings and views and transmitting this information to the government.
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,3,0,0,Providing a forum for the expression and dissemination of the government’s political program and policies.
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,12,0,0,"Providing a credible forum for power-sharing, in particular in divided societies."
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,4,0,0,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,6,0,0,Raising citizens’ grievances and informing government about local interests.
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,5,0,0,Negotiating the budget lines prepared by the government.
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,8,0,0,Scrutinizing international requirements considering national interests.
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,10,0,0,Signaling unity of the political elite to the public.
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,13,0,0,Facilitating the construction of a national consensus regarding matters of public interest.
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,7,0,0,Providing a forum for negotiating matters of public interest.
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,1,0,0,Representing the society to the government.
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,11,0,0,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+76,21,20,QB3,3,2024-09-29 11:01:20.710663755 +0000 UTC,9,2,0,0,Approving/rejecting bills drafted by the government and making amendments.
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,11,1,1,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,1,1,1,Representing the society to the government.
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,3,1,1,Providing a forum for the expression and dissemination of the government’s political program and policies.
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,12,1,1,"Providing a credible forum for power-sharing, in particular in divided societies."
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,9,1,1,Collecting different understandings and views and transmitting this information to the government.
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,8,1,1,Scrutinizing international requirements considering national interests.
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,6,1,1,Raising citizens’ grievances and informing government about local interests.
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,7,1,1,Providing a forum for negotiating matters of public interest.
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,10,4,4,Signaling unity of the political elite to the public.
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,4,3,3,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,5,2,2,Negotiating the budget lines prepared by the government.
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+104,26,20,QB3,3,2024-09-30 14:02:51.069752451 +0000 UTC,18,2,1,1,Approving/rejecting bills drafted by the government and making amendments.
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,7,2,2,Bereitstellung eines Forums für die Verhandlung von Angelegenheiten von öffentlichem Interesse.
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,5,2,2,Verhandlung der von der Regierung aufgestellten Haushaltslinien.
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,2,2,2,Billigung/Ablehnung von Gesetzesentwürfen der Regierung und Ausarbeitung von Änderungen.
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,4,2,2,Überprüfung der Tätigkeit und Politik der Regierung im Hinblick auf Reaktionsfähigkeit und Wirksamkeit.
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,11,3,3,"Förderung der politischen Stabilität durch die Einbeziehung verschiedener Stimmen und Perspektiven, einschliesslich derer, die gegen die amtierende Regierung sind."
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,6,4,4,Ansprechen von Beschwerden der Bürger:innen und Informieren der Regierung über lokale Interessen.
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,9,3,3,Sammeln unterschiedlicher Auffassungen und Ansichten und Weitergabe dieser Informationen an die Regierung.
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,8,2,2,Prüfung der internationalen Anforderungen unter Berücksichtigung nationaler Interessen.
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,10,1,1,"Der Öffentlichkeit signalisieren, dass die politische Elite zusammensteht."
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,3,0,0,Bereitstellung eines Forums für den Ausdruck und die Verbreitung des politischen Programms und der politischen Massnahmen der Regierung.
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,13,1,1,Erleichterung der Erarbeitung eines nationalen Konsenses in Fragen von öffentlichem Interesse.
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,1,0,0,Vertretung der Gesellschaft gegenüber der Regierung.
+132,28,20,QB3,3,2024-09-30 14:11:43.599053584 +0000 UTC,13,12,1,1,"Bereitstellung eines glaubwürdigen Forums für die Teilung der Macht, insbesondere in gespaltenen Gesellschaften."
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,7,5,5,Providing a forum for negotiating matters of public interest.
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,1,5,5,Representing the society to the government.
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,10,0,0,Signaling unity of the political elite to the public.
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,3,1,1,Providing a forum for the expression and dissemination of the government’s political program and policies.
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,5,4,4,Negotiating the budget lines prepared by the government.
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,6,4,4,Raising citizens’ grievances and informing government about local interests.
+204,40,20,QB3,3,2024-10-05 20:44:03.36130202 +0000 UTC,60,8,5,5,Scrutinizing international requirements considering national interests.
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,7,4,4,Providing a forum for negotiating matters of public interest.
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,1,4,4,Representing the society to the government.
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,10,4,4,Signaling unity of the political elite to the public.
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,3,2,2,Providing a forum for the expression and dissemination of the government’s political program and policies.
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,5,5,5,Negotiating the budget lines prepared by the government.
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,6,4,4,Raising citizens’ grievances and informing government about local interests.
+266,47,20,QB3,3,2024-10-14 08:44:08.194998866 +0000 UTC,48,8,4,4,Scrutinizing international requirements considering national interests.
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,7,5,5,Providing a forum for negotiating matters of public interest.
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,1,5,5,Representing the society to the government.
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,10,2,2,Signaling unity of the political elite to the public.
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,3,2,2,Providing a forum for the expression and dissemination of the government’s political program and policies.
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,2,2,2,Approving/rejecting bills drafted by the government and making amendments.
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,5,4,4,Negotiating the budget lines prepared by the government.
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,6,3,3,Raising citizens’ grievances and informing government about local interests.
+305,51,20,QB3,3,2024-10-17 19:07:19.052107927 +0000 UTC,185,8,2,2,Scrutinizing international requirements considering national interests.
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,7,4,4,Providing a forum for negotiating matters of public interest.
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,12,3,3,"Providing a credible forum for power-sharing, in particular in divided societies."
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,9,2,2,Collecting different understandings and views and transmitting this information to the government.
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,1,3,3,Representing the society to the government.
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,10,0,0,Signaling unity of the political elite to the public.
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,3,0,0,Providing a forum for the expression and dissemination of the government’s political program and policies.
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,13,1,1,Facilitating the construction of a national consensus regarding matters of public interest.
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,5,5,5,Negotiating the budget lines prepared by the government.
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,6,4,4,Raising citizens’ grievances and informing government about local interests.
+381,57,20,QB3,3,2024-10-18 17:50:24.327136056 +0000 UTC,55,8,1,1,Scrutinizing international requirements considering national interests.
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,7,5,5,Providing a forum for negotiating matters of public interest.
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,1,4,4,Representing the society to the government.
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,10,1,1,Signaling unity of the political elite to the public.
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,5,3,3,Negotiating the budget lines prepared by the government.
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,6,4,4,Raising citizens’ grievances and informing government about local interests.
+408,55,20,QB3,3,2024-10-21 09:35:26.421178653 +0000 UTC,77,8,4,4,Scrutinizing international requirements considering national interests.
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,4,3,3,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,7,3,3,Providing a forum for negotiating matters of public interest.
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,1,5,5,Representing the society to the government.
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,10,4,4,Signaling unity of the political elite to the public.
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,5,4,4,Negotiating the budget lines prepared by the government.
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,6,5,5,Raising citizens’ grievances and informing government about local interests.
+477,64,20,QB3,3,2024-10-24 12:06:58.919040777 +0000 UTC,31,8,4,4,Scrutinizing international requirements considering national interests.
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,7,5,5,Providing a forum for negotiating matters of public interest.
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,1,5,5,Representing the society to the government.
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,10,1,1,Signaling unity of the political elite to the public.
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,13,3,3,Facilitating the construction of a national consensus regarding matters of public interest.
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,5,4,4,Negotiating the budget lines prepared by the government.
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,6,3,3,Raising citizens’ grievances and informing government about local interests.
+519,69,20,QB3,3,2024-11-05 16:48:30.799615612 +0000 UTC,122,8,5,5,Scrutinizing international requirements considering national interests.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,6,5,5,Raising citizens’ grievances and informing government about local interests.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,7,5,5,Providing a forum for negotiating matters of public interest.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,1,5,5,Representing the society to the government.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,5,5,5,Negotiating the budget lines prepared by the government.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,10,5,5,Signaling unity of the political elite to the public.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,8,3,3,Scrutinizing international requirements considering national interests.
+639,76,20,QB3,3,2024-11-13 16:48:52.245263612 +0000 UTC,678,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,6,4,4,Raising citizens’ grievances and informing government about local interests.
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,7,4,4,Providing a forum for negotiating matters of public interest.
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,1,4,4,Representing the society to the government.
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,5,4,4,Negotiating the budget lines prepared by the government.
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,13,98,6,Facilitating the construction of a national consensus regarding matters of public interest.
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,10,98,6,Signaling unity of the political elite to the public.
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,8,5,5,Scrutinizing international requirements considering national interests.
+675,94,20,QB3,3,2024-11-14 09:53:08.15502316 +0000 UTC,164,11,98,6,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,6,2,2,Raising citizens’ grievances and informing government about local interests.
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,7,5,5,Providing a forum for negotiating matters of public interest.
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,1,3,3,Representing the society to the government.
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,3,2,2,Providing a forum for the expression and dissemination of the government’s political program and policies.
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,5,5,5,Negotiating the budget lines prepared by the government.
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,9,3,3,Collecting different understandings and views and transmitting this information to the government.
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,10,3,3,Signaling unity of the political elite to the public.
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,8,3,3,Scrutinizing international requirements considering national interests.
+695,95,20,QB3,3,2024-11-14 10:10:12.013182447 +0000 UTC,60,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,10,2,2,Signaling unity of the political elite to the public.
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,9,3,3,Collecting different understandings and views and transmitting this information to the government.
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,8,2,2,Scrutinizing international requirements considering national interests.
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,5,3,3,Negotiating the budget lines prepared by the government.
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,1,4,4,Representing the society to the government.
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,7,5,5,Providing a forum for negotiating matters of public interest.
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,6,4,4,Raising citizens’ grievances and informing government about local interests.
+738,98,20,QB3,3,2024-11-21 10:44:38.527230943 +0000 UTC,127,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,10,0,0,Signaling unity of the political elite to the public.
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,9,1,1,Collecting different understandings and views and transmitting this information to the government.
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,11,3,3,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,8,3,3,Scrutinizing international requirements considering national interests.
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,5,4,4,Negotiating the budget lines prepared by the government.
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,12,3,3,"Providing a credible forum for power-sharing, in particular in divided societies."
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,4,3,3,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,1,4,4,Representing the society to the government.
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,7,1,1,Providing a forum for negotiating matters of public interest.
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,6,1,1,Raising citizens’ grievances and informing government about local interests.
+788,102,20,QB3,3,2024-11-27 15:15:21.916254727 +0000 UTC,208,13,2,2,Facilitating the construction of a national consensus regarding matters of public interest.
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,10,0,0,Signaling unity of the political elite to the public.
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,9,3,3,Collecting different understandings and views and transmitting this information to the government.
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,8,3,3,Scrutinizing international requirements considering national interests.
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,5,4,4,Negotiating the budget lines prepared by the government.
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,1,4,4,Representing the society to the government.
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,7,5,5,Providing a forum for negotiating matters of public interest.
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,6,5,5,Raising citizens’ grievances and informing government about local interests.
+816,103,20,QB3,3,2024-11-27 16:54:08.639256859 +0000 UTC,56,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,10,5,5,Signaling unity of the political elite to the public.
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,9,98,6,Collecting different understandings and views and transmitting this information to the government.
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,8,4,4,Scrutinizing international requirements considering national interests.
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,5,4,4,Negotiating the budget lines prepared by the government.
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,1,4,4,Representing the society to the government.
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,7,5,5,Providing a forum for negotiating matters of public interest.
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,6,1,1,Raising citizens’ grievances and informing government about local interests.
+858,108,20,QB3,3,2024-12-02 08:01:30.99843071 +0000 UTC,121,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,10,0,0,Signaling unity of the political elite to the public.
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,8,4,4,Scrutinizing international requirements considering national interests.
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,5,4,4,Negotiating the budget lines prepared by the government.
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,1,5,5,Representing the society to the government.
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,7,3,3,Providing a forum for negotiating matters of public interest.
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,6,5,5,Raising citizens’ grievances and informing government about local interests.
+896,115,20,QB3,3,2024-12-10 16:22:30.14944689 +0000 UTC,96,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,10,0,0,Signaling unity of the political elite to the public.
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,8,4,4,Scrutinizing international requirements considering national interests.
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,5,4,4,Negotiating the budget lines prepared by the government.
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,1,5,5,Representing the society to the government.
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,7,4,4,Providing a forum for negotiating matters of public interest.
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,6,3,3,Raising citizens’ grievances and informing government about local interests.
+934,117,20,QB3,3,2024-12-11 13:19:01.790479487 +0000 UTC,137,13,1,1,Facilitating the construction of a national consensus regarding matters of public interest.
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,10,4,4,Signaling unity of the political elite to the public.
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,9,3,3,Collecting different understandings and views and transmitting this information to the government.
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,11,3,3,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,8,3,3,Scrutinizing international requirements considering national interests.
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,5,4,4,Negotiating the budget lines prepared by the government.
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,12,2,2,"Providing a credible forum for power-sharing, in particular in divided societies."
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,4,2,2,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,1,2,2,Representing the society to the government.
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,7,4,4,Providing a forum for negotiating matters of public interest.
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,2,3,3,Approving/rejecting bills drafted by the government and making amendments.
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,6,3,3,Raising citizens’ grievances and informing government about local interests.
+962,119,20,QB3,3,2024-12-11 14:33:53.809349762 +0000 UTC,205,13,3,3,Facilitating the construction of a national consensus regarding matters of public interest.
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,10,0,0,Signaling unity of the political elite to the public.
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,9,3,3,Collecting different understandings and views and transmitting this information to the government.
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,8,1,1,Scrutinizing international requirements considering national interests.
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,5,5,5,Negotiating the budget lines prepared by the government.
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,1,4,4,Representing the society to the government.
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,7,4,4,Providing a forum for negotiating matters of public interest.
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,3,1,1,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,6,2,2,Raising citizens’ grievances and informing government about local interests.
+1068,132,20,QB3,3,2024-12-17 11:57:33.76404619 +0000 UTC,112,13,3,3,Facilitating the construction of a national consensus regarding matters of public interest.
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,10,1,1,Signaling unity of the political elite to the public.
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,9,3,3,Collecting different understandings and views and transmitting this information to the government.
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,8,3,3,Scrutinizing international requirements considering national interests.
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,5,5,5,Negotiating the budget lines prepared by the government.
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,12,3,3,"Providing a credible forum for power-sharing, in particular in divided societies."
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,1,4,4,Representing the society to the government.
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,7,4,4,Providing a forum for negotiating matters of public interest.
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,2,3,3,Approving/rejecting bills drafted by the government and making amendments.
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,6,5,5,Raising citizens’ grievances and informing government about local interests.
+1191,148,20,QB3,3,2025-01-05 16:44:08.749142302 +0000 UTC,41,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,10,4,4,Signaling unity of the political elite to the public.
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,8,5,5,Scrutinizing international requirements considering national interests.
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,5,4,4,Negotiating the budget lines prepared by the government.
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,12,3,3,"Providing a credible forum for power-sharing, in particular in divided societies."
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,1,5,5,Representing the society to the government.
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,7,3,3,Providing a forum for negotiating matters of public interest.
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,2,3,3,Approving/rejecting bills drafted by the government and making amendments.
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,6,4,4,Raising citizens’ grievances and informing government about local interests.
+1219,149,20,QB3,3,2025-01-05 16:56:23.599085348 +0000 UTC,11,13,3,3,Facilitating the construction of a national consensus regarding matters of public interest.
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,10,5,5,Signaling unity of the political elite to the public.
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,8,5,5,Scrutinizing international requirements considering national interests.
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,5,5,5,Negotiating the budget lines prepared by the government.
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,1,4,4,Representing the society to the government.
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,7,5,5,Providing a forum for negotiating matters of public interest.
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,2,3,3,Approving/rejecting bills drafted by the government and making amendments.
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,6,4,4,Raising citizens’ grievances and informing government about local interests.
+1249,151,20,QB3,3,2025-01-05 17:17:26.741415382 +0000 UTC,14,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,10,5,5,Signaling unity of the political elite to the public.
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,11,2,2,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,8,3,3,Scrutinizing international requirements considering national interests.
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,5,4,4,Negotiating the budget lines prepared by the government.
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,1,3,3,Representing the society to the government.
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,7,5,5,Providing a forum for negotiating matters of public interest.
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,6,4,4,Raising citizens’ grievances and informing government about local interests.
+1277,152,20,QB3,3,2025-01-05 17:24:01.994587732 +0000 UTC,15,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,10,4,4,Signaling unity of the political elite to the public.
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,8,4,4,Scrutinizing international requirements considering national interests.
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,5,4,4,Negotiating the budget lines prepared by the government.
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,12,3,3,"Providing a credible forum for power-sharing, in particular in divided societies."
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,1,5,5,Representing the society to the government.
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,7,4,4,Providing a forum for negotiating matters of public interest.
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,6,4,4,Raising citizens’ grievances and informing government about local interests.
+1305,153,20,QB3,3,2025-01-05 17:31:55.058324546 +0000 UTC,11,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,10,4,4,Signaling unity of the political elite to the public.
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,8,4,4,Scrutinizing international requirements considering national interests.
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,5,3,3,Negotiating the budget lines prepared by the government.
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,12,2,2,"Providing a credible forum for power-sharing, in particular in divided societies."
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,4,2,2,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,1,2,2,Representing the society to the government.
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,7,3,3,Providing a forum for negotiating matters of public interest.
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,2,1,1,Approving/rejecting bills drafted by the government and making amendments.
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,3,1,1,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,6,3,3,Raising citizens’ grievances and informing government about local interests.
+1333,154,20,QB3,3,2025-01-05 17:38:12.764331886 +0000 UTC,13,13,3,3,Facilitating the construction of a national consensus regarding matters of public interest.
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,10,5,5,Signaling unity of the political elite to the public.
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,8,4,4,Scrutinizing international requirements considering national interests.
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,5,4,4,Negotiating the budget lines prepared by the government.
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,12,3,3,"Providing a credible forum for power-sharing, in particular in divided societies."
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,4,3,3,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,1,3,3,Representing the society to the government.
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,7,4,4,Providing a forum for negotiating matters of public interest.
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,6,4,4,Raising citizens’ grievances and informing government about local interests.
+1361,155,20,QB3,3,2025-01-05 18:34:30.022775818 +0000 UTC,11,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,10,5,5,Signaling unity of the political elite to the public.
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,8,5,5,Scrutinizing international requirements considering national interests.
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,5,4,4,Negotiating the budget lines prepared by the government.
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,1,3,3,Representing the society to the government.
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,7,5,5,Providing a forum for negotiating matters of public interest.
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,6,5,5,Raising citizens’ grievances and informing government about local interests.
+1389,156,20,QB3,3,2025-01-05 18:40:15.685647361 +0000 UTC,11,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,10,5,5,Signaling unity of the political elite to the public.
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,8,4,4,Scrutinizing international requirements considering national interests.
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,5,5,5,Negotiating the budget lines prepared by the government.
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,1,4,4,Representing the society to the government.
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,7,5,5,Providing a forum for negotiating matters of public interest.
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,6,4,4,Raising citizens’ grievances and informing government about local interests.
+1417,157,20,QB3,3,2025-01-05 18:50:15.952710431 +0000 UTC,9,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,10,5,5,Signaling unity of the political elite to the public.
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,8,4,4,Scrutinizing international requirements considering national interests.
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,5,5,5,Negotiating the budget lines prepared by the government.
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,1,5,5,Representing the society to the government.
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,7,4,4,Providing a forum for negotiating matters of public interest.
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,6,5,5,Raising citizens’ grievances and informing government about local interests.
+1445,158,20,QB3,3,2025-01-05 19:01:53.217976684 +0000 UTC,10,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,10,5,5,Signaling unity of the political elite to the public.
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,8,5,5,Scrutinizing international requirements considering national interests.
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,5,5,5,Negotiating the budget lines prepared by the government.
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,1,5,5,Representing the society to the government.
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,7,5,5,Providing a forum for negotiating matters of public interest.
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,6,5,5,Raising citizens’ grievances and informing government about local interests.
+1473,159,20,QB3,3,2025-01-05 19:09:02.937686849 +0000 UTC,17,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,10,5,5,Signaling unity of the political elite to the public.
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,8,5,5,Scrutinizing international requirements considering national interests.
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,5,4,4,Negotiating the budget lines prepared by the government.
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,1,5,5,Representing the society to the government.
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,7,4,4,Providing a forum for negotiating matters of public interest.
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,6,4,4,Raising citizens’ grievances and informing government about local interests.
+1501,160,20,QB3,3,2025-01-05 19:19:46.241761459 +0000 UTC,9,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,10,5,5,Signaling unity of the political elite to the public.
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,8,4,4,Scrutinizing international requirements considering national interests.
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,5,5,5,Negotiating the budget lines prepared by the government.
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,1,5,5,Representing the society to the government.
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,7,5,5,Providing a forum for negotiating matters of public interest.
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,6,5,5,Raising citizens’ grievances and informing government about local interests.
+1529,161,20,QB3,3,2025-01-05 19:25:11.039419402 +0000 UTC,9,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,10,5,5,Signaling unity of the political elite to the public.
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,8,4,4,Scrutinizing international requirements considering national interests.
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,5,5,5,Negotiating the budget lines prepared by the government.
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,1,5,5,Representing the society to the government.
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,7,5,5,Providing a forum for negotiating matters of public interest.
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,6,5,5,Raising citizens’ grievances and informing government about local interests.
+1557,162,20,QB3,3,2025-01-05 19:29:42.594490557 +0000 UTC,10,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,10,4,4,Signaling unity of the political elite to the public.
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,8,5,5,Scrutinizing international requirements considering national interests.
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,5,4,4,Negotiating the budget lines prepared by the government.
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,1,4,4,Representing the society to the government.
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,7,4,4,Providing a forum for negotiating matters of public interest.
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,6,3,3,Raising citizens’ grievances and informing government about local interests.
+1588,164,20,QB3,3,2025-01-05 19:34:24.649256764 +0000 UTC,9,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,10,5,5,Signaling unity of the political elite to the public.
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,11,3,3,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,8,4,4,Scrutinizing international requirements considering national interests.
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,5,5,5,Negotiating the budget lines prepared by the government.
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,1,4,4,Representing the society to the government.
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,7,5,5,Providing a forum for negotiating matters of public interest.
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,6,4,4,Raising citizens’ grievances and informing government about local interests.
+1616,165,20,QB3,3,2025-01-05 19:42:58.716164604 +0000 UTC,10,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,10,4,4,Signaling unity of the political elite to the public.
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,8,5,5,Scrutinizing international requirements considering national interests.
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,5,5,5,Negotiating the budget lines prepared by the government.
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,1,4,4,Representing the society to the government.
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,7,5,5,Providing a forum for negotiating matters of public interest.
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,6,4,4,Raising citizens’ grievances and informing government about local interests.
+1644,166,20,QB3,3,2025-01-05 19:47:16.171004685 +0000 UTC,8,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,10,5,5,Signaling unity of the political elite to the public.
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,8,4,4,Scrutinizing international requirements considering national interests.
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,5,4,4,Negotiating the budget lines prepared by the government.
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,4,3,3,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,1,4,4,Representing the society to the government.
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,7,5,5,Providing a forum for negotiating matters of public interest.
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,6,3,3,Raising citizens’ grievances and informing government about local interests.
+1672,167,20,QB3,3,2025-01-05 19:51:45.82543031 +0000 UTC,13,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,10,2,2,Signaling unity of the political elite to the public.
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,11,3,3,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,8,3,3,Scrutinizing international requirements considering national interests.
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,5,5,5,Negotiating the budget lines prepared by the government.
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,1,5,5,Representing the society to the government.
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,7,5,5,Providing a forum for negotiating matters of public interest.
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,6,5,5,Raising citizens’ grievances and informing government about local interests.
+1700,168,20,QB3,3,2025-01-07 14:03:47.076212007 +0000 UTC,548,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,10,0,0,Signaling unity of the political elite to the public.
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,9,1,1,Collecting different understandings and views and transmitting this information to the government.
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,11,2,2,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,8,98,6,Scrutinizing international requirements considering national interests.
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,5,1,1,Negotiating the budget lines prepared by the government.
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,12,2,2,"Providing a credible forum for power-sharing, in particular in divided societies."
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,4,1,1,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,1,2,2,Representing the society to the government.
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,7,2,2,Providing a forum for negotiating matters of public interest.
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,2,2,2,Approving/rejecting bills drafted by the government and making amendments.
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,3,98,6,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,6,2,2,Raising citizens’ grievances and informing government about local interests.
+1728,169,20,QB3,3,2025-01-08 13:03:35.93484001 +0000 UTC,132,13,98,6,Facilitating the construction of a national consensus regarding matters of public interest.
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,10,98,6,Signaling unity of the political elite to the public.
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,8,1,1,Scrutinizing international requirements considering national interests.
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,5,3,3,Negotiating the budget lines prepared by the government.
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,4,3,3,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,1,5,5,Representing the society to the government.
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,7,3,3,Providing a forum for negotiating matters of public interest.
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,2,3,3,Approving/rejecting bills drafted by the government and making amendments.
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,6,3,3,Raising citizens’ grievances and informing government about local interests.
+1756,170,20,QB3,3,2025-01-15 14:00:13.351554671 +0000 UTC,113,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,4,4,4,Überprüfung der Tätigkeit und Politik der Regierung im Hinblick auf Reaktionsfähigkeit und Wirksamkeit.
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,9,3,3,Sammeln unterschiedlicher Auffassungen und Ansichten und Weitergabe dieser Informationen an die Regierung.
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,2,4,4,Billigung/Ablehnung von Gesetzesentwürfen der Regierung und Ausarbeitung von Änderungen.
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,3,2,2,Bereitstellung eines Forums für den Ausdruck und die Verbreitung des politischen Programms und der politischen Massnahmen der Regierung.
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,8,4,4,Prüfung der internationalen Anforderungen unter Berücksichtigung nationaler Interessen.
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,10,1,1,"Der Öffentlichkeit signalisieren, dass die politische Elite zusammensteht."
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,7,4,4,Bereitstellung eines Forums für die Verhandlung von Angelegenheiten von öffentlichem Interesse.
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,5,4,4,Verhandlung der von der Regierung aufgestellten Haushaltslinien.
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,6,2,2,Ansprechen von Beschwerden der Bürger:innen und Informieren der Regierung über lokale Interessen.
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,12,5,5,"Bereitstellung eines glaubwürdigen Forums für die Teilung der Macht, insbesondere in gespaltenen Gesellschaften."
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,1,3,3,Vertretung der Gesellschaft gegenüber der Regierung.
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,13,4,4,Erleichterung der Erarbeitung eines nationalen Konsenses in Fragen von öffentlichem Interesse.
+1804,176,20,QB3,3,2025-01-28 20:45:03.137977573 +0000 UTC,94,11,4,4,"Förderung der politischen Stabilität durch die Einbeziehung verschiedener Stimmen und Perspektiven, einschliesslich derer, die gegen die amtierende Regierung sind."
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,10,1,1,Signaling unity of the political elite to the public.
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,8,4,4,Scrutinizing international requirements considering national interests.
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,5,5,5,Negotiating the budget lines prepared by the government.
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,1,5,5,Representing the society to the government.
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,7,5,5,Providing a forum for negotiating matters of public interest.
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,6,3,3,Raising citizens’ grievances and informing government about local interests.
+1840,179,20,QB3,3,2025-01-28 23:06:07.477278743 +0000 UTC,200,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,10,1,1,Signaling unity of the political elite to the public.
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,8,0,0,Scrutinizing international requirements considering national interests.
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,5,5,5,Negotiating the budget lines prepared by the government.
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,1,5,5,Representing the society to the government.
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,7,5,5,Providing a forum for negotiating matters of public interest.
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,3,0,0,Providing a forum for the expression and dissemination of the government’s political program and policies.
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,6,4,4,Raising citizens’ grievances and informing government about local interests.
+1944,191,20,QB3,3,2025-01-29 14:00:27.558122481 +0000 UTC,129,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,10,1,1,Signaling unity of the political elite to the public.
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,8,4,4,Scrutinizing international requirements considering national interests.
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,5,5,5,Negotiating the budget lines prepared by the government.
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,1,4,4,Representing the society to the government.
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,7,3,3,Providing a forum for negotiating matters of public interest.
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,6,4,4,Raising citizens’ grievances and informing government about local interests.
+2032,199,20,QB3,3,2025-02-03 16:08:45.237315846 +0000 UTC,117,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,10,5,5,Signaling unity of the political elite to the public.
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,8,5,5,Scrutinizing international requirements considering national interests.
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,5,5,5,Negotiating the budget lines prepared by the government.
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,1,5,5,Representing the society to the government.
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,7,5,5,Providing a forum for negotiating matters of public interest.
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,6,5,5,Raising citizens’ grievances and informing government about local interests.
+2065,201,20,QB3,3,2025-02-05 21:43:56.400161203 +0000 UTC,18,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,5,3,3,Negotiating the budget lines prepared by the government.
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,7,3,3,Providing a forum for negotiating matters of public interest.
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,13,3,3,Facilitating the construction of a national consensus regarding matters of public interest.
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,6,4,4,Raising citizens’ grievances and informing government about local interests.
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,8,3,3,Scrutinizing international requirements considering national interests.
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,10,4,4,Signaling unity of the political elite to the public.
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,1,3,3,Representing the society to the government.
+2174,217,20,QB3,3,2025-03-11 15:21:13.504087598 +0000 UTC,14,2,3,3,Approving/rejecting bills drafted by the government and making amendments.
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,5,4,4,Negotiating the budget lines prepared by the government.
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,7,3,3,Providing a forum for negotiating matters of public interest.
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,3,0,0,Providing a forum for the expression and dissemination of the government’s political program and policies.
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,6,4,4,Raising citizens’ grievances and informing government about local interests.
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,8,2,2,Scrutinizing international requirements considering national interests.
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,10,0,0,Signaling unity of the political elite to the public.
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,1,4,4,Representing the society to the government.
+2202,219,20,QB3,3,2025-03-17 16:21:43.559263448 +0000 UTC,110,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,5,5,5,Negotiating the budget lines prepared by the government.
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,7,5,5,Providing a forum for negotiating matters of public interest.
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,3,3,3,Providing a forum for the expression and dissemination of the government’s political program and policies.
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,6,5,5,Raising citizens’ grievances and informing government about local interests.
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,8,3,3,Scrutinizing international requirements considering national interests.
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,10,1,1,Signaling unity of the political elite to the public.
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,1,5,5,Representing the society to the government.
+2230,220,20,QB3,3,2025-03-18 12:36:17.548583878 +0000 UTC,96,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,5,4,4,Negotiating the budget lines prepared by the government.
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,7,4,4,Providing a forum for negotiating matters of public interest.
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,6,4,4,Raising citizens’ grievances and informing government about local interests.
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,8,4,4,Scrutinizing international requirements considering national interests.
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,10,1,1,Signaling unity of the political elite to the public.
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,1,4,4,Representing the society to the government.
+2269,223,20,QB3,3,2025-03-18 17:39:50.048849482 +0000 UTC,265,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,5,5,5,Negotiating the budget lines prepared by the government.
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,9,5,5,Collecting different understandings and views and transmitting this information to the government.
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,7,5,5,Providing a forum for negotiating matters of public interest.
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,3,5,5,Providing a forum for the expression and dissemination of the government’s political program and policies.
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,6,5,5,Raising citizens’ grievances and informing government about local interests.
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,8,5,5,Scrutinizing international requirements considering national interests.
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,10,2,2,Signaling unity of the political elite to the public.
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,1,5,5,Representing the society to the government.
+2297,224,20,QB3,3,2025-03-19 13:51:06.472292661 +0000 UTC,86,2,5,5,Approving/rejecting bills drafted by the government and making amendments.
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,11,4,4,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,4,4,4,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,5,4,4,Negotiating the budget lines prepared by the government.
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,12,4,4,"Providing a credible forum for power-sharing, in particular in divided societies."
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,7,4,4,Providing a forum for negotiating matters of public interest.
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,13,4,4,Facilitating the construction of a national consensus regarding matters of public interest.
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,6,4,4,Raising citizens’ grievances and informing government about local interests.
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,8,4,4,Scrutinizing international requirements considering national interests.
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,10,98,6,Signaling unity of the political elite to the public.
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,1,4,4,Representing the society to the government.
+2384,231,20,QB3,3,2025-04-01 15:47:48.010706284 +0000 UTC,35,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,5,5,5,Negotiating the budget lines prepared by the government.
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,9,3,3,Collecting different understandings and views and transmitting this information to the government.
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,7,4,4,Providing a forum for negotiating matters of public interest.
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,6,5,5,Raising citizens’ grievances and informing government about local interests.
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,8,5,5,Scrutinizing international requirements considering national interests.
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,10,4,4,Signaling unity of the political elite to the public.
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,1,4,4,Representing the society to the government.
+2412,232,20,QB3,3,2025-04-01 16:41:03.500750577 +0000 UTC,61,2,4,4,Approving/rejecting bills drafted by the government and making amendments.
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,11,5,5,"Fostering political stability by incorporating diverse voices and perspectives, including those opposing the incumbent government."
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,4,5,5,Scrutinizing government activity and policy in terms of responsiveness and effectiveness.
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,5,5,5,Negotiating the budget lines prepared by the government.
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,12,5,5,"Providing a credible forum for power-sharing, in particular in divided societies."
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,9,4,4,Collecting different understandings and views and transmitting this information to the government.
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,7,4,4,Providing a forum for negotiating matters of public interest.
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,3,4,4,Providing a forum for the expression and dissemination of the government’s political program and policies.
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,13,5,5,Facilitating the construction of a national consensus regarding matters of public interest.
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,6,1,1,Raising citizens’ grievances and informing government about local interests.
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,8,4,4,Scrutinizing international requirements considering national interests.
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,10,2,2,Signaling unity of the political elite to the public.
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,1,2,2,Representing the society to the government.
+2466,236,20,QB3,3,2025-04-08 07:56:36.082650808 +0000 UTC,213,2,5,5,Approving/rejecting bills drafted by the government and making amendments.

@@ -1,0 +1,1065 @@
+ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Row,Value,ColumnIndex,Text
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,1,2,2,Political decisions are made by directly elected representatives of the people.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,5,2,2,Courts can prevent the government from acting beyond its authority.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,3,2,2,Civil society groups are involved in policymaking and implementation.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,17,2,2,The rights of minority groups are protected.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,8,2,2,Different political parties offer clear alternatives to one another.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,18,2,2,There are no armed conflicts and the security sector is legitimised.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,14,3,3,"Citizens have the final say on the most important political issues, e.g., through referendum."
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,12,3,3,There is a judicial system that treats everyone in the same way.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,9,3,3,The military is under the control of civilian leaders.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,7,3,3,Governing parties can be punished in elections if they fail to deliver on their promises.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,2,3,3,Political decisions are made by independent experts rather than elected politicians or the people.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,13,3,3,The government protects all citizens against poverty.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,19,3,3,A gender-sensitive policy is implemented in all political areas.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,16,3,3,The voice of each citizen counts equally and without discrimination.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,10,3,3,"The media, both off-line and on-line, are free in their criticism of political leaders."
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,11,3,3,Experts’ views are considered prior to government decision-making.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,6,3,3,Free and fair national elections are held regularly with a choice of at least two political parties.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,15,3,3,People have the right to non-violent protest.
+43,24,18,QB1,3,2024-09-29 10:29:41.375544255 +0000 UTC,15,4,3,3,Opposition parties are free to criticize the government.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,1,0,0,Political decisions are made by directly elected representatives of the people.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,5,0,0,Courts can prevent the government from acting beyond its authority.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,3,0,0,Civil society groups are involved in policymaking and implementation.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,17,0,0,The rights of minority groups are protected.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,8,0,0,Different political parties offer clear alternatives to one another.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,18,0,0,There are no armed conflicts and the security sector is legitimised.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,14,0,0,"Citizens have the final say on the most important political issues, e.g., through referendum."
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,12,0,0,There is a judicial system that treats everyone in the same way.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,9,0,0,The military is under the control of civilian leaders.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,7,0,0,Governing parties can be punished in elections if they fail to deliver on their promises.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,13,0,0,The government protects all citizens against poverty.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,19,0,0,A gender-sensitive policy is implemented in all political areas.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,16,0,0,The voice of each citizen counts equally and without discrimination.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,10,0,0,"The media, both off-line and on-line, are free in their criticism of political leaders."
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,11,0,0,Experts’ views are considered prior to government decision-making.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,6,0,0,Free and fair national elections are held regularly with a choice of at least two political parties.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,15,0,0,People have the right to non-violent protest.
+74,21,18,QB1,3,2024-09-29 11:01:00.102603845 +0000 UTC,13,4,0,0,Opposition parties are free to criticize the government.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,15,5,5,People have the right to non-violent protest.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,1,4,4,Political decisions are made by directly elected representatives of the people.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,5,2,2,Courts can prevent the government from acting beyond its authority.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,3,3,3,Civil society groups are involved in policymaking and implementation.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,17,1,1,The rights of minority groups are protected.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,11,0,0,Experts’ views are considered prior to government decision-making.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,13,2,2,The government protects all citizens against poverty.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,9,1,1,The military is under the control of civilian leaders.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,19,0,0,A gender-sensitive policy is implemented in all political areas.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,7,1,1,Governing parties can be punished in elections if they fail to deliver on their promises.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,6,2,2,Free and fair national elections are held regularly with a choice of at least two political parties.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,18,3,3,There are no armed conflicts and the security sector is legitimised.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,10,2,2,"The media, both off-line and on-line, are free in their criticism of political leaders."
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,12,1,1,There is a judicial system that treats everyone in the same way.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,8,3,3,Different political parties offer clear alternatives to one another.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,16,2,2,The voice of each citizen counts equally and without discrimination.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,4,4,4,Opposition parties are free to criticize the government.
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,14,98,6,"Citizens have the final say on the most important political issues, e.g., through referendum."
+102,26,18,QB1,3,2024-09-30 14:01:11.579913752 +0000 UTC,21,2,4,4,Political decisions are made by independent experts rather than elected politicians or the people.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,3,2,2,Gruppen der Zivilgesellschaft sind an der Politikgestaltung und -umsetzung beteiligt.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,8,2,2,Die verschiedenen politischen Parteien bieten klare Alternativen zueinander.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,14,2,2,"Die Bürger:innen haben das letzte Wort in den wichtigsten politischen Fragen, z. B. durch ein Referendum."
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,9,2,2,Das Militär steht unter der Kontrolle der zivilen Führung.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,13,2,2,Der Staat schützt alle Bürger:innen vor Armut.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,16,2,2,Die Stimme aller Bürger:innen zählt gleichermassen und ohne Diskriminierung.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,4,2,2,"Den Oppositionsparteien steht es frei, die Regierung zu kritisieren."
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,1,2,2,Politische Entscheidungen werden von direkt gewählten Vertreter:innen des Volkes getroffen.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,17,2,2,Die Rechte von Minderheitengruppen werden geschützt.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,5,2,2,"Die Gerichte können die Regierung daran hindern, ausserhalb ihrer Befugnisse zu handeln."
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,6,2,2,"Es finden regelmässig freie und faire nationale Wahlen statt, bei denen mindestens zwei politische Parteien zur Wahl stehen."
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,12,2,2,"Es gibt ein Justizsystem, das alle Menschen gleich behandelt."
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,19,2,2,Eine geschlechtersensible Politik wird in allen politischen Bereichen umgesetzt.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,18,2,2,Es gibt keine bewaffneten Konflikte und der Sicherheitssektor ist legitimiert.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,2,2,2,Politische Entscheidungen werden von unabhängigen Expert:innen und nicht von gewählten Politiker:innen oder dem Volk getroffen.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,15,2,2,Die Menschen haben das Recht auf gewaltfreien Protest.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,10,2,2,"Die Medien, sowohl offline als auch online, sind frei in ihrer Kritik an der politischen Führung."
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,11,2,2,Die Meinung von Expert:innen wird vor der Entscheidungsfindung der Regierung berücksichtigt.
+130,28,18,QB1,3,2024-09-30 14:11:17.894623409 +0000 UTC,15,7,2,2,"Regierungsparteien können bei Wahlen abgestraft werden, wenn sie ihre Versprechen nicht einhalten."
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,13,5,5,The government protects all citizens against poverty.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,4,4,4,Opposition parties are free to criticize the government.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,17,5,5,The rights of minority groups are protected.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,8,5,5,Different political parties offer clear alternatives to one another.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,16,5,5,The voice of each citizen counts equally and without discrimination.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,9,5,5,The military is under the control of civilian leaders.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,3,4,4,Civil society groups are involved in policymaking and implementation.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,19,4,4,A gender-sensitive policy is implemented in all political areas.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,12,5,5,There is a judicial system that treats everyone in the same way.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,18,5,5,There are no armed conflicts and the security sector is legitimised.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,11,4,4,Experts’ views are considered prior to government decision-making.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,14,4,4,"Citizens have the final say on the most important political issues, e.g., through referendum."
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,15,5,5,People have the right to non-violent protest.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,5,5,5,Courts can prevent the government from acting beyond its authority.
+202,40,18,QB1,3,2024-10-05 20:41:16.47755341 +0000 UTC,93,1,5,5,Political decisions are made by directly elected representatives of the people.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,13,5,5,The government protects all citizens against poverty.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,4,5,5,Opposition parties are free to criticize the government.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,17,5,5,The rights of minority groups are protected.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,2,2,2,Political decisions are made by independent experts rather than elected politicians or the people.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,8,5,5,Different political parties offer clear alternatives to one another.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,16,5,5,The voice of each citizen counts equally and without discrimination.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,9,0,0,The military is under the control of civilian leaders.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,3,5,5,Civil society groups are involved in policymaking and implementation.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,19,5,5,A gender-sensitive policy is implemented in all political areas.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,12,5,5,There is a judicial system that treats everyone in the same way.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,18,5,5,There are no armed conflicts and the security sector is legitimised.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,11,3,3,Experts’ views are considered prior to government decision-making.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,14,4,4,"Citizens have the final say on the most important political issues, e.g., through referendum."
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,15,5,5,People have the right to non-violent protest.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,5,5,5,Courts can prevent the government from acting beyond its authority.
+264,47,18,QB1,3,2024-10-14 08:41:21.997449535 +0000 UTC,90,1,5,5,Political decisions are made by directly elected representatives of the people.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,13,5,5,The government protects all citizens against poverty.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,4,5,5,Opposition parties are free to criticize the government.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,17,5,5,The rights of minority groups are protected.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,8,4,4,Different political parties offer clear alternatives to one another.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,16,5,5,The voice of each citizen counts equally and without discrimination.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,9,5,5,The military is under the control of civilian leaders.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,3,5,5,Civil society groups are involved in policymaking and implementation.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,19,5,5,A gender-sensitive policy is implemented in all political areas.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,12,5,5,There is a judicial system that treats everyone in the same way.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,18,5,5,There are no armed conflicts and the security sector is legitimised.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,11,5,5,Experts’ views are considered prior to government decision-making.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,15,5,5,People have the right to non-violent protest.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,5,5,5,Courts can prevent the government from acting beyond its authority.
+303,51,18,QB1,3,2024-10-17 19:01:58.933677857 +0000 UTC,81,1,5,5,Political decisions are made by directly elected representatives of the people.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,13,1,1,The government protects all citizens against poverty.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,4,5,5,Opposition parties are free to criticize the government.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,17,5,5,The rights of minority groups are protected.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,8,5,5,Different political parties offer clear alternatives to one another.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,16,5,5,The voice of each citizen counts equally and without discrimination.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,9,5,5,The military is under the control of civilian leaders.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,3,3,3,Civil society groups are involved in policymaking and implementation.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,19,1,1,A gender-sensitive policy is implemented in all political areas.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,12,5,5,There is a judicial system that treats everyone in the same way.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,18,3,3,There are no armed conflicts and the security sector is legitimised.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,11,0,0,Experts’ views are considered prior to government decision-making.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,14,0,0,"Citizens have the final say on the most important political issues, e.g., through referendum."
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,15,5,5,People have the right to non-violent protest.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,5,5,5,Courts can prevent the government from acting beyond its authority.
+379,57,18,QB1,3,2024-10-18 17:48:17.046986732 +0000 UTC,55,1,5,5,Political decisions are made by directly elected representatives of the people.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,13,3,3,The government protects all citizens against poverty.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,4,5,5,Opposition parties are free to criticize the government.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,17,4,4,The rights of minority groups are protected.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,2,98,6,Political decisions are made by independent experts rather than elected politicians or the people.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,8,4,4,Different political parties offer clear alternatives to one another.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,16,5,5,The voice of each citizen counts equally and without discrimination.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,9,4,4,The military is under the control of civilian leaders.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,3,2,2,Civil society groups are involved in policymaking and implementation.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,19,3,3,A gender-sensitive policy is implemented in all political areas.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,12,5,5,There is a judicial system that treats everyone in the same way.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,18,4,4,There are no armed conflicts and the security sector is legitimised.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,11,5,5,Experts’ views are considered prior to government decision-making.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,14,2,2,"Citizens have the final say on the most important political issues, e.g., through referendum."
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,15,4,4,People have the right to non-violent protest.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,5,5,5,Courts can prevent the government from acting beyond its authority.
+406,55,18,QB1,3,2024-10-21 09:32:18.237254729 +0000 UTC,131,1,3,3,Political decisions are made by directly elected representatives of the people.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,13,4,4,The government protects all citizens against poverty.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,4,5,5,Opposition parties are free to criticize the government.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,17,4,4,The rights of minority groups are protected.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,2,1,1,Political decisions are made by independent experts rather than elected politicians or the people.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,8,3,3,Different political parties offer clear alternatives to one another.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,16,5,5,The voice of each citizen counts equally and without discrimination.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,9,0,0,The military is under the control of civilian leaders.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,3,4,4,Civil society groups are involved in policymaking and implementation.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,19,5,5,A gender-sensitive policy is implemented in all political areas.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,12,5,5,There is a judicial system that treats everyone in the same way.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,18,5,5,There are no armed conflicts and the security sector is legitimised.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,10,3,3,"The media, both off-line and on-line, are free in their criticism of political leaders."
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,11,3,3,Experts’ views are considered prior to government decision-making.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,14,3,3,"Citizens have the final say on the most important political issues, e.g., through referendum."
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,15,5,5,People have the right to non-violent protest.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,5,5,5,Courts can prevent the government from acting beyond its authority.
+475,64,18,QB1,3,2024-10-24 12:05:44.829617189 +0000 UTC,127,1,5,5,Political decisions are made by directly elected representatives of the people.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,13,4,4,The government protects all citizens against poverty.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,4,5,5,Opposition parties are free to criticize the government.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,17,5,5,The rights of minority groups are protected.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,8,5,5,Different political parties offer clear alternatives to one another.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,16,5,5,The voice of each citizen counts equally and without discrimination.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,9,5,5,The military is under the control of civilian leaders.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,3,4,4,Civil society groups are involved in policymaking and implementation.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,19,5,5,A gender-sensitive policy is implemented in all political areas.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,12,5,5,There is a judicial system that treats everyone in the same way.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,18,5,5,There are no armed conflicts and the security sector is legitimised.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,11,4,4,Experts’ views are considered prior to government decision-making.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,14,2,2,"Citizens have the final say on the most important political issues, e.g., through referendum."
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,15,5,5,People have the right to non-violent protest.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,5,5,5,Courts can prevent the government from acting beyond its authority.
+517,69,18,QB1,3,2024-11-05 16:43:30.498295434 +0000 UTC,130,1,5,5,Political decisions are made by directly elected representatives of the people.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,13,4,4,The government protects all citizens against poverty.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,1,1,1,Political decisions are made by directly elected representatives of the people.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,3,4,4,Civil society groups are involved in policymaking and implementation.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,17,5,5,The rights of minority groups are protected.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,5,5,5,Courts can prevent the government from acting beyond its authority.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,14,1,1,"Citizens have the final say on the most important political issues, e.g., through referendum."
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,4,5,5,Opposition parties are free to criticize the government.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,2,98,6,Political decisions are made by independent experts rather than elected politicians or the people.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,19,5,5,A gender-sensitive policy is implemented in all political areas.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,12,5,5,There is a judicial system that treats everyone in the same way.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,18,5,5,There are no armed conflicts and the security sector is legitimised.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,15,5,5,People have the right to non-violent protest.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,16,5,5,The voice of each citizen counts equally and without discrimination.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,9,4,4,The military is under the control of civilian leaders.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,8,5,5,Different political parties offer clear alternatives to one another.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,11,5,5,Experts’ views are considered prior to government decision-making.
+637,76,18,QB1,3,2024-11-13 16:33:30.570847869 +0000 UTC,296,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,13,5,5,The government protects all citizens against poverty.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,1,5,5,Political decisions are made by directly elected representatives of the people.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,3,4,4,Civil society groups are involved in policymaking and implementation.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,17,4,4,The rights of minority groups are protected.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,5,5,5,Courts can prevent the government from acting beyond its authority.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,4,5,5,Opposition parties are free to criticize the government.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,2,98,6,Political decisions are made by independent experts rather than elected politicians or the people.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,19,4,4,A gender-sensitive policy is implemented in all political areas.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,12,5,5,There is a judicial system that treats everyone in the same way.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,18,5,5,There are no armed conflicts and the security sector is legitimised.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,15,5,5,People have the right to non-violent protest.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,16,3,3,The voice of each citizen counts equally and without discrimination.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,9,98,6,The military is under the control of civilian leaders.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,8,4,4,Different political parties offer clear alternatives to one another.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,11,3,3,Experts’ views are considered prior to government decision-making.
+665,94,18,QB1,3,2024-11-14 09:44:52.500678831 +0000 UTC,338,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,13,5,5,The government protects all citizens against poverty.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,1,3,3,Political decisions are made by directly elected representatives of the people.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,3,3,3,Civil society groups are involved in policymaking and implementation.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,17,5,5,The rights of minority groups are protected.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,5,5,5,Courts can prevent the government from acting beyond its authority.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,14,3,3,"Citizens have the final say on the most important political issues, e.g., through referendum."
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,4,4,4,Opposition parties are free to criticize the government.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,19,3,3,A gender-sensitive policy is implemented in all political areas.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,12,5,5,There is a judicial system that treats everyone in the same way.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,18,1,1,There are no armed conflicts and the security sector is legitimised.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,15,5,5,People have the right to non-violent protest.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,16,5,5,The voice of each citizen counts equally and without discrimination.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,9,5,5,The military is under the control of civilian leaders.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,8,3,3,Different political parties offer clear alternatives to one another.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,11,3,3,Experts’ views are considered prior to government decision-making.
+693,95,18,QB1,3,2024-11-14 10:07:39.355325623 +0000 UTC,107,7,3,3,Governing parties can be punished in elections if they fail to deliver on their promises.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,13,3,3,The government protects all citizens against poverty.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,14,3,3,"Citizens have the final say on the most important political issues, e.g., through referendum."
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,11,3,3,Experts’ views are considered prior to government decision-making.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,16,4,4,The voice of each citizen counts equally and without discrimination.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,1,98,6,Political decisions are made by directly elected representatives of the people.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,3,5,5,Civil society groups are involved in policymaking and implementation.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,15,4,4,People have the right to non-violent protest.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,7,98,6,Governing parties can be punished in elections if they fail to deliver on their promises.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,5,5,5,Courts can prevent the government from acting beyond its authority.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,10,4,4,"The media, both off-line and on-line, are free in their criticism of political leaders."
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,8,3,3,Different political parties offer clear alternatives to one another.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,17,4,4,The rights of minority groups are protected.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,9,4,4,The military is under the control of civilian leaders.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,4,5,5,Opposition parties are free to criticize the government.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,19,4,4,A gender-sensitive policy is implemented in all political areas.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,12,5,5,There is a judicial system that treats everyone in the same way.
+736,98,18,QB1,3,2024-11-21 10:39:32.197309395 +0000 UTC,230,18,5,5,There are no armed conflicts and the security sector is legitimised.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,13,3,3,The government protects all citizens against poverty.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,14,1,1,"Citizens have the final say on the most important political issues, e.g., through referendum."
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,11,4,4,Experts’ views are considered prior to government decision-making.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,16,3,3,The voice of each citizen counts equally and without discrimination.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,1,4,4,Political decisions are made by directly elected representatives of the people.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,3,3,3,Civil society groups are involved in policymaking and implementation.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,15,4,4,People have the right to non-violent protest.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,5,5,5,Courts can prevent the government from acting beyond its authority.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,8,1,1,Different political parties offer clear alternatives to one another.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,17,4,4,The rights of minority groups are protected.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,9,5,5,The military is under the control of civilian leaders.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,4,5,5,Opposition parties are free to criticize the government.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,19,1,1,A gender-sensitive policy is implemented in all political areas.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,12,5,5,There is a judicial system that treats everyone in the same way.
+786,102,18,QB1,3,2024-11-27 15:08:41.626369441 +0000 UTC,151,18,5,5,There are no armed conflicts and the security sector is legitimised.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,13,4,4,The government protects all citizens against poverty.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,14,2,2,"Citizens have the final say on the most important political issues, e.g., through referendum."
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,11,4,4,Experts’ views are considered prior to government decision-making.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,16,2,2,The voice of each citizen counts equally and without discrimination.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,1,5,5,Political decisions are made by directly elected representatives of the people.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,3,3,3,Civil society groups are involved in policymaking and implementation.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,15,5,5,People have the right to non-violent protest.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,5,5,5,Courts can prevent the government from acting beyond its authority.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,8,4,4,Different political parties offer clear alternatives to one another.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,17,5,5,The rights of minority groups are protected.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,9,5,5,The military is under the control of civilian leaders.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,4,5,5,Opposition parties are free to criticize the government.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,19,4,4,A gender-sensitive policy is implemented in all political areas.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,12,5,5,There is a judicial system that treats everyone in the same way.
+814,103,18,QB1,3,2024-11-27 16:51:35.23880797 +0000 UTC,79,18,5,5,There are no armed conflicts and the security sector is legitimised.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,13,4,4,The government protects all citizens against poverty.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,14,1,1,"Citizens have the final say on the most important political issues, e.g., through referendum."
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,11,4,4,Experts’ views are considered prior to government decision-making.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,16,5,5,The voice of each citizen counts equally and without discrimination.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,1,4,4,Political decisions are made by directly elected representatives of the people.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,2,3,3,Political decisions are made by independent experts rather than elected politicians or the people.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,3,5,5,Civil society groups are involved in policymaking and implementation.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,15,5,5,People have the right to non-violent protest.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,7,3,3,Governing parties can be punished in elections if they fail to deliver on their promises.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,5,5,5,Courts can prevent the government from acting beyond its authority.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,8,1,1,Different political parties offer clear alternatives to one another.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,17,4,4,The rights of minority groups are protected.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,9,98,6,The military is under the control of civilian leaders.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,4,5,5,Opposition parties are free to criticize the government.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,19,5,5,A gender-sensitive policy is implemented in all political areas.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,12,5,5,There is a judicial system that treats everyone in the same way.
+856,108,18,QB1,3,2024-12-02 07:55:19.801211787 +0000 UTC,196,18,5,5,There are no armed conflicts and the security sector is legitimised.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,13,4,4,The government protects all citizens against poverty.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,11,4,4,Experts’ views are considered prior to government decision-making.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,16,5,5,The voice of each citizen counts equally and without discrimination.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,1,5,5,Political decisions are made by directly elected representatives of the people.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,3,4,4,Civil society groups are involved in policymaking and implementation.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,15,5,5,People have the right to non-violent protest.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,7,0,0,Governing parties can be punished in elections if they fail to deliver on their promises.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,5,5,5,Courts can prevent the government from acting beyond its authority.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,8,1,1,Different political parties offer clear alternatives to one another.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,17,5,5,The rights of minority groups are protected.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,9,5,5,The military is under the control of civilian leaders.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,4,5,5,Opposition parties are free to criticize the government.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,19,5,5,A gender-sensitive policy is implemented in all political areas.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,12,5,5,There is a judicial system that treats everyone in the same way.
+894,115,18,QB1,3,2024-12-10 16:18:23.986401562 +0000 UTC,120,18,5,5,There are no armed conflicts and the security sector is legitimised.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,13,5,5,The government protects all citizens against poverty.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,14,1,1,"Citizens have the final say on the most important political issues, e.g., through referendum."
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,11,1,1,Experts’ views are considered prior to government decision-making.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,16,98,6,The voice of each citizen counts equally and without discrimination.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,1,3,3,Political decisions are made by directly elected representatives of the people.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,3,3,3,Civil society groups are involved in policymaking and implementation.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,15,98,6,People have the right to non-violent protest.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,7,1,1,Governing parties can be punished in elections if they fail to deliver on their promises.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,5,98,6,Courts can prevent the government from acting beyond its authority.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,10,98,6,"The media, both off-line and on-line, are free in their criticism of political leaders."
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,8,5,5,Different political parties offer clear alternatives to one another.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,17,5,5,The rights of minority groups are protected.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,9,5,5,The military is under the control of civilian leaders.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,4,98,6,Opposition parties are free to criticize the government.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,19,5,5,A gender-sensitive policy is implemented in all political areas.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,12,98,6,There is a judicial system that treats everyone in the same way.
+929,117,18,QB1,3,2024-12-11 13:13:21.648554978 +0000 UTC,171,18,98,6,There are no armed conflicts and the security sector is legitimised.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,13,4,4,The government protects all citizens against poverty.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,14,1,1,"Citizens have the final say on the most important political issues, e.g., through referendum."
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,11,3,3,Experts’ views are considered prior to government decision-making.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,16,5,5,The voice of each citizen counts equally and without discrimination.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,1,5,5,Political decisions are made by directly elected representatives of the people.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,3,1,1,Civil society groups are involved in policymaking and implementation.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,15,5,5,People have the right to non-violent protest.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,7,0,0,Governing parties can be punished in elections if they fail to deliver on their promises.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,5,5,5,Courts can prevent the government from acting beyond its authority.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,8,3,3,Different political parties offer clear alternatives to one another.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,17,2,2,The rights of minority groups are protected.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,9,4,4,The military is under the control of civilian leaders.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,4,5,5,Opposition parties are free to criticize the government.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,19,1,1,A gender-sensitive policy is implemented in all political areas.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,12,5,5,There is a judicial system that treats everyone in the same way.
+960,119,18,QB1,3,2024-12-11 14:26:59.164824862 +0000 UTC,176,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,13,4,4,The government protects all citizens against poverty.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,14,2,2,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,11,3,3,Experts’ views are considered prior to government decision-making.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,16,5,5,The voice of each citizen counts equally and without discrimination.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,1,1,1,Political decisions are made by directly elected representatives of the people.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,3,4,4,Civil society groups are involved in policymaking and implementation.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,15,5,5,People have the right to non-violent protest.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,5,5,5,Courts can prevent the government from acting beyond its authority.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,8,3,3,Different political parties offer clear alternatives to one another.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,17,5,5,The rights of minority groups are protected.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,9,4,4,The military is under the control of civilian leaders.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,4,5,5,Opposition parties are free to criticize the government.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,19,5,5,A gender-sensitive policy is implemented in all political areas.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,12,5,5,There is a judicial system that treats everyone in the same way.
+1066,132,18,QB1,3,2024-12-17 11:53:28.644216595 +0000 UTC,120,18,4,4,There are no armed conflicts and the security sector is legitimised.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,13,4,4,The government protects all citizens against poverty.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,11,3,3,Experts’ views are considered prior to government decision-making.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,16,4,4,The voice of each citizen counts equally and without discrimination.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,1,0,0,Political decisions are made by directly elected representatives of the people.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,3,5,5,Civil society groups are involved in policymaking and implementation.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,15,5,5,People have the right to non-violent protest.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,7,3,3,Governing parties can be punished in elections if they fail to deliver on their promises.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,5,5,5,Courts can prevent the government from acting beyond its authority.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,8,4,4,Different political parties offer clear alternatives to one another.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,17,4,4,The rights of minority groups are protected.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,9,5,5,The military is under the control of civilian leaders.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,4,5,5,Opposition parties are free to criticize the government.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,19,5,5,A gender-sensitive policy is implemented in all political areas.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,12,5,5,There is a judicial system that treats everyone in the same way.
+1189,148,18,QB1,3,2025-01-05 16:42:45.303262057 +0000 UTC,96,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,13,4,4,The government protects all citizens against poverty.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,14,4,4,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,11,5,5,Experts’ views are considered prior to government decision-making.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,16,4,4,The voice of each citizen counts equally and without discrimination.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,1,3,3,Political decisions are made by directly elected representatives of the people.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,2,4,4,Political decisions are made by independent experts rather than elected politicians or the people.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,3,5,5,Civil society groups are involved in policymaking and implementation.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,15,4,4,People have the right to non-violent protest.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,7,3,3,Governing parties can be punished in elections if they fail to deliver on their promises.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,5,4,4,Courts can prevent the government from acting beyond its authority.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,8,4,4,Different political parties offer clear alternatives to one another.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,17,5,5,The rights of minority groups are protected.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,9,5,5,The military is under the control of civilian leaders.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,4,3,3,Opposition parties are free to criticize the government.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,19,3,3,A gender-sensitive policy is implemented in all political areas.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,12,3,3,There is a judicial system that treats everyone in the same way.
+1217,149,18,QB1,3,2025-01-05 16:55:56.273243375 +0000 UTC,26,18,4,4,There are no armed conflicts and the security sector is legitimised.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,13,4,4,The government protects all citizens against poverty.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,11,4,4,Experts’ views are considered prior to government decision-making.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,16,3,3,The voice of each citizen counts equally and without discrimination.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,1,5,5,Political decisions are made by directly elected representatives of the people.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,2,5,5,Political decisions are made by independent experts rather than elected politicians or the people.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,3,4,4,Civil society groups are involved in policymaking and implementation.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,15,5,5,People have the right to non-violent protest.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,5,5,5,Courts can prevent the government from acting beyond its authority.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,10,4,4,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,8,3,3,Different political parties offer clear alternatives to one another.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,17,5,5,The rights of minority groups are protected.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,9,4,4,The military is under the control of civilian leaders.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,4,3,3,Opposition parties are free to criticize the government.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,12,5,5,There is a judicial system that treats everyone in the same way.
+1247,151,18,QB1,3,2025-01-05 17:17:00.88711834 +0000 UTC,33,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,13,4,4,The government protects all citizens against poverty.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,14,4,4,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,11,5,5,Experts’ views are considered prior to government decision-making.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,16,5,5,The voice of each citizen counts equally and without discrimination.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,1,4,4,Political decisions are made by directly elected representatives of the people.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,2,5,5,Political decisions are made by independent experts rather than elected politicians or the people.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,3,4,4,Civil society groups are involved in policymaking and implementation.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,15,4,4,People have the right to non-violent protest.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,5,4,4,Courts can prevent the government from acting beyond its authority.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,8,4,4,Different political parties offer clear alternatives to one another.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,17,3,3,The rights of minority groups are protected.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,9,4,4,The military is under the control of civilian leaders.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,4,5,5,Opposition parties are free to criticize the government.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,19,3,3,A gender-sensitive policy is implemented in all political areas.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,12,4,4,There is a judicial system that treats everyone in the same way.
+1275,152,18,QB1,3,2025-01-05 17:23:30.849630985 +0000 UTC,18,18,4,4,There are no armed conflicts and the security sector is legitimised.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,6,3,3,Free and fair national elections are held regularly with a choice of at least two political parties.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,13,2,2,The government protects all citizens against poverty.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,14,3,3,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,11,4,4,Experts’ views are considered prior to government decision-making.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,16,3,3,The voice of each citizen counts equally and without discrimination.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,1,3,3,Political decisions are made by directly elected representatives of the people.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,2,4,4,Political decisions are made by independent experts rather than elected politicians or the people.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,3,3,3,Civil society groups are involved in policymaking and implementation.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,15,2,2,People have the right to non-violent protest.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,7,3,3,Governing parties can be punished in elections if they fail to deliver on their promises.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,5,4,4,Courts can prevent the government from acting beyond its authority.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,10,3,3,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,8,4,4,Different political parties offer clear alternatives to one another.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,17,3,3,The rights of minority groups are protected.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,9,3,3,The military is under the control of civilian leaders.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,4,2,2,Opposition parties are free to criticize the government.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,12,4,4,There is a judicial system that treats everyone in the same way.
+1303,153,18,QB1,3,2025-01-05 17:31:33.778501722 +0000 UTC,40,18,4,4,There are no armed conflicts and the security sector is legitimised.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,13,5,5,The government protects all citizens against poverty.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,11,4,4,Experts’ views are considered prior to government decision-making.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,16,3,3,The voice of each citizen counts equally and without discrimination.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,1,4,4,Political decisions are made by directly elected representatives of the people.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,2,5,5,Political decisions are made by independent experts rather than elected politicians or the people.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,3,3,3,Civil society groups are involved in policymaking and implementation.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,15,4,4,People have the right to non-violent protest.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,5,5,5,Courts can prevent the government from acting beyond its authority.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,10,3,3,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,8,4,4,Different political parties offer clear alternatives to one another.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,17,4,4,The rights of minority groups are protected.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,9,3,3,The military is under the control of civilian leaders.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,4,4,4,Opposition parties are free to criticize the government.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,19,5,5,A gender-sensitive policy is implemented in all political areas.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,12,4,4,There is a judicial system that treats everyone in the same way.
+1331,154,18,QB1,3,2025-01-05 17:37:46.3373048 +0000 UTC,38,18,3,3,There are no armed conflicts and the security sector is legitimised.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,13,3,3,The government protects all citizens against poverty.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,14,2,2,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,11,3,3,Experts’ views are considered prior to government decision-making.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,16,2,2,The voice of each citizen counts equally and without discrimination.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,1,2,2,Political decisions are made by directly elected representatives of the people.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,2,4,4,Political decisions are made by independent experts rather than elected politicians or the people.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,3,5,5,Civil society groups are involved in policymaking and implementation.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,15,5,5,People have the right to non-violent protest.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,5,4,4,Courts can prevent the government from acting beyond its authority.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,8,5,5,Different political parties offer clear alternatives to one another.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,17,5,5,The rights of minority groups are protected.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,9,5,5,The military is under the control of civilian leaders.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,4,4,4,Opposition parties are free to criticize the government.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,12,4,4,There is a judicial system that treats everyone in the same way.
+1359,155,18,QB1,3,2025-01-05 18:34:05.223710921 +0000 UTC,15,18,3,3,There are no armed conflicts and the security sector is legitimised.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,13,5,5,The government protects all citizens against poverty.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,14,4,4,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,11,4,4,Experts’ views are considered prior to government decision-making.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,16,5,5,The voice of each citizen counts equally and without discrimination.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,1,5,5,Political decisions are made by directly elected representatives of the people.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,2,4,4,Political decisions are made by independent experts rather than elected politicians or the people.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,3,5,5,Civil society groups are involved in policymaking and implementation.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,15,5,5,People have the right to non-violent protest.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,5,5,5,Courts can prevent the government from acting beyond its authority.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,8,4,4,Different political parties offer clear alternatives to one another.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,17,5,5,The rights of minority groups are protected.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,9,5,5,The military is under the control of civilian leaders.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,4,4,4,Opposition parties are free to criticize the government.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,19,5,5,A gender-sensitive policy is implemented in all political areas.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,12,5,5,There is a judicial system that treats everyone in the same way.
+1387,156,18,QB1,3,2025-01-05 18:39:47.963385644 +0000 UTC,83,18,4,4,There are no armed conflicts and the security sector is legitimised.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,13,4,4,The government protects all citizens against poverty.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,14,3,3,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,11,4,4,Experts’ views are considered prior to government decision-making.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,16,4,4,The voice of each citizen counts equally and without discrimination.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,1,4,4,Political decisions are made by directly elected representatives of the people.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,2,5,5,Political decisions are made by independent experts rather than elected politicians or the people.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,3,5,5,Civil society groups are involved in policymaking and implementation.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,15,4,4,People have the right to non-violent protest.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,5,5,5,Courts can prevent the government from acting beyond its authority.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,8,4,4,Different political parties offer clear alternatives to one another.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,17,4,4,The rights of minority groups are protected.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,9,4,4,The military is under the control of civilian leaders.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,4,5,5,Opposition parties are free to criticize the government.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,19,5,5,A gender-sensitive policy is implemented in all political areas.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,12,5,5,There is a judicial system that treats everyone in the same way.
+1415,157,18,QB1,3,2025-01-05 18:49:47.321357398 +0000 UTC,30,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,13,4,4,The government protects all citizens against poverty.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,11,5,5,Experts’ views are considered prior to government decision-making.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,16,5,5,The voice of each citizen counts equally and without discrimination.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,1,4,4,Political decisions are made by directly elected representatives of the people.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,2,4,4,Political decisions are made by independent experts rather than elected politicians or the people.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,3,5,5,Civil society groups are involved in policymaking and implementation.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,15,4,4,People have the right to non-violent protest.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,5,5,5,Courts can prevent the government from acting beyond its authority.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,10,4,4,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,8,5,5,Different political parties offer clear alternatives to one another.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,17,4,4,The rights of minority groups are protected.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,9,5,5,The military is under the control of civilian leaders.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,4,5,5,Opposition parties are free to criticize the government.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,19,5,5,A gender-sensitive policy is implemented in all political areas.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,12,4,4,There is a judicial system that treats everyone in the same way.
+1443,158,18,QB1,3,2025-01-05 19:01:30.500438754 +0000 UTC,14,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,13,4,4,The government protects all citizens against poverty.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,11,5,5,Experts’ views are considered prior to government decision-making.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,16,4,4,The voice of each citizen counts equally and without discrimination.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,1,5,5,Political decisions are made by directly elected representatives of the people.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,2,4,4,Political decisions are made by independent experts rather than elected politicians or the people.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,3,5,5,Civil society groups are involved in policymaking and implementation.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,15,5,5,People have the right to non-violent protest.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,5,4,4,Courts can prevent the government from acting beyond its authority.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,8,5,5,Different political parties offer clear alternatives to one another.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,17,5,5,The rights of minority groups are protected.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,9,4,4,The military is under the control of civilian leaders.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,4,5,5,Opposition parties are free to criticize the government.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,12,5,5,There is a judicial system that treats everyone in the same way.
+1471,159,18,QB1,3,2025-01-05 19:08:35.479157306 +0000 UTC,15,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,13,4,4,The government protects all citizens against poverty.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,11,5,5,Experts’ views are considered prior to government decision-making.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,16,5,5,The voice of each citizen counts equally and without discrimination.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,1,5,5,Political decisions are made by directly elected representatives of the people.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,2,4,4,Political decisions are made by independent experts rather than elected politicians or the people.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,3,5,5,Civil society groups are involved in policymaking and implementation.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,15,5,5,People have the right to non-violent protest.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,5,4,4,Courts can prevent the government from acting beyond its authority.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,8,5,5,Different political parties offer clear alternatives to one another.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,17,4,4,The rights of minority groups are protected.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,9,5,5,The military is under the control of civilian leaders.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,4,5,5,Opposition parties are free to criticize the government.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,12,5,5,There is a judicial system that treats everyone in the same way.
+1499,160,18,QB1,3,2025-01-05 19:12:44.821118439 +0000 UTC,15,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,13,5,5,The government protects all citizens against poverty.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,14,4,4,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,11,3,3,Experts’ views are considered prior to government decision-making.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,16,4,4,The voice of each citizen counts equally and without discrimination.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,1,5,5,Political decisions are made by directly elected representatives of the people.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,2,4,4,Political decisions are made by independent experts rather than elected politicians or the people.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,3,5,5,Civil society groups are involved in policymaking and implementation.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,15,3,3,People have the right to non-violent protest.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,5,5,5,Courts can prevent the government from acting beyond its authority.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,8,5,5,Different political parties offer clear alternatives to one another.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,17,5,5,The rights of minority groups are protected.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,9,4,4,The military is under the control of civilian leaders.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,4,4,4,Opposition parties are free to criticize the government.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,12,5,5,There is a judicial system that treats everyone in the same way.
+1527,161,18,QB1,3,2025-01-05 19:24:51.53139415 +0000 UTC,16,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,13,5,5,The government protects all citizens against poverty.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,11,5,5,Experts’ views are considered prior to government decision-making.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,16,4,4,The voice of each citizen counts equally and without discrimination.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,1,4,4,Political decisions are made by directly elected representatives of the people.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,2,5,5,Political decisions are made by independent experts rather than elected politicians or the people.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,3,5,5,Civil society groups are involved in policymaking and implementation.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,15,4,4,People have the right to non-violent protest.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,5,5,5,Courts can prevent the government from acting beyond its authority.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,10,4,4,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,8,5,5,Different political parties offer clear alternatives to one another.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,17,5,5,The rights of minority groups are protected.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,9,4,4,The military is under the control of civilian leaders.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,4,4,4,Opposition parties are free to criticize the government.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,19,5,5,A gender-sensitive policy is implemented in all political areas.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,12,5,5,There is a judicial system that treats everyone in the same way.
+1555,162,18,QB1,3,2025-01-05 19:29:14.629426738 +0000 UTC,12,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,6,3,3,Free and fair national elections are held regularly with a choice of at least two political parties.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,13,2,2,The government protects all citizens against poverty.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,14,3,3,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,11,4,4,Experts’ views are considered prior to government decision-making.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,16,3,3,The voice of each citizen counts equally and without discrimination.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,1,3,3,Political decisions are made by directly elected representatives of the people.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,2,4,4,Political decisions are made by independent experts rather than elected politicians or the people.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,3,5,5,Civil society groups are involved in policymaking and implementation.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,15,5,5,People have the right to non-violent protest.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,5,4,4,Courts can prevent the government from acting beyond its authority.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,8,3,3,Different political parties offer clear alternatives to one another.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,17,3,3,The rights of minority groups are protected.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,9,4,4,The military is under the control of civilian leaders.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,4,5,5,Opposition parties are free to criticize the government.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,19,3,3,A gender-sensitive policy is implemented in all political areas.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,12,4,4,There is a judicial system that treats everyone in the same way.
+1586,164,18,QB1,3,2025-01-05 19:34:07.414171876 +0000 UTC,16,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,13,5,5,The government protects all citizens against poverty.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,11,3,3,Experts’ views are considered prior to government decision-making.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,16,4,4,The voice of each citizen counts equally and without discrimination.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,1,4,4,Political decisions are made by directly elected representatives of the people.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,2,5,5,Political decisions are made by independent experts rather than elected politicians or the people.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,3,3,3,Civil society groups are involved in policymaking and implementation.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,15,4,4,People have the right to non-violent protest.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,5,5,5,Courts can prevent the government from acting beyond its authority.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,10,4,4,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,8,4,4,Different political parties offer clear alternatives to one another.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,17,5,5,The rights of minority groups are protected.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,9,4,4,The military is under the control of civilian leaders.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,4,4,4,Opposition parties are free to criticize the government.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,12,4,4,There is a judicial system that treats everyone in the same way.
+1614,165,18,QB1,3,2025-01-05 19:42:39.684773325 +0000 UTC,15,18,4,4,There are no armed conflicts and the security sector is legitimised.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,6,3,3,Free and fair national elections are held regularly with a choice of at least two political parties.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,13,3,3,The government protects all citizens against poverty.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,14,2,2,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,11,4,4,Experts’ views are considered prior to government decision-making.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,16,4,4,The voice of each citizen counts equally and without discrimination.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,1,3,3,Political decisions are made by directly elected representatives of the people.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,2,3,3,Political decisions are made by independent experts rather than elected politicians or the people.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,3,4,4,Civil society groups are involved in policymaking and implementation.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,15,5,5,People have the right to non-violent protest.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,5,4,4,Courts can prevent the government from acting beyond its authority.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,10,4,4,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,8,4,4,Different political parties offer clear alternatives to one another.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,17,5,5,The rights of minority groups are protected.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,9,5,5,The military is under the control of civilian leaders.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,4,3,3,Opposition parties are free to criticize the government.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,19,3,3,A gender-sensitive policy is implemented in all political areas.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,12,4,4,There is a judicial system that treats everyone in the same way.
+1642,166,18,QB1,3,2025-01-05 19:46:56.55492225 +0000 UTC,15,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,13,5,5,The government protects all citizens against poverty.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,14,4,4,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,11,5,5,Experts’ views are considered prior to government decision-making.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,16,5,5,The voice of each citizen counts equally and without discrimination.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,1,4,4,Political decisions are made by directly elected representatives of the people.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,2,4,4,Political decisions are made by independent experts rather than elected politicians or the people.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,3,5,5,Civil society groups are involved in policymaking and implementation.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,15,5,5,People have the right to non-violent protest.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,5,4,4,Courts can prevent the government from acting beyond its authority.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,8,4,4,Different political parties offer clear alternatives to one another.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,17,5,5,The rights of minority groups are protected.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,9,4,4,The military is under the control of civilian leaders.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,4,5,5,Opposition parties are free to criticize the government.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,12,5,5,There is a judicial system that treats everyone in the same way.
+1670,167,18,QB1,3,2025-01-05 19:51:23.516514525 +0000 UTC,15,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,13,3,3,The government protects all citizens against poverty.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,14,4,4,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,11,3,3,Experts’ views are considered prior to government decision-making.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,16,5,5,The voice of each citizen counts equally and without discrimination.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,1,5,5,Political decisions are made by directly elected representatives of the people.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,3,4,4,Civil society groups are involved in policymaking and implementation.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,15,5,5,People have the right to non-violent protest.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,5,5,5,Courts can prevent the government from acting beyond its authority.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,8,4,4,Different political parties offer clear alternatives to one another.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,17,5,5,The rights of minority groups are protected.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,9,3,3,The military is under the control of civilian leaders.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,4,5,5,Opposition parties are free to criticize the government.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,19,2,2,A gender-sensitive policy is implemented in all political areas.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,12,5,5,There is a judicial system that treats everyone in the same way.
+1698,168,18,QB1,3,2025-01-07 13:49:46.401239893 +0000 UTC,157,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,13,4,4,The government protects all citizens against poverty.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,14,1,1,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,11,1,1,Experts’ views are considered prior to government decision-making.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,16,5,5,The voice of each citizen counts equally and without discrimination.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,1,1,1,Political decisions are made by directly elected representatives of the people.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,3,4,4,Civil society groups are involved in policymaking and implementation.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,15,4,4,People have the right to non-violent protest.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,5,5,5,Courts can prevent the government from acting beyond its authority.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,8,2,2,Different political parties offer clear alternatives to one another.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,17,4,4,The rights of minority groups are protected.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,9,4,4,The military is under the control of civilian leaders.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,4,5,5,Opposition parties are free to criticize the government.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,12,5,5,There is a judicial system that treats everyone in the same way.
+1726,169,18,QB1,3,2025-01-08 12:58:43.278233637 +0000 UTC,156,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,13,4,4,The government protects all citizens against poverty.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,14,2,2,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,11,3,3,Experts’ views are considered prior to government decision-making.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,16,4,4,The voice of each citizen counts equally and without discrimination.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,1,5,5,Political decisions are made by directly elected representatives of the people.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,3,5,5,Civil society groups are involved in policymaking and implementation.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,15,4,4,People have the right to non-violent protest.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,5,5,5,Courts can prevent the government from acting beyond its authority.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,10,4,4,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,8,3,3,Different political parties offer clear alternatives to one another.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,17,3,3,The rights of minority groups are protected.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,9,5,5,The military is under the control of civilian leaders.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,4,4,4,Opposition parties are free to criticize the government.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,12,5,5,There is a judicial system that treats everyone in the same way.
+1754,170,18,QB1,3,2025-01-15 13:54:38.585331494 +0000 UTC,165,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,6,5,5,"Es finden regelmässig freie und faire nationale Wahlen statt, bei denen mindestens zwei politische Parteien zur Wahl stehen."
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,10,5,5,"Die Medien, sowohl offline als auch online, sind frei in ihrer Kritik an der politischen Führung."
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,19,2,2,Eine geschlechtersensible Politik wird in allen politischen Bereichen umgesetzt.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,2,1,1,Politische Entscheidungen werden von unabhängigen Expert:innen und nicht von gewählten Politiker:innen oder dem Volk getroffen.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,17,1,1,Die Rechte von Minderheitengruppen werden geschützt.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,14,4,4,"Die Bürger:innen haben das letzte Wort in den wichtigsten politischen Fragen, z. B. durch ein Referendum."
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,5,2,2,"Die Gerichte können die Regierung daran hindern, ausserhalb ihrer Befugnisse zu handeln."
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,1,5,5,Politische Entscheidungen werden von direkt gewählten Vertreter:innen des Volkes getroffen.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,18,2,2,Es gibt keine bewaffneten Konflikte und der Sicherheitssektor ist legitimiert.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,4,5,5,"Den Oppositionsparteien steht es frei, die Regierung zu kritisieren."
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,11,4,4,Die Meinung von Expert:innen wird vor der Entscheidungsfindung der Regierung berücksichtigt.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,16,4,4,Die Stimme aller Bürger:innen zählt gleichermassen und ohne Diskriminierung.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,3,1,1,Gruppen der Zivilgesellschaft sind an der Politikgestaltung und -umsetzung beteiligt.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,7,5,5,"Regierungsparteien können bei Wahlen abgestraft werden, wenn sie ihre Versprechen nicht einhalten."
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,9,4,4,Das Militär steht unter der Kontrolle der zivilen Führung.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,8,4,4,Die verschiedenen politischen Parteien bieten klare Alternativen zueinander.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,12,5,5,"Es gibt ein Justizsystem, das alle Menschen gleich behandelt."
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,13,2,2,Der Staat schützt alle Bürger:innen vor Armut.
+1802,176,18,QB1,3,2025-01-28 20:41:15.288569945 +0000 UTC,133,15,5,5,Die Menschen haben das Recht auf gewaltfreien Protest.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,13,4,4,The government protects all citizens against poverty.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,14,3,3,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,11,5,5,Experts’ views are considered prior to government decision-making.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,16,5,5,The voice of each citizen counts equally and without discrimination.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,1,5,5,Political decisions are made by directly elected representatives of the people.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,3,5,5,Civil society groups are involved in policymaking and implementation.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,15,5,5,People have the right to non-violent protest.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,5,5,5,Courts can prevent the government from acting beyond its authority.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,8,2,2,Different political parties offer clear alternatives to one another.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,17,5,5,The rights of minority groups are protected.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,9,5,5,The military is under the control of civilian leaders.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,4,5,5,Opposition parties are free to criticize the government.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,12,5,5,There is a judicial system that treats everyone in the same way.
+1838,179,18,QB1,3,2025-01-28 22:59:47.675848956 +0000 UTC,162,18,5,5,There are no armed conflicts and the security sector is legitimised.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,13,4,4,The government protects all citizens against poverty.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,14,0,0,"Citizens have the final say on the most important political issues, e.g., through referendum."
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,11,3,3,Experts’ views are considered prior to government decision-making.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,16,5,5,The voice of each citizen counts equally and without discrimination.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,1,5,5,Political decisions are made by directly elected representatives of the people.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,2,1,1,Political decisions are made by independent experts rather than elected politicians or the people.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,3,5,5,Civil society groups are involved in policymaking and implementation.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,15,5,5,People have the right to non-violent protest.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,5,5,5,Courts can prevent the government from acting beyond its authority.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,8,4,4,Different political parties offer clear alternatives to one another.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,17,5,5,The rights of minority groups are protected.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,9,5,5,The military is under the control of civilian leaders.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,4,5,5,Opposition parties are free to criticize the government.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,19,4,4,A gender-sensitive policy is implemented in all political areas.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,12,5,5,There is a judicial system that treats everyone in the same way.
+1942,191,18,QB1,3,2025-01-29 13:55:28.123566486 +0000 UTC,173,18,5,5,There are no armed conflicts and the security sector is legitimised.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,6,4,4,Free and fair national elections are held regularly with a choice of at least two political parties.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,13,5,5,The government protects all citizens against poverty.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,11,4,4,Experts’ views are considered prior to government decision-making.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,16,4,4,The voice of each citizen counts equally and without discrimination.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,1,3,3,Political decisions are made by directly elected representatives of the people.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,2,2,2,Political decisions are made by independent experts rather than elected politicians or the people.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,3,4,4,Civil society groups are involved in policymaking and implementation.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,15,5,5,People have the right to non-violent protest.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,7,3,3,Governing parties can be punished in elections if they fail to deliver on their promises.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,5,5,5,Courts can prevent the government from acting beyond its authority.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,8,4,4,Different political parties offer clear alternatives to one another.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,17,4,4,The rights of minority groups are protected.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,9,5,5,The military is under the control of civilian leaders.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,4,5,5,Opposition parties are free to criticize the government.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,19,4,4,A gender-sensitive policy is implemented in all political areas.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,12,5,5,There is a judicial system that treats everyone in the same way.
+2030,199,18,QB1,3,2025-02-03 16:04:33.801334438 +0000 UTC,148,18,5,5,There are no armed conflicts and the security sector is legitimised.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,13,5,5,The government protects all citizens against poverty.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,11,5,5,Experts’ views are considered prior to government decision-making.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,16,5,5,The voice of each citizen counts equally and without discrimination.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,1,5,5,Political decisions are made by directly elected representatives of the people.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,2,5,5,Political decisions are made by independent experts rather than elected politicians or the people.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,3,5,5,Civil society groups are involved in policymaking and implementation.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,15,5,5,People have the right to non-violent protest.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,5,5,5,Courts can prevent the government from acting beyond its authority.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,8,5,5,Different political parties offer clear alternatives to one another.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,17,5,5,The rights of minority groups are protected.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,9,5,5,The military is under the control of civilian leaders.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,4,5,5,Opposition parties are free to criticize the government.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,19,5,5,A gender-sensitive policy is implemented in all political areas.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,12,5,5,There is a judicial system that treats everyone in the same way.
+2063,201,18,QB1,3,2025-02-05 21:43:17.970869922 +0000 UTC,54,18,5,5,There are no armed conflicts and the security sector is legitimised.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,9,4,4,The military is under the control of civilian leaders.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,14,4,4,"Citizens have the final say on the most important political issues, e.g., through referendum."
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,17,4,4,The rights of minority groups are protected.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,5,5,5,Courts can prevent the government from acting beyond its authority.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,4,5,5,Opposition parties are free to criticize the government.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,3,4,4,Civil society groups are involved in policymaking and implementation.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,13,3,3,The government protects all citizens against poverty.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,16,5,5,The voice of each citizen counts equally and without discrimination.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,2,3,3,Political decisions are made by independent experts rather than elected politicians or the people.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,15,3,3,People have the right to non-violent protest.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,8,3,3,Different political parties offer clear alternatives to one another.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,11,5,5,Experts’ views are considered prior to government decision-making.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,12,5,5,There is a judicial system that treats everyone in the same way.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,1,5,5,Political decisions are made by directly elected representatives of the people.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,18,5,5,There are no armed conflicts and the security sector is legitimised.
+2172,217,18,QB1,3,2025-03-11 15:20:36.781832869 +0000 UTC,45,19,3,3,A gender-sensitive policy is implemented in all political areas.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,9,5,5,The military is under the control of civilian leaders.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,14,3,3,"Citizens have the final say on the most important political issues, e.g., through referendum."
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,17,5,5,The rights of minority groups are protected.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,5,5,5,Courts can prevent the government from acting beyond its authority.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,4,5,5,Opposition parties are free to criticize the government.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,3,4,4,Civil society groups are involved in policymaking and implementation.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,13,3,3,The government protects all citizens against poverty.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,16,5,5,The voice of each citizen counts equally and without discrimination.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,15,5,5,People have the right to non-violent protest.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,8,4,4,Different political parties offer clear alternatives to one another.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,11,3,3,Experts’ views are considered prior to government decision-making.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,12,5,5,There is a judicial system that treats everyone in the same way.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,1,5,5,Political decisions are made by directly elected representatives of the people.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,18,4,4,There are no armed conflicts and the security sector is legitimised.
+2200,219,18,QB1,3,2025-03-17 16:17:12.256272497 +0000 UTC,132,19,3,3,A gender-sensitive policy is implemented in all political areas.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,9,5,5,The military is under the control of civilian leaders.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,14,1,1,"Citizens have the final say on the most important political issues, e.g., through referendum."
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,17,5,5,The rights of minority groups are protected.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,5,5,5,Courts can prevent the government from acting beyond its authority.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,4,5,5,Opposition parties are free to criticize the government.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,3,5,5,Civil society groups are involved in policymaking and implementation.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,13,5,5,The government protects all citizens against poverty.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,16,5,5,The voice of each citizen counts equally and without discrimination.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,2,1,1,Political decisions are made by independent experts rather than elected politicians or the people.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,15,5,5,People have the right to non-violent protest.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,8,5,5,Different political parties offer clear alternatives to one another.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,11,5,5,Experts’ views are considered prior to government decision-making.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,12,5,5,There is a judicial system that treats everyone in the same way.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,1,5,5,Political decisions are made by directly elected representatives of the people.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,18,5,5,There are no armed conflicts and the security sector is legitimised.
+2228,220,18,QB1,3,2025-03-18 12:31:45.931435916 +0000 UTC,197,19,5,5,A gender-sensitive policy is implemented in all political areas.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,9,98,6,The military is under the control of civilian leaders.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,14,98,6,"Citizens have the final say on the most important political issues, e.g., through referendum."
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,17,98,6,The rights of minority groups are protected.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,5,98,6,Courts can prevent the government from acting beyond its authority.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,4,98,6,Opposition parties are free to criticize the government.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,3,98,6,Civil society groups are involved in policymaking and implementation.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,6,98,6,Free and fair national elections are held regularly with a choice of at least two political parties.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,13,98,6,The government protects all citizens against poverty.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,16,98,6,The voice of each citizen counts equally and without discrimination.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,2,98,6,Political decisions are made by independent experts rather than elected politicians or the people.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,15,98,6,People have the right to non-violent protest.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,8,98,6,Different political parties offer clear alternatives to one another.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,10,98,6,"The media, both off-line and on-line, are free in their criticism of political leaders."
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,11,98,6,Experts’ views are considered prior to government decision-making.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,12,98,6,There is a judicial system that treats everyone in the same way.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,1,98,6,Political decisions are made by directly elected representatives of the people.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,7,98,6,Governing parties can be punished in elections if they fail to deliver on their promises.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,18,98,6,There are no armed conflicts and the security sector is legitimised.
+2267,223,18,QB1,3,2025-03-18 17:32:33.639010894 +0000 UTC,23,19,98,6,A gender-sensitive policy is implemented in all political areas.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,9,4,4,The military is under the control of civilian leaders.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,14,3,3,"Citizens have the final say on the most important political issues, e.g., through referendum."
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,17,5,5,The rights of minority groups are protected.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,5,5,5,Courts can prevent the government from acting beyond its authority.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,4,5,5,Opposition parties are free to criticize the government.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,3,4,4,Civil society groups are involved in policymaking and implementation.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,13,4,4,The government protects all citizens against poverty.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,16,5,5,The voice of each citizen counts equally and without discrimination.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,2,5,5,Political decisions are made by independent experts rather than elected politicians or the people.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,15,4,4,People have the right to non-violent protest.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,8,4,4,Different political parties offer clear alternatives to one another.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,10,4,4,"The media, both off-line and on-line, are free in their criticism of political leaders."
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,11,4,4,Experts’ views are considered prior to government decision-making.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,12,4,4,There is a judicial system that treats everyone in the same way.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,1,4,4,Political decisions are made by directly elected representatives of the people.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,7,4,4,Governing parties can be punished in elections if they fail to deliver on their promises.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,18,5,5,There are no armed conflicts and the security sector is legitimised.
+2295,224,18,QB1,3,2025-03-19 13:48:27.55779566 +0000 UTC,140,19,4,4,A gender-sensitive policy is implemented in all political areas.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,9,98,6,The military is under the control of civilian leaders.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,14,98,6,"Citizens have the final say on the most important political issues, e.g., through referendum."
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,17,98,6,The rights of minority groups are protected.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,5,98,6,Courts can prevent the government from acting beyond its authority.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,4,98,6,Opposition parties are free to criticize the government.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,3,98,6,Civil society groups are involved in policymaking and implementation.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,6,98,6,Free and fair national elections are held regularly with a choice of at least two political parties.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,13,98,6,The government protects all citizens against poverty.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,16,98,6,The voice of each citizen counts equally and without discrimination.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,2,98,6,Political decisions are made by independent experts rather than elected politicians or the people.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,15,98,6,People have the right to non-violent protest.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,8,98,6,Different political parties offer clear alternatives to one another.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,10,98,6,"The media, both off-line and on-line, are free in their criticism of political leaders."
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,11,98,6,Experts’ views are considered prior to government decision-making.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,12,98,6,There is a judicial system that treats everyone in the same way.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,1,98,6,Political decisions are made by directly elected representatives of the people.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,7,98,6,Governing parties can be punished in elections if they fail to deliver on their promises.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,18,98,6,There are no armed conflicts and the security sector is legitimised.
+2382,231,18,QB1,3,2025-04-01 15:46:27.282306309 +0000 UTC,26,19,98,6,A gender-sensitive policy is implemented in all political areas.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,9,5,5,The military is under the control of civilian leaders.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,17,5,5,The rights of minority groups are protected.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,5,5,5,Courts can prevent the government from acting beyond its authority.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,4,5,5,Opposition parties are free to criticize the government.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,3,5,5,Civil society groups are involved in policymaking and implementation.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,13,5,5,The government protects all citizens against poverty.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,16,5,5,The voice of each citizen counts equally and without discrimination.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,2,5,5,Political decisions are made by independent experts rather than elected politicians or the people.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,15,5,5,People have the right to non-violent protest.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,8,5,5,Different political parties offer clear alternatives to one another.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,11,5,5,Experts’ views are considered prior to government decision-making.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,12,5,5,There is a judicial system that treats everyone in the same way.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,1,5,5,Political decisions are made by directly elected representatives of the people.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,18,5,5,There are no armed conflicts and the security sector is legitimised.
+2410,232,18,QB1,3,2025-04-01 16:39:31.675351575 +0000 UTC,39,19,1,1,A gender-sensitive policy is implemented in all political areas.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,9,5,5,The military is under the control of civilian leaders.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,14,5,5,"Citizens have the final say on the most important political issues, e.g., through referendum."
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,17,5,5,The rights of minority groups are protected.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,5,5,5,Courts can prevent the government from acting beyond its authority.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,4,5,5,Opposition parties are free to criticize the government.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,3,4,4,Civil society groups are involved in policymaking and implementation.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,6,5,5,Free and fair national elections are held regularly with a choice of at least two political parties.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,13,2,2,The government protects all citizens against poverty.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,16,5,5,The voice of each citizen counts equally and without discrimination.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,2,0,0,Political decisions are made by independent experts rather than elected politicians or the people.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,15,5,5,People have the right to non-violent protest.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,8,4,4,Different political parties offer clear alternatives to one another.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,10,5,5,"The media, both off-line and on-line, are free in their criticism of political leaders."
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,11,4,4,Experts’ views are considered prior to government decision-making.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,12,5,5,There is a judicial system that treats everyone in the same way.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,1,5,5,Political decisions are made by directly elected representatives of the people.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,7,5,5,Governing parties can be punished in elections if they fail to deliver on their promises.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,18,5,5,There are no armed conflicts and the security sector is legitimised.
+2459,236,18,QB1,3,2025-04-08 07:51:09.228834652 +0000 UTC,123,19,4,4,A gender-sensitive policy is implemented in all political areas.

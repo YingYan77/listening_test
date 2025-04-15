@@ -1,17 +1,18 @@
 
+rm(list = ls())
 
 library(readr)
 library(dplyr)
 
-
-
 # url <- "url-to-your-zip"
 # path_zip <- "your-downloaded-zip-local-path"
-# path_unzip <- "unzip files/"
+path_unzip <- "unzip files/"
 destfile <- "survey_1_answers_20250409T144323.zip"
 
 # # download zip
 # curl::curl_download(url, destfile = paste(path_zip, destfile, sep = "/"))
+
+unzip(destfile, exdir = path_unzip)
 
 # get the list of questions files 
 files <- unzip(destfile, list = TRUE)
@@ -21,7 +22,7 @@ questions <- grep('questionid', files$Name, ignore.case = TRUE, value=TRUE)
 unwanted_cols <- c('ID', 'QuestionID', 'SectionID', 'SubmittedAt', 'Duration')
 
 process_file <- function(file_path) {
-  df <- read.csv(file_path, stringsAsFactors = FALSE)
+  df <- read.csv(paste0(path_unzip, file_path), stringsAsFactors = FALSE)
   
   # Extract the question ID (assuming there's a column named "QuestionID")
   question_id <- unique(df$QuestionName)
@@ -49,7 +50,13 @@ process_file <- function(file_path) {
 
 data_list <- lapply(questions, process_file)
 
-# Merge all data frames using a full join by "id"
+# method 1
+merged_data <- data_list[1]
+for (i in 2:length(data_list)) {
+  merged_data <- merge(merged_data, data_list[i], by = "SurveySessionID")
+}
+
+# method 2: Merge all data frames using a full join by "id"
 merged_data <- Reduce(function(x, y) merge(x, y, by = "SurveySessionID"), data_list)
 
 write.csv(merged_data, "integrated_data.csv")

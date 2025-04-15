@@ -1,0 +1,56 @@
+ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Selection,Text,Selection,Text,Date
+29,24,4,Q04,1,2024-09-29 10:26:00.528126724 +0000 UTC,14,1,European Commission,2,Upper Management (e.g. Head of Unit),2023
+88,26,4,Q04,1,2024-09-30 13:42:23.200341227 +0000 UTC,90,1,European Commission,1,Senior Executive Leadership (e.g. Director-General),2023
+116,28,4,Q04,1,2024-09-30 14:08:03.284515121 +0000 UTC,6,5,Europäische Investitionsbank,5,Fachfunktion (z. B. Programmbeauftragte:r),2023
+188,40,4,Q04,1,2024-10-05 20:22:05.939297062 +0000 UTC,20,1,European Commission,1,Senior Executive Leadership (e.g. Director-General),2022
+250,47,4,Q04,1,2024-10-14 08:20:24.632659304 +0000 UTC,36,1,European Commission,5,Professional Role (e.g. Program Officer),2022
+289,51,4,Q04,1,2024-10-17 18:35:30.787127543 +0000 UTC,17,2,European External Action Service (EEAS),2,Upper Management (e.g. Head of Unit),2023
+348,55,4,Q04,1,2024-10-18 14:31:05.231967032 +0000 UTC,33,1,European Commission,1,Senior Executive Leadership (e.g. Director-General),2014
+365,57,4,Q04,1,2024-10-18 17:36:27.604945515 +0000 UTC,17,1,European Commission,5,Professional Role (e.g. Program Officer),2018
+461,64,4,Q04,1,2024-10-24 11:53:55.700649506 +0000 UTC,16,1,European Commission,6,Support and Junior Role (e.g. Policy Assistant),2022
+503,69,4,Q04,1,2024-11-05 16:14:32.278598755 +0000 UTC,19,1,European Commission,3,Middle Management (e.g. Head of Department),1997
+617,76,4,Q04,1,2024-11-13 15:41:19.085735223 +0000 UTC,39,1,European Commission,6,Support and Junior Role (e.g. Policy Assistant),2022
+651,94,4,Q04,1,2024-11-14 08:48:15.548756706 +0000 UTC,54,1,European Commission,98,Prefer not to say,2007
+669,95,4,Q04,1,2024-11-14 09:48:18.852910898 +0000 UTC,27,2,European External Action Service (EEAS),6,Support and Junior Role (e.g. Policy Assistant),2019
+722,98,4,Q04,1,2024-11-21 09:43:14.959046318 +0000 UTC,23,1,European Commission,5,Professional Role (e.g. Program Officer),2022
+772,102,4,Q04,1,2024-11-27 14:13:39.86047931 +0000 UTC,35,2,European External Action Service (EEAS),5,Professional Role (e.g. Program Officer),2014
+800,103,4,Q04,1,2024-11-27 16:33:47.007200514 +0000 UTC,25,1,European Commission,3,Middle Management (e.g. Head of Department),1992
+842,108,4,Q04,1,2024-12-02 07:07:46.080140704 +0000 UTC,42,1,European Commission,5,Professional Role (e.g. Program Officer),2007
+880,115,4,Q04,1,2024-12-10 15:50:48.999175497 +0000 UTC,68,2,European External Action Service (EEAS),1,Senior Executive Leadership (e.g. Director-General),2023
+915,117,4,Q04,1,2024-12-11 12:41:49.420463429 +0000 UTC,81,2,European External Action Service (EEAS),8,Head of Component in EUAM UA,2020
+946,119,4,Q04,1,2024-12-11 13:59:55.036453109 +0000 UTC,47,6,EUAM Ukraine,2,Upper Management (e.g. Head of Unit),2024
+1052,132,4,Q04,1,2024-12-17 11:21:19.216302755 +0000 UTC,67,6,European Union CSDP Civilian Advisory Mission,5,Professional Role (e.g. Program Officer),2023
+1175,148,4,Q04,1,2025-01-05 16:23:02.540348204 +0000 UTC,16,1,European Commission,3,Middle Management (e.g. Head of Department),2000
+1203,149,4,Q04,1,2025-01-05 16:49:58.270137689 +0000 UTC,177,1,European Commission,4,Specialized and Senior Expert Role (e.g. Head of Office),2010
+1233,151,4,Q04,1,2025-01-05 17:13:21.00837537 +0000 UTC,875,2,European External Action Service (EEAS),4,Specialized and Senior Expert Role (e.g. Head of Office),2015
+1261,152,4,Q04,1,2025-01-05 17:19:36.820221773 +0000 UTC,31,1,European Commission,5,Professional Role (e.g. Program Officer),2012
+1289,153,4,Q04,1,2025-01-05 17:26:57.318717322 +0000 UTC,12,3,European Council,6,Support and Junior Role (e.g. Policy Assistant)
+1317,154,4,Q04,1,2025-01-05 17:33:33.216831446 +0000 UTC,20,3,European Council,3,Middle Management (e.g. Head of Department)
+1345,155,4,Q04,1,2025-01-05 17:42:04.532045543 +0000 UTC,10,3,European Council,3,Middle Management (e.g. Head of Department)
+1373,156,4,Q04,1,2025-01-05 18:35:52.133608284 +0000 UTC,19,3,European Council,5,Professional Role (e.g. Program Officer)
+1401,157,4,Q04,1,2025-01-05 18:46:39.169234724 +0000 UTC,15,3,European Council,5,Professional Role (e.g. Program Officer)
+1429,158,4,Q04,1,2025-01-05 18:58:53.115983654 +0000 UTC,27,3,European Council,4,Specialized and Senior Expert Role (e.g. Head of Office)
+1457,159,4,Q04,1,2025-01-05 19:02:53.8910774 +0000 UTC,11,3,European Council,6,Support and Junior Role (e.g. Policy Assistant)
+1485,160,4,Q04,1,2025-01-05 19:10:11.309626533 +0000 UTC,6,3,European Council,5,Professional Role (e.g. Program Officer)
+1513,161,4,Q04,1,2025-01-05 19:21:50.286538358 +0000 UTC,11,3,European Council,5,Professional Role (e.g. Program Officer)
+1541,162,4,Q04,1,2025-01-05 19:26:35.23133174 +0000 UTC,5,3,European Council,2,Upper Management (e.g. Head of Unit)
+1572,164,4,Q04,1,2025-01-05 19:31:26.632263606 +0000 UTC,6,3,European Council,3,Middle Management (e.g. Head of Department)
+1600,165,4,Q04,1,2025-01-05 19:40:04.55033031 +0000 UTC,4,3,European Council,3,Middle Management (e.g. Head of Department)
+1628,166,4,Q04,1,2025-01-05 19:44:12.532879811 +0000 UTC,17,4,European Parliament,5,Professional Role (e.g. Program Officer)
+1656,167,4,Q04,1,2025-01-05 19:48:31.224707602 +0000 UTC,12,2,European External Action Service (EEAS),5,Professional Role (e.g. Program Officer)
+1684,168,4,Q04,1,2025-01-07 13:02:44.066768386 +0000 UTC,37,4,European Parliament,6,Support and Junior Role (e.g. Policy Assistant),2019
+1712,169,4,Q04,1,2025-01-08 12:30:52.084489915 +0000 UTC,26,4,European Parliament,6,Support and Junior Role (e.g. Policy Assistant),2022
+1740,170,4,Q04,1,2025-01-15 13:27:29.222264451 +0000 UTC,23,1,European Commission,5,Professional Role (e.g. Program Officer),2023
+1780,176,4,Q04,1,2025-01-28 20:11:47.857909755 +0000 UTC,109,4,Europäisches Parlament,8,Abgeordnete,2024
+1824,179,4,Q04,1,2025-01-28 22:24:46.897176039 +0000 UTC,57,1,European Commission,1,Senior Executive Leadership (e.g. Director-General),2007
+1928,191,4,Q04,1,2025-01-29 13:25:27.605647961 +0000 UTC,29,4,European Parliament,2,Upper Management (e.g. Head of Unit),2005
+2016,199,4,Q04,1,2025-02-03 15:39:39.971969978 +0000 UTC,37,1,European Commission,5,Professional Role (e.g. Program Officer),2020
+2049,201,4,Q04,1,2025-02-05 21:34:41.183665823 +0000 UTC,73,1,European Commission,1,Senior Executive Leadership (e.g. Director-General),2023
+2151,217,4,Q04,1,2025-03-10 16:26:15.028590214 +0000 UTC,26,4,European Parliament,8,Member of European Parliament,2024
+2186,219,4,Q04,1,2025-03-17 15:37:35.306527807 +0000 UTC,60,6,Council of the EU,98,Prefer not to say,2011
+2214,220,4,Q04,1,2025-03-18 12:02:08.388770902 +0000 UTC,38,4,European Parliament,3,Middle Management (e.g. Head of Department),2019
+2253,223,4,Q04,1,2025-03-18 17:18:15.393125441 +0000 UTC,15,3,European Council,5,Professional Role (e.g. Program Officer),2022
+2281,224,4,Q04,1,2025-03-19 13:33:30.084326194 +0000 UTC,38,4,European Parliament,8,MEP,2024
+2368,231,4,Q04,1,2025-04-01 15:34:28.402178417 +0000 UTC,12,1,European Commission,2,Upper Management (e.g. Head of Unit),2001
+2396,232,4,Q04,1,2025-04-01 16:24:58.641454 +0000 UTC,18,1,European Commission,2,Upper Management (e.g. Head of Unit),2011
+2441,236,4,Q04,1,2025-04-08 07:21:59.998933216 +0000 UTC,62,1,European Commission,3,Middle Management (e.g. Head of Department),2018

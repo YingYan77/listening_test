@@ -1,0 +1,61 @@
+ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Text
+35,24,10,QA4,2,2024-09-29 10:28:00.520377783 +0000 UTC,6,asdfadsfasdfadsfas
+35,24,10,QA4,2,2024-09-29 10:28:00.520377783 +0000 UTC,6,
+66,21,10,QA4,2,2024-09-29 10:59:47.601670576 +0000 UTC,3,
+94,26,10,QA4,2,2024-09-30 13:58:14.058857794 +0000 UTC,7,
+122,28,10,QA4,2,2024-09-30 14:09:36.828061877 +0000 UTC,4,
+194,40,10,QA4,2,2024-10-05 20:33:06.800359156 +0000 UTC,38,EU has sufficient resources to meet expectations
+256,47,10,QA4,2,2024-10-14 08:33:00.492801435 +0000 UTC,11,
+295,51,10,QA4,2,2024-10-17 18:55:35.091902347 +0000 UTC,100,EU is perceived as a model of society because of its values
+295,51,10,QA4,2,2024-10-17 18:55:35.091902347 +0000 UTC,100,Difficulties to get visas influence negatively the image of the EU 
+354,55,10,QA4,2,2024-10-18 14:41:54.076152575 +0000 UTC,8,
+371,57,10,QA4,2,2024-10-18 17:42:15.518230698 +0000 UTC,3,
+467,64,10,QA4,2,2024-10-24 11:58:17.475000443 +0000 UTC,2,
+509,69,10,QA4,2,2024-11-05 16:32:02.569540024 +0000 UTC,14,
+629,76,10,QA4,2,2024-11-13 15:56:16.907612234 +0000 UTC,37,The answers would be completely different from the perspective of Belarus. I provided answers from Ukraine's point of view. 
+657,94,10,QA4,2,2024-11-14 09:22:02.737055996 +0000 UTC,15,
+685,95,10,QA4,2,2024-11-14 10:00:34.860549467 +0000 UTC,110,"The EU is an ineffective communicator which still holds to wording, styles and channels from fifteen years ago. This, alongside a slow-roll of regulations to counter hostile agents, leaves a vacuum which is filled by misinformation."
+728,98,10,QA4,2,2024-11-21 10:24:33.571731505 +0000 UTC,63,
+778,102,10,QA4,2,2024-11-27 14:55:49.473914069 +0000 UTC,1511,"Serious challenges are disinformation and divisions. Russia has made huge efforts to advance its interests through spreading disinformation and aggravate divisions in societies in the Eastern Partnership (and beyond). One of these topics is the human rights agenda and anything related to fighting discrimination (e.g. domestic violence, gender rights, LGBTQI-rights). As a result, this has negatively impacted the EU's image in most of the countries in the region (think of the referendum and presidential elections in Moldova, elections in Georgia). The EU and the pro-EU forces have not been able to debunk these hostile narratives.  
+
+The EU should also improve its public communication on the EU assistance. The EU communication is not enough creative, engaging and this does not reach the target audiences, even if the funding for communication activities is sufficient (or at least would be sufficient if there would be good use for such funding). The EU communicators should understand that the EU is a ""product"" as any other, that needs to be effectively ""sold"" to the local audiences."
+806,103,10,QA4,2,2024-11-27 16:46:00.108280118 +0000 UTC,6,
+848,108,10,QA4,2,2024-12-02 07:37:22.25416474 +0000 UTC,90,In the Neighbourhood East the countries are quite diverse as well as their relations with the EU and the its perceptions among general population and state actors (e.g. Ukraine versus Azerbaijan). 
+886,115,10,QA4,2,2024-12-10 16:05:20.652234653 +0000 UTC,4,
+921,117,10,QA4,2,2024-12-11 13:00:20.703277583 +0000 UTC,9,
+952,119,10,QA4,2,2024-12-11 14:14:01.690332085 +0000 UTC,4,
+1058,132,10,QA4,2,2024-12-17 11:33:39.356957616 +0000 UTC,7,
+1181,148,10,QA4,2,2025-01-05 16:35:13.65946499 +0000 UTC,2,
+1209,149,10,QA4,2,2025-01-05 16:53:15.996027021 +0000 UTC,1,
+1239,151,10,QA4,2,2025-01-05 17:14:49.259577398 +0000 UTC,1,
+1267,152,10,QA4,2,2025-01-05 17:21:11.886894361 +0000 UTC,7,
+1295,153,10,QA4,2,2025-01-05 17:29:16.563168768 +0000 UTC,1,
+1323,154,10,QA4,2,2025-01-05 17:35:17.52119458 +0000 UTC,3,
+1351,155,10,QA4,2,2025-01-05 18:32:21.032103767 +0000 UTC,2,
+1379,156,10,QA4,2,2025-01-05 18:37:09.266675827 +0000 UTC,4,
+1407,157,10,QA4,2,2025-01-05 18:48:02.183445349 +0000 UTC,1,
+1435,158,10,QA4,2,2025-01-05 19:00:03.195711334 +0000 UTC,1,
+1463,159,10,QA4,2,2025-01-05 19:03:56.79333848 +0000 UTC,2,
+1491,160,10,QA4,2,2025-01-05 19:11:22.83204659 +0000 UTC,11,
+1519,161,10,QA4,2,2025-01-05 19:23:30.271650433 +0000 UTC,2,
+1547,162,10,QA4,2,2025-01-05 19:27:53.634497209 +0000 UTC,5,
+1578,164,10,QA4,2,2025-01-05 19:32:30.395406729 +0000 UTC,2,
+1606,165,10,QA4,2,2025-01-05 19:41:14.9869949 +0000 UTC,2,
+1634,166,10,QA4,2,2025-01-05 19:45:38.15071002 +0000 UTC,1,
+1662,167,10,QA4,2,2025-01-05 19:49:53.593893473 +0000 UTC,1,
+1690,168,10,QA4,2,2025-01-07 13:16:26.260587958 +0000 UTC,78,"I find it difficult to say the EU. The EU for sure acts as an entity, but when it comes to foreign affairs, it is only the sum of its member states. "
+1718,169,10,QA4,2,2025-01-08 12:45:08.077310081 +0000 UTC,15,
+1746,170,10,QA4,2,2025-01-15 13:44:39.688152749 +0000 UTC,3,
+1786,176,10,QA4,2,2025-01-28 20:30:31.788006383 +0000 UTC,25,
+1830,179,10,QA4,2,2025-01-28 22:49:30.779264444 +0000 UTC,96,It is difficult for an ordinary person to understand what the EU does. 
+1934,191,10,QA4,2,2025-01-29 13:42:14.687444062 +0000 UTC,6,
+2022,199,10,QA4,2,2025-02-03 15:54:21.691144893 +0000 UTC,7,
+2055,201,10,QA4,2,2025-02-05 21:40:42.265694538 +0000 UTC,36,N/A
+2164,217,10,QA4,2,2025-03-11 15:15:27.809311596 +0000 UTC,2,
+2192,219,10,QA4,2,2025-03-17 16:07:08.574943354 +0000 UTC,4,
+2220,220,10,QA4,2,2025-03-18 12:18:44.754375493 +0000 UTC,7,
+2259,223,10,QA4,2,2025-03-18 17:29:37.9090702 +0000 UTC,3,
+2287,224,10,QA4,2,2025-03-19 13:40:46.490503851 +0000 UTC,3,
+2374,231,10,QA4,2,2025-04-01 15:41:31.441095018 +0000 UTC,5,
+2402,232,10,QA4,2,2025-04-01 16:34:51.125299964 +0000 UTC,7,
+2451,236,10,QA4,2,2025-04-08 07:42:12.174178113 +0000 UTC,86,The EU is fully inconsistent in advancing international accountability and violations of international law and international humanitarian law

@@ -1,0 +1,449 @@
+ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Row,Value,ColumnIndex,Text
+40,24,15,QA9,2,2024-09-29 10:29:16.076708226 +0000 UTC,12,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+40,24,15,QA9,2,2024-09-29 10:29:16.076708226 +0000 UTC,12,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+40,24,15,QA9,2,2024-09-29 10:29:16.076708226 +0000 UTC,12,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+40,24,15,QA9,2,2024-09-29 10:29:16.076708226 +0000 UTC,12,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+40,24,15,QA9,2,2024-09-29 10:29:16.076708226 +0000 UTC,12,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+40,24,15,QA9,2,2024-09-29 10:29:16.076708226 +0000 UTC,12,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+40,24,15,QA9,2,2024-09-29 10:29:16.076708226 +0000 UTC,12,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+40,24,15,QA9,2,2024-09-29 10:29:16.076708226 +0000 UTC,12,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+71,21,15,QA9,2,2024-09-29 11:00:30.764678722 +0000 UTC,6,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+71,21,15,QA9,2,2024-09-29 11:00:30.764678722 +0000 UTC,6,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+71,21,15,QA9,2,2024-09-29 11:00:30.764678722 +0000 UTC,6,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+71,21,15,QA9,2,2024-09-29 11:00:30.764678722 +0000 UTC,6,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+71,21,15,QA9,2,2024-09-29 11:00:30.764678722 +0000 UTC,6,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+71,21,15,QA9,2,2024-09-29 11:00:30.764678722 +0000 UTC,6,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+71,21,15,QA9,2,2024-09-29 11:00:30.764678722 +0000 UTC,6,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+71,21,15,QA9,2,2024-09-29 11:00:30.764678722 +0000 UTC,6,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+99,26,15,QA9,2,2024-09-30 14:00:33.451368412 +0000 UTC,34,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+99,26,15,QA9,2,2024-09-30 14:00:33.451368412 +0000 UTC,34,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+99,26,15,QA9,2,2024-09-30 14:00:33.451368412 +0000 UTC,34,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+99,26,15,QA9,2,2024-09-30 14:00:33.451368412 +0000 UTC,34,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+99,26,15,QA9,2,2024-09-30 14:00:33.451368412 +0000 UTC,34,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+99,26,15,QA9,2,2024-09-30 14:00:33.451368412 +0000 UTC,34,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+99,26,15,QA9,2,2024-09-30 14:00:33.451368412 +0000 UTC,34,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+99,26,15,QA9,2,2024-09-30 14:00:33.451368412 +0000 UTC,34,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+127,28,15,QA9,2,2024-09-30 14:10:47.422782125 +0000 UTC,7,4,1,0,"Es wird sichergestellt, dass die Bewertung der erzielten Fortschritte in einer für die lokalen zivilgesellschaftlichen Organisationen verständlichen Form berichtet wird."
+127,28,15,QA9,2,2024-09-30 14:10:47.422782125 +0000 UTC,7,7,1,0,"Es wird sichergestellt, dass die Ansichten und Interessen der einschlägigen Organisationen der Zivilgesellschaft in dem Bericht berücksichtigt werden."
+127,28,15,QA9,2,2024-09-30 14:10:47.422782125 +0000 UTC,7,6,1,0,"Die Organisationen der Zivilgesellschaft sind aufgefordert, ihre Ansichten bei der Erstellung des Berichts einzubringen."
+127,28,15,QA9,2,2024-09-30 14:10:47.422782125 +0000 UTC,7,1,1,0,"Die Informationen über den Bericht werden jeder Organisation zur Verfügung gestellt, die sie anfordert (sofern die Informationen nicht unter bestimmte Ausnahmen fallen)."
+127,28,15,QA9,2,2024-09-30 14:10:47.422782125 +0000 UTC,7,2,1,0,Die Organisationen der Zivilgesellschaft werden bei der Bewertung der Fortschritte in bestimmten Bereichen zu Rate gezogen.
+127,28,15,QA9,2,2024-09-30 14:10:47.422782125 +0000 UTC,7,3,1,0,"Die Organisationen der Zivilgesellschaft sind aufgefordert, den Entwurf des Fortschrittsberichts vor dessen Veröffentlichung zu kommentieren."
+127,28,15,QA9,2,2024-09-30 14:10:47.422782125 +0000 UTC,7,5,1,0,Die Organisationen der Zivilgesellschaft werden angemessen über die Bewertung der Fortschritte bei der Verwirklichung der ENP-Ziele durch die EU informiert.
+127,28,15,QA9,2,2024-09-30 14:10:47.422782125 +0000 UTC,7,8,1,0,"Die Organisationen der Zivilgesellschaft werden regelmässig und häufig einbezogen, um die Umsetzung der vereinbarten politischen Reformen zu unterstützen und zu erleichtern."
+199,40,15,QA9,2,2024-10-05 20:38:49.068328518 +0000 UTC,40,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+199,40,15,QA9,2,2024-10-05 20:38:49.068328518 +0000 UTC,40,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+199,40,15,QA9,2,2024-10-05 20:38:49.068328518 +0000 UTC,40,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+199,40,15,QA9,2,2024-10-05 20:38:49.068328518 +0000 UTC,40,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+199,40,15,QA9,2,2024-10-05 20:38:49.068328518 +0000 UTC,40,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+199,40,15,QA9,2,2024-10-05 20:38:49.068328518 +0000 UTC,40,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+199,40,15,QA9,2,2024-10-05 20:38:49.068328518 +0000 UTC,40,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+199,40,15,QA9,2,2024-10-05 20:38:49.068328518 +0000 UTC,40,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+261,47,15,QA9,2,2024-10-14 08:38:42.957875231 +0000 UTC,46,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+261,47,15,QA9,2,2024-10-14 08:38:42.957875231 +0000 UTC,46,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+261,47,15,QA9,2,2024-10-14 08:38:42.957875231 +0000 UTC,46,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+261,47,15,QA9,2,2024-10-14 08:38:42.957875231 +0000 UTC,46,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+261,47,15,QA9,2,2024-10-14 08:38:42.957875231 +0000 UTC,46,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+261,47,15,QA9,2,2024-10-14 08:38:42.957875231 +0000 UTC,46,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+261,47,15,QA9,2,2024-10-14 08:38:42.957875231 +0000 UTC,46,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+261,47,15,QA9,2,2024-10-14 08:38:42.957875231 +0000 UTC,46,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+300,51,15,QA9,2,2024-10-17 18:59:57.763620832 +0000 UTC,32,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+300,51,15,QA9,2,2024-10-17 18:59:57.763620832 +0000 UTC,32,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+300,51,15,QA9,2,2024-10-17 18:59:57.763620832 +0000 UTC,32,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+300,51,15,QA9,2,2024-10-17 18:59:57.763620832 +0000 UTC,32,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+300,51,15,QA9,2,2024-10-17 18:59:57.763620832 +0000 UTC,32,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+300,51,15,QA9,2,2024-10-17 18:59:57.763620832 +0000 UTC,32,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+300,51,15,QA9,2,2024-10-17 18:59:57.763620832 +0000 UTC,32,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+300,51,15,QA9,2,2024-10-17 18:59:57.763620832 +0000 UTC,32,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+359,55,15,QA9,2,2024-10-18 14:46:52.161321649 +0000 UTC,51,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+359,55,15,QA9,2,2024-10-18 14:46:52.161321649 +0000 UTC,51,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+359,55,15,QA9,2,2024-10-18 14:46:52.161321649 +0000 UTC,51,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+359,55,15,QA9,2,2024-10-18 14:46:52.161321649 +0000 UTC,51,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+359,55,15,QA9,2,2024-10-18 14:46:52.161321649 +0000 UTC,51,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+359,55,15,QA9,2,2024-10-18 14:46:52.161321649 +0000 UTC,51,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+359,55,15,QA9,2,2024-10-18 14:46:52.161321649 +0000 UTC,51,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+359,55,15,QA9,2,2024-10-18 14:46:52.161321649 +0000 UTC,51,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+376,57,15,QA9,2,2024-10-18 17:46:39.460785125 +0000 UTC,27,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+376,57,15,QA9,2,2024-10-18 17:46:39.460785125 +0000 UTC,27,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+376,57,15,QA9,2,2024-10-18 17:46:39.460785125 +0000 UTC,27,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+376,57,15,QA9,2,2024-10-18 17:46:39.460785125 +0000 UTC,27,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+376,57,15,QA9,2,2024-10-18 17:46:39.460785125 +0000 UTC,27,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+376,57,15,QA9,2,2024-10-18 17:46:39.460785125 +0000 UTC,27,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+376,57,15,QA9,2,2024-10-18 17:46:39.460785125 +0000 UTC,27,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+376,57,15,QA9,2,2024-10-18 17:46:39.460785125 +0000 UTC,27,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+472,64,15,QA9,2,2024-10-24 12:03:00.399627009 +0000 UTC,42,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+472,64,15,QA9,2,2024-10-24 12:03:00.399627009 +0000 UTC,42,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+472,64,15,QA9,2,2024-10-24 12:03:00.399627009 +0000 UTC,42,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+472,64,15,QA9,2,2024-10-24 12:03:00.399627009 +0000 UTC,42,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+472,64,15,QA9,2,2024-10-24 12:03:00.399627009 +0000 UTC,42,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+472,64,15,QA9,2,2024-10-24 12:03:00.399627009 +0000 UTC,42,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+472,64,15,QA9,2,2024-10-24 12:03:00.399627009 +0000 UTC,42,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+472,64,15,QA9,2,2024-10-24 12:03:00.399627009 +0000 UTC,42,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+514,69,15,QA9,2,2024-11-05 16:39:03.094845552 +0000 UTC,54,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+514,69,15,QA9,2,2024-11-05 16:39:03.094845552 +0000 UTC,54,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+514,69,15,QA9,2,2024-11-05 16:39:03.094845552 +0000 UTC,54,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+514,69,15,QA9,2,2024-11-05 16:39:03.094845552 +0000 UTC,54,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+514,69,15,QA9,2,2024-11-05 16:39:03.094845552 +0000 UTC,54,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+514,69,15,QA9,2,2024-11-05 16:39:03.094845552 +0000 UTC,54,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+514,69,15,QA9,2,2024-11-05 16:39:03.094845552 +0000 UTC,54,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+514,69,15,QA9,2,2024-11-05 16:39:03.094845552 +0000 UTC,54,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+634,76,15,QA9,2,2024-11-13 16:25:02.123629583 +0000 UTC,232,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+634,76,15,QA9,2,2024-11-13 16:25:02.123629583 +0000 UTC,232,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+634,76,15,QA9,2,2024-11-13 16:25:02.123629583 +0000 UTC,232,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+634,76,15,QA9,2,2024-11-13 16:25:02.123629583 +0000 UTC,232,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+634,76,15,QA9,2,2024-11-13 16:25:02.123629583 +0000 UTC,232,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+634,76,15,QA9,2,2024-11-13 16:25:02.123629583 +0000 UTC,232,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+634,76,15,QA9,2,2024-11-13 16:25:02.123629583 +0000 UTC,232,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+634,76,15,QA9,2,2024-11-13 16:25:02.123629583 +0000 UTC,232,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+662,94,15,QA9,2,2024-11-14 09:37:30.355714887 +0000 UTC,454,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+662,94,15,QA9,2,2024-11-14 09:37:30.355714887 +0000 UTC,454,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+662,94,15,QA9,2,2024-11-14 09:37:30.355714887 +0000 UTC,454,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+662,94,15,QA9,2,2024-11-14 09:37:30.355714887 +0000 UTC,454,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+662,94,15,QA9,2,2024-11-14 09:37:30.355714887 +0000 UTC,454,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+662,94,15,QA9,2,2024-11-14 09:37:30.355714887 +0000 UTC,454,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+662,94,15,QA9,2,2024-11-14 09:37:30.355714887 +0000 UTC,454,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+662,94,15,QA9,2,2024-11-14 09:37:30.355714887 +0000 UTC,454,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+690,95,15,QA9,2,2024-11-14 10:04:48.268103119 +0000 UTC,100,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+690,95,15,QA9,2,2024-11-14 10:04:48.268103119 +0000 UTC,100,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+690,95,15,QA9,2,2024-11-14 10:04:48.268103119 +0000 UTC,100,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+690,95,15,QA9,2,2024-11-14 10:04:48.268103119 +0000 UTC,100,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+690,95,15,QA9,2,2024-11-14 10:04:48.268103119 +0000 UTC,100,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+690,95,15,QA9,2,2024-11-14 10:04:48.268103119 +0000 UTC,100,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+690,95,15,QA9,2,2024-11-14 10:04:48.268103119 +0000 UTC,100,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+690,95,15,QA9,2,2024-11-14 10:04:48.268103119 +0000 UTC,100,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+733,98,15,QA9,2,2024-11-21 10:32:05.206448868 +0000 UTC,86,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+733,98,15,QA9,2,2024-11-21 10:32:05.206448868 +0000 UTC,86,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+733,98,15,QA9,2,2024-11-21 10:32:05.206448868 +0000 UTC,86,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+733,98,15,QA9,2,2024-11-21 10:32:05.206448868 +0000 UTC,86,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+733,98,15,QA9,2,2024-11-21 10:32:05.206448868 +0000 UTC,86,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+733,98,15,QA9,2,2024-11-21 10:32:05.206448868 +0000 UTC,86,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+733,98,15,QA9,2,2024-11-21 10:32:05.206448868 +0000 UTC,86,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+733,98,15,QA9,2,2024-11-21 10:32:05.206448868 +0000 UTC,86,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+783,102,15,QA9,2,2024-11-27 15:04:46.348414774 +0000 UTC,72,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+783,102,15,QA9,2,2024-11-27 15:04:46.348414774 +0000 UTC,72,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+783,102,15,QA9,2,2024-11-27 15:04:46.348414774 +0000 UTC,72,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+783,102,15,QA9,2,2024-11-27 15:04:46.348414774 +0000 UTC,72,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+783,102,15,QA9,2,2024-11-27 15:04:46.348414774 +0000 UTC,72,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+783,102,15,QA9,2,2024-11-27 15:04:46.348414774 +0000 UTC,72,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+783,102,15,QA9,2,2024-11-27 15:04:46.348414774 +0000 UTC,72,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+783,102,15,QA9,2,2024-11-27 15:04:46.348414774 +0000 UTC,72,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+811,103,15,QA9,2,2024-11-27 16:49:34.892986843 +0000 UTC,27,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+811,103,15,QA9,2,2024-11-27 16:49:34.892986843 +0000 UTC,27,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+811,103,15,QA9,2,2024-11-27 16:49:34.892986843 +0000 UTC,27,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+811,103,15,QA9,2,2024-11-27 16:49:34.892986843 +0000 UTC,27,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+811,103,15,QA9,2,2024-11-27 16:49:34.892986843 +0000 UTC,27,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+811,103,15,QA9,2,2024-11-27 16:49:34.892986843 +0000 UTC,27,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+811,103,15,QA9,2,2024-11-27 16:49:34.892986843 +0000 UTC,27,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+811,103,15,QA9,2,2024-11-27 16:49:34.892986843 +0000 UTC,27,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+853,108,15,QA9,2,2024-12-02 07:49:03.255332943 +0000 UTC,185,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+853,108,15,QA9,2,2024-12-02 07:49:03.255332943 +0000 UTC,185,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+853,108,15,QA9,2,2024-12-02 07:49:03.255332943 +0000 UTC,185,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+853,108,15,QA9,2,2024-12-02 07:49:03.255332943 +0000 UTC,185,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+853,108,15,QA9,2,2024-12-02 07:49:03.255332943 +0000 UTC,185,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+853,108,15,QA9,2,2024-12-02 07:49:03.255332943 +0000 UTC,185,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+853,108,15,QA9,2,2024-12-02 07:49:03.255332943 +0000 UTC,185,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+853,108,15,QA9,2,2024-12-02 07:49:03.255332943 +0000 UTC,185,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+891,115,15,QA9,2,2024-12-10 16:15:23.89162004 +0000 UTC,67,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+891,115,15,QA9,2,2024-12-10 16:15:23.89162004 +0000 UTC,67,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+891,115,15,QA9,2,2024-12-10 16:15:23.89162004 +0000 UTC,67,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+891,115,15,QA9,2,2024-12-10 16:15:23.89162004 +0000 UTC,67,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+891,115,15,QA9,2,2024-12-10 16:15:23.89162004 +0000 UTC,67,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+891,115,15,QA9,2,2024-12-10 16:15:23.89162004 +0000 UTC,67,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+891,115,15,QA9,2,2024-12-10 16:15:23.89162004 +0000 UTC,67,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+891,115,15,QA9,2,2024-12-10 16:15:23.89162004 +0000 UTC,67,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+926,117,15,QA9,2,2024-12-11 13:09:12.105950711 +0000 UTC,106,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+926,117,15,QA9,2,2024-12-11 13:09:12.105950711 +0000 UTC,106,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+926,117,15,QA9,2,2024-12-11 13:09:12.105950711 +0000 UTC,106,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+926,117,15,QA9,2,2024-12-11 13:09:12.105950711 +0000 UTC,106,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+926,117,15,QA9,2,2024-12-11 13:09:12.105950711 +0000 UTC,106,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+926,117,15,QA9,2,2024-12-11 13:09:12.105950711 +0000 UTC,106,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+926,117,15,QA9,2,2024-12-11 13:09:12.105950711 +0000 UTC,106,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+926,117,15,QA9,2,2024-12-11 13:09:12.105950711 +0000 UTC,106,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+957,119,15,QA9,2,2024-12-11 14:22:57.396976396 +0000 UTC,71,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+957,119,15,QA9,2,2024-12-11 14:22:57.396976396 +0000 UTC,71,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+957,119,15,QA9,2,2024-12-11 14:22:57.396976396 +0000 UTC,71,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+957,119,15,QA9,2,2024-12-11 14:22:57.396976396 +0000 UTC,71,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+957,119,15,QA9,2,2024-12-11 14:22:57.396976396 +0000 UTC,71,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+957,119,15,QA9,2,2024-12-11 14:22:57.396976396 +0000 UTC,71,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+957,119,15,QA9,2,2024-12-11 14:22:57.396976396 +0000 UTC,71,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+957,119,15,QA9,2,2024-12-11 14:22:57.396976396 +0000 UTC,71,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1063,132,15,QA9,2,2024-12-17 11:50:02.734678458 +0000 UTC,69,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1063,132,15,QA9,2,2024-12-17 11:50:02.734678458 +0000 UTC,69,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1063,132,15,QA9,2,2024-12-17 11:50:02.734678458 +0000 UTC,69,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1063,132,15,QA9,2,2024-12-17 11:50:02.734678458 +0000 UTC,69,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1063,132,15,QA9,2,2024-12-17 11:50:02.734678458 +0000 UTC,69,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1063,132,15,QA9,2,2024-12-17 11:50:02.734678458 +0000 UTC,69,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+1063,132,15,QA9,2,2024-12-17 11:50:02.734678458 +0000 UTC,69,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1063,132,15,QA9,2,2024-12-17 11:50:02.734678458 +0000 UTC,69,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1186,148,15,QA9,2,2025-01-05 16:40:18.676986056 +0000 UTC,71,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1186,148,15,QA9,2,2025-01-05 16:40:18.676986056 +0000 UTC,71,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1186,148,15,QA9,2,2025-01-05 16:40:18.676986056 +0000 UTC,71,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1186,148,15,QA9,2,2025-01-05 16:40:18.676986056 +0000 UTC,71,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1186,148,15,QA9,2,2025-01-05 16:40:18.676986056 +0000 UTC,71,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1186,148,15,QA9,2,2025-01-05 16:40:18.676986056 +0000 UTC,71,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1186,148,15,QA9,2,2025-01-05 16:40:18.676986056 +0000 UTC,71,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1186,148,15,QA9,2,2025-01-05 16:40:18.676986056 +0000 UTC,71,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1214,149,15,QA9,2,2025-01-05 16:55:12.65104189 +0000 UTC,17,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+1214,149,15,QA9,2,2025-01-05 16:55:12.65104189 +0000 UTC,17,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1214,149,15,QA9,2,2025-01-05 16:55:12.65104189 +0000 UTC,17,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1214,149,15,QA9,2,2025-01-05 16:55:12.65104189 +0000 UTC,17,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1214,149,15,QA9,2,2025-01-05 16:55:12.65104189 +0000 UTC,17,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1214,149,15,QA9,2,2025-01-05 16:55:12.65104189 +0000 UTC,17,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1214,149,15,QA9,2,2025-01-05 16:55:12.65104189 +0000 UTC,17,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1214,149,15,QA9,2,2025-01-05 16:55:12.65104189 +0000 UTC,17,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1244,151,15,QA9,2,2025-01-05 17:15:56.041061848 +0000 UTC,12,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+1244,151,15,QA9,2,2025-01-05 17:15:56.041061848 +0000 UTC,12,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1244,151,15,QA9,2,2025-01-05 17:15:56.041061848 +0000 UTC,12,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1244,151,15,QA9,2,2025-01-05 17:15:56.041061848 +0000 UTC,12,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1244,151,15,QA9,2,2025-01-05 17:15:56.041061848 +0000 UTC,12,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1244,151,15,QA9,2,2025-01-05 17:15:56.041061848 +0000 UTC,12,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1244,151,15,QA9,2,2025-01-05 17:15:56.041061848 +0000 UTC,12,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1244,151,15,QA9,2,2025-01-05 17:15:56.041061848 +0000 UTC,12,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1272,152,15,QA9,2,2025-01-05 17:22:31.207063136 +0000 UTC,7,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1272,152,15,QA9,2,2025-01-05 17:22:31.207063136 +0000 UTC,7,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1272,152,15,QA9,2,2025-01-05 17:22:31.207063136 +0000 UTC,7,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1272,152,15,QA9,2,2025-01-05 17:22:31.207063136 +0000 UTC,7,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1272,152,15,QA9,2,2025-01-05 17:22:31.207063136 +0000 UTC,7,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1272,152,15,QA9,2,2025-01-05 17:22:31.207063136 +0000 UTC,7,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1272,152,15,QA9,2,2025-01-05 17:22:31.207063136 +0000 UTC,7,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1272,152,15,QA9,2,2025-01-05 17:22:31.207063136 +0000 UTC,7,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1300,153,15,QA9,2,2025-01-05 17:30:35.444154164 +0000 UTC,11,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+1300,153,15,QA9,2,2025-01-05 17:30:35.444154164 +0000 UTC,11,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1300,153,15,QA9,2,2025-01-05 17:30:35.444154164 +0000 UTC,11,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1300,153,15,QA9,2,2025-01-05 17:30:35.444154164 +0000 UTC,11,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1300,153,15,QA9,2,2025-01-05 17:30:35.444154164 +0000 UTC,11,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1300,153,15,QA9,2,2025-01-05 17:30:35.444154164 +0000 UTC,11,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1300,153,15,QA9,2,2025-01-05 17:30:35.444154164 +0000 UTC,11,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1300,153,15,QA9,2,2025-01-05 17:30:35.444154164 +0000 UTC,11,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1328,154,15,QA9,2,2025-01-05 17:36:50.499193173 +0000 UTC,5,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+1328,154,15,QA9,2,2025-01-05 17:36:50.499193173 +0000 UTC,5,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1328,154,15,QA9,2,2025-01-05 17:36:50.499193173 +0000 UTC,5,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1328,154,15,QA9,2,2025-01-05 17:36:50.499193173 +0000 UTC,5,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1328,154,15,QA9,2,2025-01-05 17:36:50.499193173 +0000 UTC,5,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1328,154,15,QA9,2,2025-01-05 17:36:50.499193173 +0000 UTC,5,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1328,154,15,QA9,2,2025-01-05 17:36:50.499193173 +0000 UTC,5,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1328,154,15,QA9,2,2025-01-05 17:36:50.499193173 +0000 UTC,5,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1356,155,15,QA9,2,2025-01-05 18:33:21.020458607 +0000 UTC,10,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+1356,155,15,QA9,2,2025-01-05 18:33:21.020458607 +0000 UTC,10,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1356,155,15,QA9,2,2025-01-05 18:33:21.020458607 +0000 UTC,10,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1356,155,15,QA9,2,2025-01-05 18:33:21.020458607 +0000 UTC,10,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1356,155,15,QA9,2,2025-01-05 18:33:21.020458607 +0000 UTC,10,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1356,155,15,QA9,2,2025-01-05 18:33:21.020458607 +0000 UTC,10,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1356,155,15,QA9,2,2025-01-05 18:33:21.020458607 +0000 UTC,10,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1356,155,15,QA9,2,2025-01-05 18:33:21.020458607 +0000 UTC,10,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1384,156,15,QA9,2,2025-01-05 18:38:00.123308376 +0000 UTC,7,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1384,156,15,QA9,2,2025-01-05 18:38:00.123308376 +0000 UTC,7,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1384,156,15,QA9,2,2025-01-05 18:38:00.123308376 +0000 UTC,7,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1384,156,15,QA9,2,2025-01-05 18:38:00.123308376 +0000 UTC,7,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1384,156,15,QA9,2,2025-01-05 18:38:00.123308376 +0000 UTC,7,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1384,156,15,QA9,2,2025-01-05 18:38:00.123308376 +0000 UTC,7,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1384,156,15,QA9,2,2025-01-05 18:38:00.123308376 +0000 UTC,7,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1384,156,15,QA9,2,2025-01-05 18:38:00.123308376 +0000 UTC,7,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1412,157,15,QA9,2,2025-01-05 18:49:00.858126829 +0000 UTC,5,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+1412,157,15,QA9,2,2025-01-05 18:49:00.858126829 +0000 UTC,5,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1412,157,15,QA9,2,2025-01-05 18:49:00.858126829 +0000 UTC,5,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1412,157,15,QA9,2,2025-01-05 18:49:00.858126829 +0000 UTC,5,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1412,157,15,QA9,2,2025-01-05 18:49:00.858126829 +0000 UTC,5,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1412,157,15,QA9,2,2025-01-05 18:49:00.858126829 +0000 UTC,5,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1412,157,15,QA9,2,2025-01-05 18:49:00.858126829 +0000 UTC,5,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1412,157,15,QA9,2,2025-01-05 18:49:00.858126829 +0000 UTC,5,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1440,158,15,QA9,2,2025-01-05 19:01:01.363302467 +0000 UTC,6,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+1440,158,15,QA9,2,2025-01-05 19:01:01.363302467 +0000 UTC,6,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1440,158,15,QA9,2,2025-01-05 19:01:01.363302467 +0000 UTC,6,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1440,158,15,QA9,2,2025-01-05 19:01:01.363302467 +0000 UTC,6,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1440,158,15,QA9,2,2025-01-05 19:01:01.363302467 +0000 UTC,6,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1440,158,15,QA9,2,2025-01-05 19:01:01.363302467 +0000 UTC,6,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1440,158,15,QA9,2,2025-01-05 19:01:01.363302467 +0000 UTC,6,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1440,158,15,QA9,2,2025-01-05 19:01:01.363302467 +0000 UTC,6,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1468,159,15,QA9,2,2025-01-05 19:08:00.255355999 +0000 UTC,200,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+1468,159,15,QA9,2,2025-01-05 19:08:00.255355999 +0000 UTC,200,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1468,159,15,QA9,2,2025-01-05 19:08:00.255355999 +0000 UTC,200,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1468,159,15,QA9,2,2025-01-05 19:08:00.255355999 +0000 UTC,200,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1468,159,15,QA9,2,2025-01-05 19:08:00.255355999 +0000 UTC,200,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1468,159,15,QA9,2,2025-01-05 19:08:00.255355999 +0000 UTC,200,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1468,159,15,QA9,2,2025-01-05 19:08:00.255355999 +0000 UTC,200,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1468,159,15,QA9,2,2025-01-05 19:08:00.255355999 +0000 UTC,200,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1496,160,15,QA9,2,2025-01-05 19:12:10.651721661 +0000 UTC,6,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1496,160,15,QA9,2,2025-01-05 19:12:10.651721661 +0000 UTC,6,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1496,160,15,QA9,2,2025-01-05 19:12:10.651721661 +0000 UTC,6,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1496,160,15,QA9,2,2025-01-05 19:12:10.651721661 +0000 UTC,6,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1496,160,15,QA9,2,2025-01-05 19:12:10.651721661 +0000 UTC,6,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1496,160,15,QA9,2,2025-01-05 19:12:10.651721661 +0000 UTC,6,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1496,160,15,QA9,2,2025-01-05 19:12:10.651721661 +0000 UTC,6,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1496,160,15,QA9,2,2025-01-05 19:12:10.651721661 +0000 UTC,6,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1524,161,15,QA9,2,2025-01-05 19:24:21.429068456 +0000 UTC,5,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1524,161,15,QA9,2,2025-01-05 19:24:21.429068456 +0000 UTC,5,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1524,161,15,QA9,2,2025-01-05 19:24:21.429068456 +0000 UTC,5,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1524,161,15,QA9,2,2025-01-05 19:24:21.429068456 +0000 UTC,5,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1524,161,15,QA9,2,2025-01-05 19:24:21.429068456 +0000 UTC,5,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1524,161,15,QA9,2,2025-01-05 19:24:21.429068456 +0000 UTC,5,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1524,161,15,QA9,2,2025-01-05 19:24:21.429068456 +0000 UTC,5,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1524,161,15,QA9,2,2025-01-05 19:24:21.429068456 +0000 UTC,5,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1552,162,15,QA9,2,2025-01-05 19:28:42.578217005 +0000 UTC,8,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+1552,162,15,QA9,2,2025-01-05 19:28:42.578217005 +0000 UTC,8,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1552,162,15,QA9,2,2025-01-05 19:28:42.578217005 +0000 UTC,8,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1552,162,15,QA9,2,2025-01-05 19:28:42.578217005 +0000 UTC,8,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1552,162,15,QA9,2,2025-01-05 19:28:42.578217005 +0000 UTC,8,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1552,162,15,QA9,2,2025-01-05 19:28:42.578217005 +0000 UTC,8,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1552,162,15,QA9,2,2025-01-05 19:28:42.578217005 +0000 UTC,8,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1552,162,15,QA9,2,2025-01-05 19:28:42.578217005 +0000 UTC,8,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1583,164,15,QA9,2,2025-01-05 19:33:26.388845155 +0000 UTC,8,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1583,164,15,QA9,2,2025-01-05 19:33:26.388845155 +0000 UTC,8,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1583,164,15,QA9,2,2025-01-05 19:33:26.388845155 +0000 UTC,8,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1583,164,15,QA9,2,2025-01-05 19:33:26.388845155 +0000 UTC,8,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1583,164,15,QA9,2,2025-01-05 19:33:26.388845155 +0000 UTC,8,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1583,164,15,QA9,2,2025-01-05 19:33:26.388845155 +0000 UTC,8,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1583,164,15,QA9,2,2025-01-05 19:33:26.388845155 +0000 UTC,8,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1583,164,15,QA9,2,2025-01-05 19:33:26.388845155 +0000 UTC,8,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1611,165,15,QA9,2,2025-01-05 19:42:01.128790995 +0000 UTC,10,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1611,165,15,QA9,2,2025-01-05 19:42:01.128790995 +0000 UTC,10,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1611,165,15,QA9,2,2025-01-05 19:42:01.128790995 +0000 UTC,10,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1611,165,15,QA9,2,2025-01-05 19:42:01.128790995 +0000 UTC,10,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1611,165,15,QA9,2,2025-01-05 19:42:01.128790995 +0000 UTC,10,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1611,165,15,QA9,2,2025-01-05 19:42:01.128790995 +0000 UTC,10,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1611,165,15,QA9,2,2025-01-05 19:42:01.128790995 +0000 UTC,10,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1611,165,15,QA9,2,2025-01-05 19:42:01.128790995 +0000 UTC,10,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1639,166,15,QA9,2,2025-01-05 19:46:23.485939664 +0000 UTC,6,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1639,166,15,QA9,2,2025-01-05 19:46:23.485939664 +0000 UTC,6,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1639,166,15,QA9,2,2025-01-05 19:46:23.485939664 +0000 UTC,6,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1639,166,15,QA9,2,2025-01-05 19:46:23.485939664 +0000 UTC,6,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1639,166,15,QA9,2,2025-01-05 19:46:23.485939664 +0000 UTC,6,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1639,166,15,QA9,2,2025-01-05 19:46:23.485939664 +0000 UTC,6,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1639,166,15,QA9,2,2025-01-05 19:46:23.485939664 +0000 UTC,6,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1639,166,15,QA9,2,2025-01-05 19:46:23.485939664 +0000 UTC,6,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1667,167,15,QA9,2,2025-01-05 19:50:51.813550279 +0000 UTC,12,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1667,167,15,QA9,2,2025-01-05 19:50:51.813550279 +0000 UTC,12,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1667,167,15,QA9,2,2025-01-05 19:50:51.813550279 +0000 UTC,12,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1667,167,15,QA9,2,2025-01-05 19:50:51.813550279 +0000 UTC,12,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1667,167,15,QA9,2,2025-01-05 19:50:51.813550279 +0000 UTC,12,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1667,167,15,QA9,2,2025-01-05 19:50:51.813550279 +0000 UTC,12,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+1667,167,15,QA9,2,2025-01-05 19:50:51.813550279 +0000 UTC,12,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1667,167,15,QA9,2,2025-01-05 19:50:51.813550279 +0000 UTC,12,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1695,168,15,QA9,2,2025-01-07 13:46:10.209218124 +0000 UTC,352,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+1695,168,15,QA9,2,2025-01-07 13:46:10.209218124 +0000 UTC,352,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1695,168,15,QA9,2,2025-01-07 13:46:10.209218124 +0000 UTC,352,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1695,168,15,QA9,2,2025-01-07 13:46:10.209218124 +0000 UTC,352,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1695,168,15,QA9,2,2025-01-07 13:46:10.209218124 +0000 UTC,352,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1695,168,15,QA9,2,2025-01-07 13:46:10.209218124 +0000 UTC,352,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+1695,168,15,QA9,2,2025-01-07 13:46:10.209218124 +0000 UTC,352,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1695,168,15,QA9,2,2025-01-07 13:46:10.209218124 +0000 UTC,352,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1723,169,15,QA9,2,2025-01-08 12:53:35.039376001 +0000 UTC,73,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+1723,169,15,QA9,2,2025-01-08 12:53:35.039376001 +0000 UTC,73,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1723,169,15,QA9,2,2025-01-08 12:53:35.039376001 +0000 UTC,73,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1723,169,15,QA9,2,2025-01-08 12:53:35.039376001 +0000 UTC,73,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1723,169,15,QA9,2,2025-01-08 12:53:35.039376001 +0000 UTC,73,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1723,169,15,QA9,2,2025-01-08 12:53:35.039376001 +0000 UTC,73,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+1723,169,15,QA9,2,2025-01-08 12:53:35.039376001 +0000 UTC,73,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1723,169,15,QA9,2,2025-01-08 12:53:35.039376001 +0000 UTC,73,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1751,170,15,QA9,2,2025-01-15 13:50:33.929415524 +0000 UTC,42,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1751,170,15,QA9,2,2025-01-15 13:50:33.929415524 +0000 UTC,42,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1751,170,15,QA9,2,2025-01-15 13:50:33.929415524 +0000 UTC,42,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1751,170,15,QA9,2,2025-01-15 13:50:33.929415524 +0000 UTC,42,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1751,170,15,QA9,2,2025-01-15 13:50:33.929415524 +0000 UTC,42,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1751,170,15,QA9,2,2025-01-15 13:50:33.929415524 +0000 UTC,42,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+1751,170,15,QA9,2,2025-01-15 13:50:33.929415524 +0000 UTC,42,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1751,170,15,QA9,2,2025-01-15 13:50:33.929415524 +0000 UTC,42,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1799,176,15,QA9,2,2025-01-28 20:37:19.205443424 +0000 UTC,86,3,98,2,"Die Organisationen der Zivilgesellschaft sind aufgefordert, den Entwurf des Fortschrittsberichts vor dessen Veröffentlichung zu kommentieren."
+1799,176,15,QA9,2,2025-01-28 20:37:19.205443424 +0000 UTC,86,1,98,2,"Die Informationen über den Bericht werden jeder Organisation zur Verfügung gestellt, die sie anfordert (sofern die Informationen nicht unter bestimmte Ausnahmen fallen)."
+1799,176,15,QA9,2,2025-01-28 20:37:19.205443424 +0000 UTC,86,5,2,1,Die Organisationen der Zivilgesellschaft werden angemessen über die Bewertung der Fortschritte bei der Verwirklichung der ENP-Ziele durch die EU informiert.
+1799,176,15,QA9,2,2025-01-28 20:37:19.205443424 +0000 UTC,86,2,1,0,Die Organisationen der Zivilgesellschaft werden bei der Bewertung der Fortschritte in bestimmten Bereichen zu Rate gezogen.
+1799,176,15,QA9,2,2025-01-28 20:37:19.205443424 +0000 UTC,86,7,2,1,"Es wird sichergestellt, dass die Ansichten und Interessen der einschlägigen Organisationen der Zivilgesellschaft in dem Bericht berücksichtigt werden."
+1799,176,15,QA9,2,2025-01-28 20:37:19.205443424 +0000 UTC,86,8,1,0,"Die Organisationen der Zivilgesellschaft werden regelmässig und häufig einbezogen, um die Umsetzung der vereinbarten politischen Reformen zu unterstützen und zu erleichtern."
+1799,176,15,QA9,2,2025-01-28 20:37:19.205443424 +0000 UTC,86,4,98,2,"Es wird sichergestellt, dass die Bewertung der erzielten Fortschritte in einer für die lokalen zivilgesellschaftlichen Organisationen verständlichen Form berichtet wird."
+1799,176,15,QA9,2,2025-01-28 20:37:19.205443424 +0000 UTC,86,6,98,2,"Die Organisationen der Zivilgesellschaft sind aufgefordert, ihre Ansichten bei der Erstellung des Berichts einzubringen."
+1835,179,15,QA9,2,2025-01-28 22:55:11.5475421 +0000 UTC,29,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+1835,179,15,QA9,2,2025-01-28 22:55:11.5475421 +0000 UTC,29,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1835,179,15,QA9,2,2025-01-28 22:55:11.5475421 +0000 UTC,29,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1835,179,15,QA9,2,2025-01-28 22:55:11.5475421 +0000 UTC,29,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1835,179,15,QA9,2,2025-01-28 22:55:11.5475421 +0000 UTC,29,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1835,179,15,QA9,2,2025-01-28 22:55:11.5475421 +0000 UTC,29,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+1835,179,15,QA9,2,2025-01-28 22:55:11.5475421 +0000 UTC,29,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1835,179,15,QA9,2,2025-01-28 22:55:11.5475421 +0000 UTC,29,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+1939,191,15,QA9,2,2025-01-29 13:50:15.291075086 +0000 UTC,63,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+1939,191,15,QA9,2,2025-01-29 13:50:15.291075086 +0000 UTC,63,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+1939,191,15,QA9,2,2025-01-29 13:50:15.291075086 +0000 UTC,63,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+1939,191,15,QA9,2,2025-01-29 13:50:15.291075086 +0000 UTC,63,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+1939,191,15,QA9,2,2025-01-29 13:50:15.291075086 +0000 UTC,63,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+1939,191,15,QA9,2,2025-01-29 13:50:15.291075086 +0000 UTC,63,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+1939,191,15,QA9,2,2025-01-29 13:50:15.291075086 +0000 UTC,63,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+1939,191,15,QA9,2,2025-01-29 13:50:15.291075086 +0000 UTC,63,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+2027,199,15,QA9,2,2025-02-03 16:00:49.697055356 +0000 UTC,50,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+2027,199,15,QA9,2,2025-02-03 16:00:49.697055356 +0000 UTC,50,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+2027,199,15,QA9,2,2025-02-03 16:00:49.697055356 +0000 UTC,50,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+2027,199,15,QA9,2,2025-02-03 16:00:49.697055356 +0000 UTC,50,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+2027,199,15,QA9,2,2025-02-03 16:00:49.697055356 +0000 UTC,50,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+2027,199,15,QA9,2,2025-02-03 16:00:49.697055356 +0000 UTC,50,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+2027,199,15,QA9,2,2025-02-03 16:00:49.697055356 +0000 UTC,50,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+2027,199,15,QA9,2,2025-02-03 16:00:49.697055356 +0000 UTC,50,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+2060,201,15,QA9,2,2025-02-05 21:42:08.086599988 +0000 UTC,11,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+2060,201,15,QA9,2,2025-02-05 21:42:08.086599988 +0000 UTC,11,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+2060,201,15,QA9,2,2025-02-05 21:42:08.086599988 +0000 UTC,11,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+2060,201,15,QA9,2,2025-02-05 21:42:08.086599988 +0000 UTC,11,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+2060,201,15,QA9,2,2025-02-05 21:42:08.086599988 +0000 UTC,11,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+2060,201,15,QA9,2,2025-02-05 21:42:08.086599988 +0000 UTC,11,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+2060,201,15,QA9,2,2025-02-05 21:42:08.086599988 +0000 UTC,11,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+2060,201,15,QA9,2,2025-02-05 21:42:08.086599988 +0000 UTC,11,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+2169,217,15,QA9,2,2025-03-11 15:19:14.244962552 +0000 UTC,143,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+2169,217,15,QA9,2,2025-03-11 15:19:14.244962552 +0000 UTC,143,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+2169,217,15,QA9,2,2025-03-11 15:19:14.244962552 +0000 UTC,143,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+2169,217,15,QA9,2,2025-03-11 15:19:14.244962552 +0000 UTC,143,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+2169,217,15,QA9,2,2025-03-11 15:19:14.244962552 +0000 UTC,143,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+2169,217,15,QA9,2,2025-03-11 15:19:14.244962552 +0000 UTC,143,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+2169,217,15,QA9,2,2025-03-11 15:19:14.244962552 +0000 UTC,143,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+2169,217,15,QA9,2,2025-03-11 15:19:14.244962552 +0000 UTC,143,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+2197,219,15,QA9,2,2025-03-17 16:13:44.643280815 +0000 UTC,99,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+2197,219,15,QA9,2,2025-03-17 16:13:44.643280815 +0000 UTC,99,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+2197,219,15,QA9,2,2025-03-17 16:13:44.643280815 +0000 UTC,99,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+2197,219,15,QA9,2,2025-03-17 16:13:44.643280815 +0000 UTC,99,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+2197,219,15,QA9,2,2025-03-17 16:13:44.643280815 +0000 UTC,99,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+2197,219,15,QA9,2,2025-03-17 16:13:44.643280815 +0000 UTC,99,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+2197,219,15,QA9,2,2025-03-17 16:13:44.643280815 +0000 UTC,99,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+2197,219,15,QA9,2,2025-03-17 16:13:44.643280815 +0000 UTC,99,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+2225,220,15,QA9,2,2025-03-18 12:26:57.819586387 +0000 UTC,72,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+2225,220,15,QA9,2,2025-03-18 12:26:57.819586387 +0000 UTC,72,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+2225,220,15,QA9,2,2025-03-18 12:26:57.819586387 +0000 UTC,72,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+2225,220,15,QA9,2,2025-03-18 12:26:57.819586387 +0000 UTC,72,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+2225,220,15,QA9,2,2025-03-18 12:26:57.819586387 +0000 UTC,72,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+2225,220,15,QA9,2,2025-03-18 12:26:57.819586387 +0000 UTC,72,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+2225,220,15,QA9,2,2025-03-18 12:26:57.819586387 +0000 UTC,72,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+2225,220,15,QA9,2,2025-03-18 12:26:57.819586387 +0000 UTC,72,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+2264,223,15,QA9,2,2025-03-18 17:31:34.314144035 +0000 UTC,25,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+2264,223,15,QA9,2,2025-03-18 17:31:34.314144035 +0000 UTC,25,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+2264,223,15,QA9,2,2025-03-18 17:31:34.314144035 +0000 UTC,25,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+2264,223,15,QA9,2,2025-03-18 17:31:34.314144035 +0000 UTC,25,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+2264,223,15,QA9,2,2025-03-18 17:31:34.314144035 +0000 UTC,25,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+2264,223,15,QA9,2,2025-03-18 17:31:34.314144035 +0000 UTC,25,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+2264,223,15,QA9,2,2025-03-18 17:31:34.314144035 +0000 UTC,25,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+2264,223,15,QA9,2,2025-03-18 17:31:34.314144035 +0000 UTC,25,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+2292,224,15,QA9,2,2025-03-19 13:45:06.05045453 +0000 UTC,16,4,1,0,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+2292,224,15,QA9,2,2025-03-19 13:45:06.05045453 +0000 UTC,16,6,1,0,Civil society organisations are invited to advance their views when putting together the report.
+2292,224,15,QA9,2,2025-03-19 13:45:06.05045453 +0000 UTC,16,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+2292,224,15,QA9,2,2025-03-19 13:45:06.05045453 +0000 UTC,16,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+2292,224,15,QA9,2,2025-03-19 13:45:06.05045453 +0000 UTC,16,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+2292,224,15,QA9,2,2025-03-19 13:45:06.05045453 +0000 UTC,16,3,1,0,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+2292,224,15,QA9,2,2025-03-19 13:45:06.05045453 +0000 UTC,16,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+2292,224,15,QA9,2,2025-03-19 13:45:06.05045453 +0000 UTC,16,1,1,0,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+2379,231,15,QA9,2,2025-04-01 15:44:53.855200884 +0000 UTC,18,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+2379,231,15,QA9,2,2025-04-01 15:44:53.855200884 +0000 UTC,18,6,98,2,Civil society organisations are invited to advance their views when putting together the report.
+2379,231,15,QA9,2,2025-04-01 15:44:53.855200884 +0000 UTC,18,2,98,2,Civil society organizations are consulted when assessing progress in certain areas.
+2379,231,15,QA9,2,2025-04-01 15:44:53.855200884 +0000 UTC,18,8,98,2,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+2379,231,15,QA9,2,2025-04-01 15:44:53.855200884 +0000 UTC,18,7,98,2,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+2379,231,15,QA9,2,2025-04-01 15:44:53.855200884 +0000 UTC,18,3,98,2,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+2379,231,15,QA9,2,2025-04-01 15:44:53.855200884 +0000 UTC,18,5,98,2,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+2379,231,15,QA9,2,2025-04-01 15:44:53.855200884 +0000 UTC,18,1,98,2,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+2407,232,15,QA9,2,2025-04-01 16:38:07.969498461 +0000 UTC,11,4,2,1,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+2407,232,15,QA9,2,2025-04-01 16:38:07.969498461 +0000 UTC,11,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+2407,232,15,QA9,2,2025-04-01 16:38:07.969498461 +0000 UTC,11,2,2,1,Civil society organizations are consulted when assessing progress in certain areas.
+2407,232,15,QA9,2,2025-04-01 16:38:07.969498461 +0000 UTC,11,8,2,1,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+2407,232,15,QA9,2,2025-04-01 16:38:07.969498461 +0000 UTC,11,7,2,1,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+2407,232,15,QA9,2,2025-04-01 16:38:07.969498461 +0000 UTC,11,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+2407,232,15,QA9,2,2025-04-01 16:38:07.969498461 +0000 UTC,11,5,2,1,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+2407,232,15,QA9,2,2025-04-01 16:38:07.969498461 +0000 UTC,11,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).
+2456,236,15,QA9,2,2025-04-08 07:47:22.220597532 +0000 UTC,55,4,98,2,It is ensured that the assessment of the progress made is reported in a manner that is comprehensible for local civil society organizations.
+2456,236,15,QA9,2,2025-04-08 07:47:22.220597532 +0000 UTC,55,6,2,1,Civil society organisations are invited to advance their views when putting together the report.
+2456,236,15,QA9,2,2025-04-08 07:47:22.220597532 +0000 UTC,55,2,1,0,Civil society organizations are consulted when assessing progress in certain areas.
+2456,236,15,QA9,2,2025-04-08 07:47:22.220597532 +0000 UTC,55,8,1,0,Civil society organisations are regularly and frequently involved in order to support and facilitate the implementation of the agreed policy reforms.
+2456,236,15,QA9,2,2025-04-08 07:47:22.220597532 +0000 UTC,55,7,1,0,It is ensured that the views and interests of relevant civil society organisations are reflected in the report.
+2456,236,15,QA9,2,2025-04-08 07:47:22.220597532 +0000 UTC,55,3,2,1,Civil society organisations are invited to comment on the draft progress report prior to its publication.
+2456,236,15,QA9,2,2025-04-08 07:47:22.220597532 +0000 UTC,55,5,1,0,Civil society organisations are appropriately informed about the EU’s assessment of the progress made towards the ENP objectives.
+2456,236,15,QA9,2,2025-04-08 07:47:22.220597532 +0000 UTC,55,1,2,1,Information about the report is made available to every organisation requesting it (unless the information comes under certain specified exceptions).

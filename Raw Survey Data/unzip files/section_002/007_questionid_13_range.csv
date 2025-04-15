@@ -1,0 +1,786 @@
+ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Row,Value,ColumnIndex,Text
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,11,2,2,I organize and/or contribute to thematic conferences.
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,10,2,2,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,13,3,3,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,6,4,4,I request further information on policies or reforms.
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,4,3,3,I support the imposition of diplomatic sanctions where appropriate and necessary.
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,3,4,4,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,14,4,4,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,9,4,4,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,7,3,3,I take part in or prepare activities to support EU positions at international conferences and summits.
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,5,3,3,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,12,3,3,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,2,4,4,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,1,4,4,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+38,24,13,QA7,2,2024-09-29 10:28:53.917768104 +0000 UTC,18,15,1,1,asdfasdfas
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,11,0,0,I organize and/or contribute to thematic conferences.
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,10,0,0,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,6,0,0,I request further information on policies or reforms.
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,3,0,0,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,14,0,0,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,9,0,0,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,7,0,0,I take part in or prepare activities to support EU positions at international conferences and summits.
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,2,0,0,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+69,21,13,QA7,2,2024-09-29 11:00:17.843260963 +0000 UTC,12,1,0,0,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,3,0,0,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,14,0,0,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,11,2,2,I organize and/or contribute to thematic conferences.
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,12,1,1,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,6,1,1,I request further information on policies or reforms.
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,10,0,0,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,2,1,1,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+97,26,13,QA7,2,2024-09-30 13:59:31.189656197 +0000 UTC,22,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,11,2,2,Ich organisiere und/oder trage zu thematischen Konferenzen bei.
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,1,3,3,"Ich verfolge die Entwicklungen und trage zur Ausarbeitung von Erklärungen bei, in denen der Standpunkt der EU (Verurteilung, Besorgnis oder Unterstützung) zu einer bestimmten Situation zum Ausdruck kommt."
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,6,3,3,Ich bitte um weitere Informationen über Politiken oder Reformen.
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,12,2,2,Ich unterstütze die freie und faire Durchführung von Wahlen (z.B. indem ich mich für die Anwesenheit von EU-Beobachter:innen einsetze).
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,8,3,3,"Ich setze mich dafür ein, dass Visaerleichterungen gewährt (oder in Aussicht gestellt) werden, um Reformen zu fördern, wo dies angemessen und notwendig ist."
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,3,2,2,"Ich äussere meine Unterstützung oder unterstütze aktiv die Aktivitäten anderer internationaler Organisationen, insbesondere der UN-Organisationen."
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,7,3,3,"Ich beteilige mich an Aktivitäten, oder bereite diese vor, die darauf abzielen, die Positionen der EU auf internationalen Kongressen oder Gipfeltreffen zu unterstützen."
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,4,4,4,"Ich setze mich für das Verhängen dipomatischer Sanktionen ein, wo dies angemessen und notwendig erscheint."
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,2,5,5,Ich treffe und berate mich bei diplomatischen Besuchen mit relevanten Akteuren aus den östlichen Nachbarstaaten.
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,9,4,4,"Ich verweise auf die Möglichkeit von Assoziierungsabkommen, um Reformen zu fördern oder zu unterstützen, wenn dies angemessen und notwendig erscheint."
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,13,3,3,"Ich lade Expert:innen für bestimmte Bereiche und Technologien ein oder schlage vor, sie einzuladen (z. B. im Bereich Wasserbewirtschaftung, Migration)."
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,14,2,2,"Ich nutze und befürworte finanzielle und technische Hilfe zur Förderung von Reformen, wo dies angemessen und notwendig ist."
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,5,3,3,"Ich spreche mich für das Verhängen oder Androhen eines Reiseverbots/Visumverbots aus, wenn dies angemessen und erforderlich ist."
+125,28,13,QA7,2,2024-09-30 14:10:22.262034227 +0000 UTC,16,10,4,4,"Ich verweise auf die grundsätzliche Aussicht auf eine EU-Mitgliedschaft und die damit verbundenen Zwischenschritte, um Anreize für Reformen zu schaffen, wo dies angemessen und notwendig ist."
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,13,4,4,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,2,4,4,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,11,4,4,I organize and/or contribute to thematic conferences.
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,9,0,0,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,7,2,2,I take part in or prepare activities to support EU positions at international conferences and summits.
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,3,3,3,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,14,4,4,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,6,5,5,I request further information on policies or reforms.
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+197,40,13,QA7,2,2024-10-05 20:37:26.716284358 +0000 UTC,76,10,4,4,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,1,3,3,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,2,2,2,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,11,2,2,I organize and/or contribute to thematic conferences.
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,9,3,3,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,7,3,3,I take part in or prepare activities to support EU positions at international conferences and summits.
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,3,2,2,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,14,0,0,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,8,4,4,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,6,4,4,I request further information on policies or reforms.
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+259,47,13,QA7,2,2024-10-14 08:37:05.897074827 +0000 UTC,128,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,1,5,5,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,12,5,5,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,13,5,5,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,2,5,5,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,11,5,5,I organize and/or contribute to thematic conferences.
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,9,5,5,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,7,5,5,I take part in or prepare activities to support EU positions at international conferences and summits.
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,3,5,5,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,14,5,5,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,8,5,5,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,6,5,5,I request further information on policies or reforms.
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+298,51,13,QA7,2,2024-10-17 18:58:49.644553252 +0000 UTC,75,10,3,3,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,1,2,2,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,12,98,6,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,13,98,6,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,2,4,4,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,11,3,3,I organize and/or contribute to thematic conferences.
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,9,98,6,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,7,98,6,I take part in or prepare activities to support EU positions at international conferences and summits.
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,3,98,6,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,14,98,6,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,6,98,6,I request further information on policies or reforms.
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,4,98,6,I support the imposition of diplomatic sanctions where appropriate and necessary.
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,5,98,6,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+357,55,13,QA7,2,2024-10-18 14:44:50.940299754 +0000 UTC,70,10,98,6,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,1,0,0,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,12,5,5,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,13,5,5,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,2,3,3,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,11,4,4,I organize and/or contribute to thematic conferences.
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,9,0,0,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,14,4,4,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,6,5,5,I request further information on policies or reforms.
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+374,57,13,QA7,2,2024-10-18 17:45:35.870439685 +0000 UTC,57,10,0,0,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,1,3,3,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,13,3,3,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,2,3,3,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,11,0,0,I organize and/or contribute to thematic conferences.
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,9,3,3,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,14,4,4,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,8,3,3,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,6,5,5,I request further information on policies or reforms.
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,4,3,3,I support the imposition of diplomatic sanctions where appropriate and necessary.
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,5,3,3,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+470,64,13,QA7,2,2024-10-24 12:01:27.529113474 +0000 UTC,77,10,4,4,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,1,4,4,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,13,3,3,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,2,3,3,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,11,4,4,I organize and/or contribute to thematic conferences.
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,9,0,0,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,7,4,4,I take part in or prepare activities to support EU positions at international conferences and summits.
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,3,4,4,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,14,0,0,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,6,2,2,I request further information on policies or reforms.
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+512,69,13,QA7,2,2024-11-05 16:36:32.27786053 +0000 UTC,105,10,0,0,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,10,4,4,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,6,5,5,I request further information on policies or reforms.
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,12,98,6,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,2,4,4,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,3,4,4,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,11,4,4,I organize and/or contribute to thematic conferences.
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,4,5,5,I support the imposition of diplomatic sanctions where appropriate and necessary.
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,7,5,5,I take part in or prepare activities to support EU positions at international conferences and summits.
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,1,5,5,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,14,5,5,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,13,3,3,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,5,4,4,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+632,76,13,QA7,2,2024-11-13 16:20:04.686464511 +0000 UTC,1260,8,4,4,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,10,98,6,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,6,98,6,I request further information on policies or reforms.
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,12,98,6,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,9,98,6,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,2,98,6,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,3,98,6,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,11,98,6,I organize and/or contribute to thematic conferences.
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,4,98,6,I support the imposition of diplomatic sanctions where appropriate and necessary.
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,7,98,6,I take part in or prepare activities to support EU positions at international conferences and summits.
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,1,98,6,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,14,98,6,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,13,98,6,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,5,98,6,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+660,94,13,QA7,2,2024-11-14 09:28:02.650761696 +0000 UTC,101,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,10,98,6,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,6,98,6,I request further information on policies or reforms.
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,12,98,6,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,9,98,6,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,2,98,6,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,3,98,6,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,11,98,6,I organize and/or contribute to thematic conferences.
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,4,98,6,I support the imposition of diplomatic sanctions where appropriate and necessary.
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,7,98,6,I take part in or prepare activities to support EU positions at international conferences and summits.
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,1,98,6,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,14,98,6,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,13,98,6,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,5,98,6,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+688,95,13,QA7,2,2024-11-14 10:02:34.828985561 +0000 UTC,25,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,1,3,3,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,10,4,4,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,13,4,4,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,11,3,3,I organize and/or contribute to thematic conferences.
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,3,0,0,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,2,2,2,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,12,1,1,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,6,4,4,I request further information on policies or reforms.
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+731,98,13,QA7,2,2024-11-21 10:29:40.509694465 +0000 UTC,141,14,4,4,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,1,5,5,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,10,5,5,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,7,5,5,I take part in or prepare activities to support EU positions at international conferences and summits.
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,9,5,5,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,8,5,5,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,13,3,3,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,11,3,3,I organize and/or contribute to thematic conferences.
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,2,5,5,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,12,5,5,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,6,5,5,I request further information on policies or reforms.
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,5,3,3,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+781,102,13,QA7,2,2024-11-27 15:02:12.857655793 +0000 UTC,153,14,4,4,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,1,4,4,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,10,4,4,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,7,5,5,I take part in or prepare activities to support EU positions at international conferences and summits.
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,9,4,4,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,8,3,3,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,11,0,0,I organize and/or contribute to thematic conferences.
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,3,3,3,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,4,5,5,I support the imposition of diplomatic sanctions where appropriate and necessary.
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,2,3,3,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,12,5,5,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,6,3,3,I request further information on policies or reforms.
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,5,5,5,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+809,103,13,QA7,2,2024-11-27 16:48:30.975577479 +0000 UTC,67,14,4,4,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,1,2,2,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,7,4,4,I take part in or prepare activities to support EU positions at international conferences and summits.
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,9,3,3,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,8,3,3,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,13,4,4,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,11,3,3,I organize and/or contribute to thematic conferences.
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,3,4,4,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,2,4,4,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,6,5,5,I request further information on policies or reforms.
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+851,108,13,QA7,2,2024-12-02 07:44:24.486418489 +0000 UTC,197,14,5,5,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,1,4,4,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,10,5,5,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,7,5,5,I take part in or prepare activities to support EU positions at international conferences and summits.
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,9,5,5,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,13,5,5,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,11,5,5,I organize and/or contribute to thematic conferences.
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,3,5,5,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,2,5,5,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,12,1,1,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,6,5,5,I request further information on policies or reforms.
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+889,115,13,QA7,2,2024-12-10 16:13:26.439485795 +0000 UTC,328,14,5,5,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,10,5,5,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,7,3,3,I take part in or prepare activities to support EU positions at international conferences and summits.
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,9,3,3,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,13,4,4,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,11,4,4,I organize and/or contribute to thematic conferences.
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,3,3,3,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,2,1,1,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,6,4,4,I request further information on policies or reforms.
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+924,117,13,QA7,2,2024-12-11 13:06:05.994475072 +0000 UTC,143,14,4,4,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,1,3,3,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,10,0,0,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,9,3,3,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,13,4,4,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,11,4,4,I organize and/or contribute to thematic conferences.
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,3,3,3,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,2,0,0,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,6,4,4,I request further information on policies or reforms.
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+955,119,13,QA7,2,2024-12-11 14:20:58.075033477 +0000 UTC,218,14,4,4,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,10,2,2,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,7,2,2,I take part in or prepare activities to support EU positions at international conferences and summits.
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,9,2,2,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,13,1,1,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,11,1,1,I organize and/or contribute to thematic conferences.
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,3,2,2,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,2,1,1,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,6,2,2,I request further information on policies or reforms.
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1061,132,13,QA7,2,2024-12-17 11:37:41.459600613 +0000 UTC,105,14,1,1,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,1,3,3,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,10,4,4,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,7,4,4,I take part in or prepare activities to support EU positions at international conferences and summits.
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,9,3,3,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,8,4,4,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,13,3,3,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,11,5,5,I organize and/or contribute to thematic conferences.
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,3,3,3,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,4,2,2,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,2,2,2,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,12,2,2,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,6,3,3,I request further information on policies or reforms.
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1184,148,13,QA7,2,2025-01-05 16:38:14.476567779 +0000 UTC,60,14,2,2,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,1,0,0,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,10,0,0,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,7,0,0,I take part in or prepare activities to support EU positions at international conferences and summits.
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,8,2,2,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,13,3,3,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,11,2,2,I organize and/or contribute to thematic conferences.
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,3,3,3,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,4,4,4,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,2,3,3,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,12,4,4,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,6,4,4,I request further information on policies or reforms.
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,5,3,3,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1212,149,13,QA7,2,2025-01-05 16:54:42.859126002 +0000 UTC,21,14,4,4,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,7,2,2,I take part in or prepare activities to support EU positions at international conferences and summits.
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,8,2,2,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,13,3,3,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,11,2,2,I organize and/or contribute to thematic conferences.
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,3,2,2,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,4,3,3,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,2,2,2,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,12,3,3,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,6,2,2,I request further information on policies or reforms.
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,5,4,4,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1242,151,13,QA7,2,2025-01-05 17:15:30.922449092 +0000 UTC,14,14,3,3,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,10,0,0,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,11,0,0,I organize and/or contribute to thematic conferences.
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,3,0,0,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,2,1,1,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,12,1,1,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,6,1,1,I request further information on policies or reforms.
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1270,152,13,QA7,2,2025-01-05 17:22:10.080248157 +0000 UTC,25,14,0,0,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,1,3,3,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,10,3,3,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,7,2,2,I take part in or prepare activities to support EU positions at international conferences and summits.
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,9,0,0,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,8,3,3,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,13,3,3,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,11,3,3,I organize and/or contribute to thematic conferences.
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,3,0,0,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,4,3,3,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,2,3,3,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,6,3,3,I request further information on policies or reforms.
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1298,153,13,QA7,2,2025-01-05 17:30:17.894684661 +0000 UTC,25,14,3,3,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,7,0,0,I take part in or prepare activities to support EU positions at international conferences and summits.
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,11,0,0,I organize and/or contribute to thematic conferences.
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,2,1,1,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,6,1,1,I request further information on policies or reforms.
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1326,154,13,QA7,2,2025-01-05 17:36:36.24582267 +0000 UTC,17,14,1,1,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,1,2,2,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,10,2,2,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,9,2,2,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,8,2,2,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,11,2,2,I organize and/or contribute to thematic conferences.
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,2,2,2,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,12,2,2,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,6,1,1,I request further information on policies or reforms.
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,5,2,2,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1354,155,13,QA7,2,2025-01-05 18:33:01.42598253 +0000 UTC,16,14,2,2,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,10,2,2,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,7,2,2,I take part in or prepare activities to support EU positions at international conferences and summits.
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,8,2,2,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,13,2,2,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,11,3,3,I organize and/or contribute to thematic conferences.
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,2,1,1,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,6,0,0,I request further information on policies or reforms.
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1382,156,13,QA7,2,2025-01-05 18:37:44.94194908 +0000 UTC,15,14,0,0,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,9,0,0,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,11,0,0,I organize and/or contribute to thematic conferences.
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,2,1,1,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,12,1,1,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,6,1,1,I request further information on policies or reforms.
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1410,157,13,QA7,2,2025-01-05 18:48:40.073251324 +0000 UTC,18,14,1,1,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,11,0,0,I organize and/or contribute to thematic conferences.
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,2,1,1,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,12,1,1,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,6,1,1,I request further information on policies or reforms.
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1438,158,13,QA7,2,2025-01-05 19:00:47.057368805 +0000 UTC,18,14,1,1,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,13,1,1,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,11,1,1,I organize and/or contribute to thematic conferences.
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,2,2,2,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,12,2,2,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,6,1,1,I request further information on policies or reforms.
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1466,159,13,QA7,2,2025-01-05 19:04:30.378980284 +0000 UTC,12,14,1,1,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,1,0,0,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,9,0,0,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,13,1,1,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,11,0,0,I organize and/or contribute to thematic conferences.
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,2,1,1,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,6,1,1,I request further information on policies or reforms.
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1494,160,13,QA7,2,2025-01-05 19:11:54.628104706 +0000 UTC,11,14,0,0,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,1,0,0,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,7,0,0,I take part in or prepare activities to support EU positions at international conferences and summits.
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,11,1,1,I organize and/or contribute to thematic conferences.
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,2,0,0,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,12,1,1,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,6,2,2,I request further information on policies or reforms.
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1522,161,13,QA7,2,2025-01-05 19:24:07.553893107 +0000 UTC,13,14,1,1,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,1,3,3,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,10,3,3,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,7,2,2,I take part in or prepare activities to support EU positions at international conferences and summits.
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,9,3,3,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,8,2,2,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,13,3,3,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,11,2,2,I organize and/or contribute to thematic conferences.
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,3,2,2,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,4,2,2,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,2,3,3,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,12,3,3,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,6,2,2,I request further information on policies or reforms.
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,5,2,2,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1550,162,13,QA7,2,2025-01-05 19:28:25.540666139 +0000 UTC,12,14,3,3,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,10,0,0,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,9,2,2,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,13,1,1,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,11,2,2,I organize and/or contribute to thematic conferences.
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,3,0,0,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,2,0,0,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,6,1,1,I request further information on policies or reforms.
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,5,2,2,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1581,164,13,QA7,2,2025-01-05 19:33:09.872792349 +0000 UTC,22,14,2,2,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,9,0,0,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,13,1,1,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,11,0,0,I organize and/or contribute to thematic conferences.
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,3,0,0,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,2,1,1,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,12,1,1,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,6,0,0,I request further information on policies or reforms.
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1609,165,13,QA7,2,2025-01-05 19:41:42.897321443 +0000 UTC,11,14,1,1,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,7,0,0,I take part in or prepare activities to support EU positions at international conferences and summits.
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,11,1,1,I organize and/or contribute to thematic conferences.
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,3,0,0,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,2,0,0,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,12,1,1,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,6,0,0,I request further information on policies or reforms.
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1637,166,13,QA7,2,2025-01-05 19:46:08.18231353 +0000 UTC,13,14,0,0,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,7,0,0,I take part in or prepare activities to support EU positions at international conferences and summits.
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,11,1,1,I organize and/or contribute to thematic conferences.
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,2,0,0,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,12,1,1,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,6,2,2,I request further information on policies or reforms.
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1665,167,13,QA7,2,2025-01-05 19:50:29.268802153 +0000 UTC,14,14,2,2,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,1,3,3,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,10,3,3,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,9,3,3,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,13,4,4,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,11,2,2,I organize and/or contribute to thematic conferences.
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,2,3,3,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,12,3,3,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,6,1,1,I request further information on policies or reforms.
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1693,168,13,QA7,2,2025-01-07 13:24:14.741488419 +0000 UTC,246,14,1,1,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,1,2,2,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,9,2,2,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,13,1,1,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,11,1,1,I organize and/or contribute to thematic conferences.
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,3,1,1,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,4,1,1,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,2,3,3,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,12,2,2,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,6,2,2,I request further information on policies or reforms.
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,5,98,6,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1721,169,13,QA7,2,2025-01-08 12:51:04.332928742 +0000 UTC,160,14,2,2,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,10,1,1,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,7,4,4,I take part in or prepare activities to support EU positions at international conferences and summits.
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,8,1,1,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,13,5,5,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,11,5,5,I organize and/or contribute to thematic conferences.
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,3,3,3,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,4,2,2,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,2,1,1,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,12,98,6,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,6,2,2,I request further information on policies or reforms.
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1749,170,13,QA7,2,2025-01-15 13:48:58.735189855 +0000 UTC,103,14,5,5,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,8,3,3,"Ich setze mich dafür ein, dass Visaerleichterungen gewährt (oder in Aussicht gestellt) werden, um Reformen zu fördern, wo dies angemessen und notwendig ist."
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,12,4,4,Ich unterstütze die freie und faire Durchführung von Wahlen (z.B. indem ich mich für die Anwesenheit von EU-Beobachter:innen einsetze).
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,14,3,3,"Ich nutze und befürworte finanzielle und technische Hilfe zur Förderung von Reformen, wo dies angemessen und notwendig ist."
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,5,2,2,"Ich spreche mich für das Verhängen oder Androhen eines Reiseverbots/Visumverbots aus, wenn dies angemessen und erforderlich ist."
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,3,2,2,"Ich äussere meine Unterstützung oder unterstütze aktiv die Aktivitäten anderer internationaler Organisationen, insbesondere der UN-Organisationen."
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,13,4,4,"Ich lade Expert:innen für bestimmte Bereiche und Technologien ein oder schlage vor, sie einzuladen (z. B. im Bereich Wasserbewirtschaftung, Migration)."
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,4,1,1,"Ich setze mich für das Verhängen dipomatischer Sanktionen ein, wo dies angemessen und notwendig erscheint."
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,2,4,4,Ich treffe und berate mich bei diplomatischen Besuchen mit relevanten Akteuren aus den östlichen Nachbarstaaten.
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,9,4,4,"Ich verweise auf die Möglichkeit von Assoziierungsabkommen, um Reformen zu fördern oder zu unterstützen, wenn dies angemessen und notwendig erscheint."
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,11,4,4,Ich organisiere und/oder trage zu thematischen Konferenzen bei.
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,6,4,4,Ich bitte um weitere Informationen über Politiken oder Reformen.
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,1,2,2,"Ich verfolge die Entwicklungen und trage zur Ausarbeitung von Erklärungen bei, in denen der Standpunkt der EU (Verurteilung, Besorgnis oder Unterstützung) zu einer bestimmten Situation zum Ausdruck kommt."
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,10,1,1,"Ich verweise auf die grundsätzliche Aussicht auf eine EU-Mitgliedschaft und die damit verbundenen Zwischenschritte, um Anreize für Reformen zu schaffen, wo dies angemessen und notwendig ist."
+1792,176,13,QA7,2,2025-01-28 20:34:39.448811253 +0000 UTC,97,7,2,2,"Ich beteilige mich an Aktivitäten, oder bereite diese vor, die darauf abzielen, die Positionen der EU auf internationalen Kongressen oder Gipfeltreffen zu unterstützen."
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,1,98,6,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,10,98,6,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,7,98,6,I take part in or prepare activities to support EU positions at international conferences and summits.
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,9,98,6,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,13,98,6,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,11,98,6,I organize and/or contribute to thematic conferences.
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,3,98,6,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,4,98,6,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,2,98,6,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,12,98,6,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,6,98,6,I request further information on policies or reforms.
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,5,98,6,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1833,179,13,QA7,2,2025-01-28 22:53:22.373210505 +0000 UTC,27,14,98,6,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,1,3,3,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,10,2,2,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,7,1,1,I take part in or prepare activities to support EU positions at international conferences and summits.
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,8,3,3,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,13,4,4,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,11,4,4,I organize and/or contribute to thematic conferences.
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,3,3,3,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,4,3,3,I support the imposition of diplomatic sanctions where appropriate and necessary.
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,2,3,3,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,12,5,5,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,6,1,1,I request further information on policies or reforms.
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,5,1,1,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+1937,191,13,QA7,2,2025-01-29 13:47:46.458219182 +0000 UTC,146,14,1,1,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,1,4,4,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,10,4,4,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,7,2,2,I take part in or prepare activities to support EU positions at international conferences and summits.
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,9,1,1,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,13,2,2,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,11,4,4,I organize and/or contribute to thematic conferences.
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,3,2,2,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,4,2,2,I support the imposition of diplomatic sanctions where appropriate and necessary.
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,2,5,5,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,12,4,4,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,6,5,5,I request further information on policies or reforms.
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,5,2,2,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+2025,199,13,QA7,2,2025-02-03 15:59:05.885765024 +0000 UTC,114,14,5,5,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,1,98,6,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,10,98,6,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,7,98,6,I take part in or prepare activities to support EU positions at international conferences and summits.
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,9,98,6,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,13,98,6,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,11,98,6,I organize and/or contribute to thematic conferences.
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,3,98,6,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,4,98,6,I support the imposition of diplomatic sanctions where appropriate and necessary.
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,2,98,6,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,12,98,6,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,6,98,6,I request further information on policies or reforms.
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,5,98,6,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+2058,201,13,QA7,2,2025-02-05 21:41:43.933038118 +0000 UTC,20,14,98,6,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,14,3,3,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,3,3,3,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,6,3,3,I request further information on policies or reforms.
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,8,3,3,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,10,3,3,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,9,3,3,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,5,3,3,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,11,3,3,I organize and/or contribute to thematic conferences.
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,13,3,3,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,12,3,3,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,7,3,3,I take part in or prepare activities to support EU positions at international conferences and summits.
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,2,3,3,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,1,3,3,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+2167,217,13,QA7,2,2025-03-11 15:16:35.129657774 +0000 UTC,18,4,3,3,I support the imposition of diplomatic sanctions where appropriate and necessary.
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,14,98,6,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,3,98,6,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,6,4,4,I request further information on policies or reforms.
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,10,5,5,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,9,4,4,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,5,98,6,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,11,3,3,I organize and/or contribute to thematic conferences.
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,13,98,6,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,12,98,6,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,7,98,6,I take part in or prepare activities to support EU positions at international conferences and summits.
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,2,2,2,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,1,1,1,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+2195,219,13,QA7,2,2025-03-17 16:10:59.152695711 +0000 UTC,118,4,98,6,I support the imposition of diplomatic sanctions where appropriate and necessary.
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,14,1,1,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,3,5,5,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,6,4,4,I request further information on policies or reforms.
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,8,5,5,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,10,4,4,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,9,4,4,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,11,5,5,I organize and/or contribute to thematic conferences.
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,13,5,5,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,12,5,5,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,7,5,5,I take part in or prepare activities to support EU positions at international conferences and summits.
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,2,5,5,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,1,5,5,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+2223,220,13,QA7,2,2025-03-18 12:25:01.203509511 +0000 UTC,140,4,2,2,I support the imposition of diplomatic sanctions where appropriate and necessary.
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,14,98,6,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,3,98,6,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,6,98,6,I request further information on policies or reforms.
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,10,98,6,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,9,98,6,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,5,98,6,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,11,98,6,I organize and/or contribute to thematic conferences.
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,13,98,6,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,12,98,6,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,7,98,6,I take part in or prepare activities to support EU positions at international conferences and summits.
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,2,98,6,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,1,98,6,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+2262,223,13,QA7,2,2025-03-18 17:30:51.691066338 +0000 UTC,34,4,98,6,I support the imposition of diplomatic sanctions where appropriate and necessary.
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,14,5,5,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,3,5,5,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,6,5,5,I request further information on policies or reforms.
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,10,5,5,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,9,5,5,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,5,98,6,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,11,5,5,I organize and/or contribute to thematic conferences.
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,13,5,5,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,12,5,5,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,7,5,5,I take part in or prepare activities to support EU positions at international conferences and summits.
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,2,5,5,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,1,5,5,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+2290,224,13,QA7,2,2025-03-19 13:44:27.394405171 +0000 UTC,74,4,5,5,I support the imposition of diplomatic sanctions where appropriate and necessary.
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,14,4,4,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,3,2,2,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,6,4,4,I request further information on policies or reforms.
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,10,3,3,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,9,4,4,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,5,98,6,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,11,98,6,I organize and/or contribute to thematic conferences.
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,13,98,6,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,12,3,3,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,7,98,6,I take part in or prepare activities to support EU positions at international conferences and summits.
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,2,4,4,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,1,98,6,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+2377,231,13,QA7,2,2025-04-01 15:44:01.434553284 +0000 UTC,65,4,98,6,I support the imposition of diplomatic sanctions where appropriate and necessary.
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,14,0,0,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,3,0,0,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,6,0,0,I request further information on policies or reforms.
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,8,0,0,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,10,0,0,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,9,0,0,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,5,0,0,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,11,0,0,I organize and/or contribute to thematic conferences.
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,13,0,0,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,12,0,0,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,7,0,0,I take part in or prepare activities to support EU positions at international conferences and summits.
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,2,0,0,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,1,0,0,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+2405,232,13,QA7,2,2025-04-01 16:36:02.238122541 +0000 UTC,18,4,0,0,I support the imposition of diplomatic sanctions where appropriate and necessary.
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,14,98,6,I use and advocate financial and technical assistance to encourage reform where appropriate and necessary.
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,3,4,4,"I express my support or actively support the activities of other international organizations, notably UN agencies."
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,6,98,6,I request further information on policies or reforms.
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,8,98,6,I support granting (or promising to grant) visa facilitation to encourage reform where appropriate and necessary.
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,10,98,6,I refer to the prospect of EU membership in principle and the associated interim steps to provide incentives for reform where appropriate and necessary.
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,9,98,6,I refer to the possibility of association agreements to promote or support reforms where appropriate and necessary.
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,5,98,6,I support the imposition or threat of a travel/visa ban where appropriate and necessary.
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,11,98,6,I organize and/or contribute to thematic conferences.
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,13,98,6,"I invite or propose to invite experts in certain areas and technologies (e.g., water governance, migration)."
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,12,98,6,"I support the free and fair conduct of elections (e.g., by advocating for the presence of EU observers)."
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,7,98,6,I take part in or prepare activities to support EU positions at international conferences and summits.
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,2,98,6,I meet and consult with relevant stakeholders from the eastern neighbouring countries at diplomatic visits.
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,1,98,6,"I monitor developments and contribute to the drafting of declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation."
+2454,236,13,QA7,2,2025-04-08 07:45:07.225591461 +0000 UTC,48,4,98,6,I support the imposition of diplomatic sanctions where appropriate and necessary.
