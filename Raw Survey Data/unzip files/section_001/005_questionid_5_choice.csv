@@ -19,3 +19,4 @@ ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Select
 2215,220,5,Q05,1,2025-03-18 12:02:51.335042087 +0000 UTC,43,3,European Council,6,Support and Junior Role (e.g. Policy Assistant),2017,2019
 2254,223,5,Q05,1,2025-03-18 17:18:29.806674318 +0000 UTC,14,1,European Commission,5,Professional Role (e.g. Program Officer),2000,2022
 2444,236,5,Q05,1,2025-04-08 07:23:01.490468532 +0000 UTC,61,1,European Commission,3,Middle Management (e.g. Head of Department),2016,2018
+2647,256,5,Q05,1,2025-04-28 11:49:43.189356823 +0000 UTC,82,1,European Commission,5,Professional Role (e.g. Program Officer),1997,2000

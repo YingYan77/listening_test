@@ -54,3 +54,7 @@ ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Select
 2368,231,4,Q04,1,2025-04-01 15:34:28.402178417 +0000 UTC,12,1,European Commission,2,Upper Management (e.g. Head of Unit),2001
 2396,232,4,Q04,1,2025-04-01 16:24:58.641454 +0000 UTC,18,1,European Commission,2,Upper Management (e.g. Head of Unit),2011
 2441,236,4,Q04,1,2025-04-08 07:21:59.998933216 +0000 UTC,62,1,European Commission,3,Middle Management (e.g. Head of Department),2018
+2516,244,4,Q04,1,2025-04-10 10:27:31.552213372 +0000 UTC,41,1,European Commission,3,Middle Management (e.g. Head of Department),1992
+2567,250,4,Q04,1,2025-04-22 08:22:11.150526153 +0000 UTC,19,1,European Commission,1,Senior Executive Leadership (e.g. Director-General),2004
+2601,252,4,Q04,1,2025-04-24 13:53:01.340338786 +0000 UTC,36,1,European Commission,5,Professional Role (e.g. Program Officer),2005
+2646,256,4,Q04,1,2025-04-28 11:48:21.029361681 +0000 UTC,57,1,European Commission,4,Specialized and Senior Expert Role (e.g. Head of Office),2018

@@ -785,3 +785,59 @@ ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Row,Va
 2453,236,12,QA6,2,2025-04-08 07:44:18.787467829 +0000 UTC,86,2,5,5,High-level visits
 2453,236,12,QA6,2,2025-04-08 07:44:18.787467829 +0000 UTC,86,4,2,2,"Diplomatic sanctions, including suspending high-level contacts, or withdrawing technical experts"
 2453,236,12,QA6,2,2025-04-08 07:44:18.787467829 +0000 UTC,86,1,5,5,"Declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation"
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,5,98,6,"Travel/visa bans, or the threat of such"
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,9,5,5,"Association agreement, including reference to jointly agreed actions"
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,3,98,6,"Support of other international organizations, notably UN agencies"
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,6,4,4,Requesting further information on policies
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,11,5,5,Sponsoring thematic conferences
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,7,3,3,"Requesting support for EU positions in international fora, including conferences and summits"
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,12,5,5,Election monitoring
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,10,5,5,Prospect of EU membership and associated intermediate steps
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,13,5,5,"Providing expertise and knowledge to address policy problems (e.g., water governance, migration)"
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,8,4,4,"Incentive of visa facilitations, or promise of such"
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,14,5,5,Financial and technical assistance as an incentive for reform
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,2,5,5,High-level visits
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,4,4,4,"Diplomatic sanctions, including suspending high-level contacts, or withdrawing technical experts"
+2524,244,12,QA6,2,2025-04-10 10:44:44.227538849 +0000 UTC,123,1,5,5,"Declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation"
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,5,98,6,"Travel/visa bans, or the threat of such"
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,9,4,4,"Association agreement, including reference to jointly agreed actions"
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,3,4,4,"Support of other international organizations, notably UN agencies"
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,6,4,4,Requesting further information on policies
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,11,4,4,Sponsoring thematic conferences
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,7,4,4,"Requesting support for EU positions in international fora, including conferences and summits"
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,12,98,6,Election monitoring
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,10,4,4,Prospect of EU membership and associated intermediate steps
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,13,5,5,"Providing expertise and knowledge to address policy problems (e.g., water governance, migration)"
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,8,4,4,"Incentive of visa facilitations, or promise of such"
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,14,5,5,Financial and technical assistance as an incentive for reform
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,2,5,5,High-level visits
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,4,4,4,"Diplomatic sanctions, including suspending high-level contacts, or withdrawing technical experts"
+2575,250,12,QA6,2,2025-04-22 08:36:03.923344955 +0000 UTC,72,1,5,5,"Declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation"
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,5,4,4,"Travel/visa bans, or the threat of such"
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,9,5,5,"Association agreement, including reference to jointly agreed actions"
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,3,5,5,"Support of other international organizations, notably UN agencies"
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,6,5,5,Requesting further information on policies
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,11,4,4,Sponsoring thematic conferences
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,7,5,5,"Requesting support for EU positions in international fora, including conferences and summits"
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,12,5,5,Election monitoring
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,10,4,4,Prospect of EU membership and associated intermediate steps
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,13,5,5,"Providing expertise and knowledge to address policy problems (e.g., water governance, migration)"
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,8,4,4,"Incentive of visa facilitations, or promise of such"
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,14,5,5,Financial and technical assistance as an incentive for reform
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,2,4,4,High-level visits
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,4,4,4,"Diplomatic sanctions, including suspending high-level contacts, or withdrawing technical experts"
+2609,252,12,QA6,2,2025-04-24 14:04:04.695563487 +0000 UTC,77,1,4,4,"Declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation"
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,5,3,3,"Travel/visa bans, or the threat of such"
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,9,5,5,"Association agreement, including reference to jointly agreed actions"
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,3,4,4,"Support of other international organizations, notably UN agencies"
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,6,4,4,Requesting further information on policies
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,11,5,5,Sponsoring thematic conferences
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,7,5,5,"Requesting support for EU positions in international fora, including conferences and summits"
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,12,98,6,Election monitoring
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,10,98,6,Prospect of EU membership and associated intermediate steps
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,13,98,6,"Providing expertise and knowledge to address policy problems (e.g., water governance, migration)"
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,8,4,4,"Incentive of visa facilitations, or promise of such"
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,14,98,6,Financial and technical assistance as an incentive for reform
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,2,5,5,High-level visits
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,4,5,5,"Diplomatic sanctions, including suspending high-level contacts, or withdrawing technical experts"
+2654,256,12,QA6,2,2025-04-28 12:05:58.278351346 +0000 UTC,76,1,98,6,"Declarations/ statements expressing the EU’s position (condemnation, concern, or support) on a particular situation"

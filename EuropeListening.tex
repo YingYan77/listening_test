@@ -1,0 +1,1044 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{241,243,245}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.40,0.45,0.13}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\BuiltInTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{\textit{#1}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{\textit{#1}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\ExtensionTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.28,0.35,0.67}{#1}}
+\newcommand{\ImportTok}[1]{\textcolor[rgb]{0.00,0.46,0.62}{#1}}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.68,0.00,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{\textcolor[rgb]{0.00,0.23,0.31}{#1}}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.07,0.07,0.07}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.13,0.47,0.30}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.37,0.37,0.37}{\textit{#1}}}
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={EuropeListening},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{EuropeListening}
+\author{}
+\date{}
+\begin{document}
+\maketitle
+
+
+\section{Introduction}\label{introduction}
+
+The European Union (EU) has long envisioned itself as a global champion
+of democracy, human rights, and the rule of law, projecting an identity
+of `normative power' that underpins its foreign policy and international
+engagement (\citeproc{ref-manners2002normative}{Manners, 2002}). This
+self-image is reflected in key policy documents such as the European
+Democracy Action Plan in 2020 and the Defence of Democracy package in
+2023, both framing the EU as a `force for good' and a committed promoter
+of democracy. Central to this vision is the EU's aspiration to be viewed
+as a legitimate and credible actor, with its influence largely derived
+from its soft power and the appeal of its values
+(\citeproc{ref-nye2004soft}{Nye, 2004}). However, historical examples
+highlight a disconnect between the EU's self-perception and its external
+image. In Tunisia, for instance, post-2011 EU democracy promotion was
+criticized for neglecting local visions and priorities
+(\citeproc{ref-pace2014eu}{Pace, 2014}), while in the Eastern
+Partnership countries the EU's agenda has sometimes alienated local
+elites as neo-imperialist (\citeproc{ref-delcour2013meandering}{Delcour,
+2013}).
+
+Scholarly research supports that some political elites outside Europe do
+not necessarily share the EU's positive self-image
+(\citeproc{ref-chaban_east_2007}{Natalia Chaban \& Kauffmann, 2007};
+\citeproc{ref-elgstrom_outsiders_2007}{Elgstrom, 2007};
+\citeproc{ref-scheipers_normative_2007}{Scheipers \& Sicurelli, 2007};
+\citeproc{ref-schlipphak_action_2013}{Schlipphak, 2013, p. 590}). Such
+misperception can undermine EU initiatives, leading to resistance,
+strained relations, and limited policy uptake, ultimately affecting the
+EU's legitimacy and its ability to promote and defend democracy
+(\citeproc{ref-smith2011enlargement}{Smith, 2011};
+\citeproc{ref-smith2014european}{2014, p. 209}). It is reasonable to
+assume that EU personnel involved in external relations are aware of how
+their policies are perceived in target countries and might adjust their
+practices to maximize influence. However, existing research has focused
+almost exclusively on how the EU is perceived by political elites and
+citizens outside Europe, leaving a significant gap in understanding how
+EU representatives themselves perceive the EU's external image and how
+these perceptions shape their (preferred) actions. This knowledge gap
+persists despite long-standing calls by International Relations (IR)
+scholars (e.g., \citeproc{ref-holsti1970national}{K. Holsti, 1970};
+\citeproc{ref-jervis1976}{Jervis, 1976};
+\citeproc{ref-sprout1957environmental}{Sprout \& Sprout, 1957}) for more
+systematic study of both the psychological and operational environments
+of policy actions. As (\citeproc{ref-wish1980foreign}{Wish, 1980, p.
+532}) noted, there are still ``few systematic empirical studies
+centering on decision makers' perception of their own nations''.
+Understanding how meta-perceptions shape EU democracy promotion
+practices can potentially help to improve the alignment between EU
+objectives and the realities on the ground, thereby enhancing democracy
+support.
+
+In this paper, we examine how EU officials and representatives from key
+institutions (`EU representatives') perceive the EU's external image
+(that is, how they believe the EU and its foreign policy are viewed by
+their counterparts in partner countries) and how these meta-perceptions
+shape the diplomatic practices they consider appropriate for promoting
+democracy abroad. Rather than focusing on the substance of the
+democratic model the EU seeks to export or on the actual implementation
+of EU policies, we investigate the preferences of EU representatives
+regarding specific diplomatic instruments. In doing so, we shift the
+analytical focus from high-level policy formulation, typically driven by
+political leaders, to the ground-level perspectives of the EU's
+diplomatic staff, public servants and members of parliament involved in
+advancing and supporting democracy promotion (cf.
+\citeproc{ref-cooper2013oxford}{Cooper, Heine, \& Thakur, 2013, p. 2}).
+Our interest lies in how their preferences are shaped by their
+interpretations of how the EU and its democracy promotion is perceived
+externally. In particular, we ask whether shared perceptions of the EU's
+external image give rise to ``communities of practice''
+(\citeproc{ref-bicchi2018}{Bicchi \& Bremberg, 2018, pp. 9--10}), in
+which groups of EU representatives converge around similar
+understandings of what constitutes appropriate and legitimate democracy
+promotion. The central research question guiding our analysis is thus:
+\emph{How do EU representatives' understandings of the EU's external
+image influence democracy promotion practices they prefer to be used
+towards partner countries?}
+
+The literature on EU external perceptions paints a complex and often
+critical picture of how the EU is viewed from the outside, highlighting
+several key challenges for legitimate and effective foreign policy.
+First, EU external action receives little media coverage and remains
+largely unknown among the general public outside the EU {[}N. Chaban \&
+Holland (\citeproc{ref-chaban2008}{2008})\}. `Europe' is more often
+associated with individual member states or the geographic continent
+than with the EU as a political actor. Second, the EU is typically
+perceived as an economic giant prioritizing security and economic
+interests rather than as a principled foreign political leader
+(\citeproc{ref-elgstrom_outsiders_2007}{Elgstrom, 2007}). Third, its
+external actions are often viewed as inconsistent and inefficient,
+undermining its credibility and impact (\citeproc{ref-lucarelli2010}{S.
+Lucarelli \& Fioramonti, 2010}). In this study, we ask whether EU
+representatives are aware of these challenges, and how such perceived
+limitations shape their understanding of what diplomatic practices are
+appropriate in their interactions with external counterparts.
+
+Furthermore, the existing literature on EU external perceptions has long
+been criticized for being predominantly descriptive, with increasing
+calls for more explanatory approaches (e.g.,
+\citeproc{ref-lucarelli_seen_2014}{Sonia Lucarelli, 2014}). While recent
+work has begun to address this gap, it largely continues to focus on how
+perceptions are formed rather than on their consequences for the EU's
+foreign policy legitimacy and effectiveness. A notable exception is
+emerging research in EU climate and environmental diplomacy, which shows
+that external perceptions can shape EU foreign policy outcomes, either
+by generating expectations that constrain effectiveness when unmet
+(\citeproc{ref-torney2014external}{Torney, 2014}), or by creating
+uncertainty and reducing coherence when internal and external views
+diverge (\citeproc{ref-delreux2021ego}{Delreux \& Pipart, 2021}). At the
+same time, scholarship associated with the sociological `practice turn'
+in International Relations (IR) (e.g., \citeproc{ref-adler2011}{Adler \&
+Pouliot, 2011}) emphasizes how diplomacy is constituted through
+habitual, socially embedded practices, but often overlooks how
+perceptions or reputational considerations feed into these practices. By
+examining how EU representatives' perceptions of the EU's external image
+shape their preferred diplomatic practices, our study brings these two
+strands of research into productive dialogue.
+
+In the next section, we formulate hypotheses on the link between
+meta-perceptions and preferred practices drawing on the
+psychologically-informed literature on (meta-)perceptions and diplomatic
+practices. We test these hypotheses using original data from one
+specific case: EU officials and representatives from key institutions in
+charge of relations with the Eastern neighborhood countries. We use a
+modified version of Q-methodology to identify how these EU
+representatives think the EU is perceived by their counterparts and
+explore how their views shape their practices based on a quantitative
+survey. Q-methodology is particularly suited to produce a comprehensive
+view of an individual's viewpoint and to uncover subjective
+understandings (\citeproc{ref-brewer2000}{Brewer, Selden, \& Facer,
+2000}; \citeproc{ref-brown2008}{Steven R. Brown, Durning, \& Selden,
+2008}; \citeproc{ref-stephenson1953}{Stephenson, 1953}), but has been
+underutilized in the field of international relations and social
+sciences more broadly. In the specific context of our study, the method
+prevents EU officials and representatives from key institutions from
+repeating official policy lines, which is a limitation in previous
+research about belief systems and external images. Overall, this paper
+adds the perceptual and practical perspectives of ``those agents
+involved in the quotidian unfolding''
+(\citeproc{ref-pouliot2010}{Pouliot, 2010, p. 1}) of democracy
+promotion, in an attempt to identify the micro-foundations of effective,
+legitimate European democracy support that can inform concrete
+recommendations for the development of democracy promotion advocacy
+coalitions between the EU and the Eastern neighborhood region.
+
+\section{External perceptions and diplomatic
+practices}\label{external-perceptions-and-diplomatic-practices}
+
+The study of international relations and foreign policy has
+traditionally focused on general patterns of conflict and cooperation,
+often emphasizing system-level variables such as power dynamics,
+security concerns, and economic interdependence. However, beneath these
+observable patterns lies the critical role of individual decision-makers
+who often act ``based less on their objective circumstances than their
+perceptions of those circumstances''
+(\citeproc{ref-renshon2008theory}{Renshon \& Renshon, 2008, p. 511}).
+This insight underpins cognitive process models, which stress that
+foreign policy choices are shaped more by how actors interpret and
+process information than by any `objective' reality.
+
+Early work in this tradition emphasizes the cognitive foundations of
+decision-making in foreign policy
+(\citeproc{ref-hermann1967attempt}{Hermann \& Hermann, 1967};
+\citeproc{ref-holsti1962belief}{O. Holsti, 1962}). Building on these
+classics, Shapiro \& Bonham (\citeproc{ref-shapiro1973cognitive}{1973})
+argues that it is individual perceptions, rather than the actual
+geopolitical environment, that drive behavior. Along similar lines, K.
+Holsti (\citeproc{ref-holsti1970national}{1970}) introduces the concept
+of national role conceptions, which refers to decision-makers'
+understanding of their nation's role in the international system.
+Encompassing beliefs about a nation's responsibilities, commitments, and
+obligations, K. Holsti (\citeproc{ref-holsti1970national}{1970, p. 243})
+asserts that these conceptions play a fundamental role in guiding
+foreign policy decisions. They not only shape how states see themselves
+but also how they engage with others. Overall, early IR scholars argue
+that policy- and decision-makers are influenced not by the `objective'
+facts of the situation, whatever they may be, but by their own `image'
+of it (\citeproc{ref-boulding1959national}{Boulding, 1959, p. 120}).
+
+Closely linked to insights about role conceptions is the concept of
+reputation. In international affairs, marked by uncertainty and
+incomplete information, reputation serves as a critical guide for
+strategic behavior. As Dafoe, Renshon, \& Huth
+(\citeproc{ref-dafoe2014reputation}{2014, p. 365}) observes, states and
+organizations often make strategic decisions based on how others are
+perceived to view them, particularly because direct knowledge of
+intentions is limited. Reputation extends beyond an `objective' record
+of past behavior; it reflects beliefs and judgments within the
+international community about an actor's identity, trustworthiness, and
+predictability (\citeproc{ref-dafoe2014reputation}{Dafoe et al., 2014};
+\citeproc{ref-jervis1989logic}{Jervis, 1989}). This subjective nature of
+reputation makes it a powerful tool in international diplomacy,
+influencing negotiations, cooperation, and conflict resolution. A strong
+reputation, as Keohane (\citeproc{ref-keohane2005after}{2005/ 1984, pp.
+105--106}) highlights, ``makes it easier for a government to enter into
+advantageous agreements,'' while a tarnished reputation imposes costs by
+complicating the process of reaching agreements. A favorable reputation
+is cultivated not merely by adhering to national interests and values,
+but also by demonstrating an understanding of foreign politics and
+cultures (\citeproc{ref-cooper2013oxford}{Cooper et al., 2013, p. 2};
+\citeproc{ref-mercer2018reputation}{Mercer, 2018};
+\citeproc{ref-tetlock1998social}{Tetlock, 1998}). Effective reputation
+management therefore requires more than acting on interests and values;
+it also involves responding to how external actors believe foreign
+audiences interpret their actions. We contend that these insights apply
+not only to foreign policy goals but also to the practices used to
+pursue them, and not just to states but also to supranational actors
+like the EU.
+
+We assume that EU representatives' perceptions of how the EU is viewed
+by external counterparts cluster around distinct understandings of the
+EU's external role and reputation. These meta-perceptions may emphasize
+either the EU's institutional credibility and internal functioning or
+its normative ambition and external impact. Existing research on
+external perceptions supports this assumption, revealing a wide spectrum
+of how the EU is viewed beyond its borders. Much of the literature on
+the EU as a global actor has focused on its capacity to act cohesively
+and the nature of its actorhood
+(\citeproc{ref-bretherton2005}{Bretherton \& Vogler, 2005};
+\citeproc{ref-sjostedt1977}{Sjöstedt, 1977}), often stressing the
+internal fragmentation between EU institutions and member states
+(\citeproc{ref-bretherton2005}{Bretherton \& Vogler, 2005}) and
+questioning its effectiveness as a coherent foreign policy actor
+(\citeproc{ref-thomas2012still}{Thomas, 2012}). Perceptions have been
+shown to differ from country to country, but recurring themes include
+the perception of the EU as a leader in trade
+(\citeproc{ref-elgstrom_outsiders_2007}{Elgstrom, 2007}) and a secondary
+actor in high politics (\citeproc{ref-chaban2014role}{Natalia Chaban \&
+Elgström, 2014}). Some portray the EU as a distinctive, normative power
+committed to values such as democracy and rule of law
+(\citeproc{ref-manners2006}{Manners, 2006}), while others describe it as
+a self-interested political player
+(\citeproc{ref-hyde2008tragic}{Hyde-Price, 2008}) or even neo-colonial
+actor that patronizes its partners
+(\citeproc{ref-andretta_imagining_2007}{Andretta \& Doerr, 2007};
+\citeproc{ref-bayoumi_egyptian_2007}{Bayoumi, 2007}). This diversity of
+external views provides a solid empirical basis for examining variation
+in how EU representatives themselves interpret the EU's external image,
+and for understanding how those interpretations shape what diplomatic
+practices they see as appropriate.
+
+We argue that EU representatives are not only aware of how the EU is
+perceived abroad, but actively reflect on how those perceptions should
+guide their diplomatic engagement. Like firms or agencies engaged in
+public-facing work, they face reputational incentives that influence how
+they signal priorities, allocate resources, and choose among available
+instruments. Drawing on insights from reputation-sensitive
+organizational behavior
+(\citeproc{ref-carpenter2012reputation}{Carpenter \& Krause, 2012};
+\citeproc{ref-coombs1996communication}{Coombs \& Holladay, 1996}), we
+expect EU representatives to act in ways that preserve the Union's
+credibility, mitigate reputational risks, and avoid actions that might
+further undermine external trust. In practice, this means that
+meta-perceptions of the EU's external image can constrain or legitimize
+particular forms of engagement. When EU representatives believe the EU
+is seen as lacking coherence or credibility, they may retreat from
+confrontational tools and prefer practices that are less politically
+assertive or reputationally costly. Conversely, when the EU is seen as
+normative, effective, and principled, representatives may feel
+emboldened to use more visible or assertive instruments. This logic
+leads to our first, general hypothesis:
+
+\textbf{H1:} EU officials adjust what diplomatic practices they prefer
+according to how they perceive the EU to be perceived by their
+counterparts.
+
+Building on our general proposition, we further theorize that EU
+representatives' meta-perceptions influence which types of diplomatic
+practices they prefer, particularly regarding the degree of
+assertiveness or cooperation these practices imply. When EU officials
+believe the EU is perceived externally as lacking strategic coherence,
+bureaucratically rigid, or normatively overbearing, they may be more
+cautious about favoring assertive or punitive tools that could reinforce
+such negative images. In this view, reputational sensitivity leads to a
+preference for more restrained or dialogical forms of engagement that
+are less likely to provoke resistance or reputational backlash. For
+instance, if EU representatives believe that their counterparts see the
+Union as patronizing or domineering, they may be inclined to avoid
+confrontational instruments such as diplomatic sanctions or public
+condemnations. Instead, they may emphasize more cooperative practices,
+like information exchange, technical assistance, or joint platforms for
+dialogue, that promote co-ownership, trust, and mutual understanding.
+This reasoning leads to our first sub-hypothesis:
+
+\textbf{H1a:} EU representatives who believe the EU is perceived
+externally as lacking credibility or coherence are less likely to prefer
+non-cooperative diplomatic instruments.
+
+By contrast, cooperative diplomatic practices tend to be viewed as
+constructive, relationship-oriented, and normatively uncontroversial.
+Such practices are not only central to the EU's self-image as a
+consensus-oriented actor but are also more likely to be perceived as
+legitimate and effective across a wide range of reputational contexts.
+Even when external perceptions of the EU are critical, cooperative tools
+may be seen as appropriate strategies to restore trust, signal openness,
+and foster shared goals. Thus, we expect cooperative instruments to
+enjoy broad support among EU representatives, regardless of their
+interpretation of the EU's external image:
+
+\textbf{H1b:} EU representatives consistently prefer cooperative
+diplomatic instruments, regardless of how they believe the EU is
+perceived externally.
+
+\section{Empirical Approach}\label{empirical-approach}
+
+We test our hypotheses using original data from an online elite survey
+of EU officials and representatives from key institutions (`EU
+representatives') who deal broadly with issues related to democracy
+support in the Eastern Neighborhood countries (ENCs, i.e.~Armenia,
+Azerbaijan, Belarus, Georgia, Moldova, and Ukraine). The region, which
+has gained renewed strategic importance in the context of the Russian
+invasion of Ukraine, is critical for the EU in several respects:
+ensuring energy security (including access to gas and oil and investment
+in renewable energy), securing maritime and air routes, and maintaining
+stable agricultural trade flows, especially in key commodities such as
+grain. Conversely, the EU is important to the ENCs, not only as a major
+economic partner but also through longstanding political, social, and
+cultural ties. Nonetheless, skepticism about the EU's credibility
+persists in parts of the region, particularly among certain state-level
+veto players (\citeproc{ref-dimitrova2013}{Dimitrova \& Dragneva,
+2013}). Acknowledging such concerns, the
+(\citeproc{ref-eucom2011}{Commission, 2011}) emphasized that its revised
+approach to neighborhood relations would be ``developed by listening,
+not only to the requests for support from partner governments, but also
+to demands expressed by civil society.'' This complex relationship makes
+the Eastern Neighborhood an ideal setting for examining how EU
+representatives' perceptions of how the EU and its democracy promotion
+efforts are viewed by external actors shape the ways in which they
+engage, formulate policy, and implement democracy support practices.
+
+We conducted the online survey between November 2024 and May 2025,
+administered in English, French and German through a newly developed,
+open-access, open-source platform that integrates restricted choice
+sorting (Q-sorting) . As elites are a hard-to-survey population,
+purposive sampling is widely used to efficiently capture relevant
+individuals (\citeproc{ref-khoury2020hard}{Khoury, 2020};
+\citeproc{ref-walgrave2017surviving}{Walgrave \& Dejaeghere, 2017}). We
+identified 1,043 EU representatives through the WhoisWho EU directory,
+including staff from the European Commission (N = 375), the European
+External Action Service (EEAS, N = 153), the European Parliament (N =
+454), the Council of the EU (N = 46), and the European Investment Bank
+(EIB, N = 15). To maximize the response rate, we employed multiple
+recruitment strategies, including cold-email invitations, follow-up
+reminders, phone calls, and direct outreach. For instance, we organized
+a webinar with European Commission staff and emphasized the survey's
+endorsement by Dr.~Othmar Karas, former Vice-President of the European
+Parliament. In total, 61 EU representatives completed the survey,
+resulting in a response rate of approximately 5.8 percent. While modest,
+this figure aligns with expectations for elite survey research; studies
+targeting members of parliament report similarly low or declining
+response rates (\citeproc{ref-bailer2014interviews}{Bailer, 2014};
+\citeproc{ref-deschouwer2014representing}{Deschouwer \& Depauw, 2014};
+\citeproc{ref-hoffmann2008studying}{Hoffmann-Lange, 2008}). To mitigate
+social desirability bias and encourage candid participation, all
+responses were collected anonymously.
+
+\textbf{Key independent variable: EU external images}
+
+The key independent variable in our analysis is the perception of EU
+representatives of the external image of the EU, that is, how they
+believe that the EU and its foreign policy are seen by their
+counterparts in the European Neighborhood countries. To capture this, we
+use a modified version of Q-methodology, a mixed-method approach
+originally proposed by Stephenson
+(\citeproc{ref-stephenson1935technique}{1935}) and later refined for
+social science research by Watts \& Stenner
+(\citeproc{ref-watts2012doing}{2012}). In essence, Q-methodology inverts
+the logic of conventional (R-method) factor analysis: whereas
+traditional factor analysis identifies relationships between variables
+across a population of individuals, Q-methodology identifies shared
+viewpoints by correlating individuals based on restricted choice ranking
+of a common set of statements. These shared views are our ultimate key
+independent variable.
+
+Drawing on academic, policy, and media sources, we identified a diverse
+set of 42 statements that capture the full range of possible
+understandings of how the EU could be perceived from the outside (see
+Table 1 in the Appendix). Our primary source for identifying the
+statements was the emerging literature on external perceptions of the
+EU, which examines how elites and the general public in third countries
+view and interpret the Union (\citeproc{ref-chaban2008}{N. Chaban \&
+Holland, 2008}; \citeproc{ref-lucarelli_european_2007}{Sonia Lucarelli,
+2007}). To complement these academic insights, we incorporate the
+self-representation of the EU in official speeches, policy documents,
+and foreign policy strategies, and consult experts with specialized
+knowledge of EU external relations and the Eastern Neighborhood.
+Furthermore, survey respondents were invited to propose any further
+statements they believed were missing, allowing us to capture
+perspectives beyond those identified through the literature review and
+pilot study. We asked the respondents to evaluate the 42 statements by
+sorting them on a scale from --5 (strongly disagree) to +5 (strongly
+agree), with 0 as a neutral midpoint. Specifically, respondents placed
+each statement on a quasinormal distribution grid resembling a bell
+curve, based on the assumption that most statements would elicit
+moderate agreement or disagreement, while only a few would provoke
+strong reactions (\citeproc{ref-brown1980}{Steven Randall Brown, 1980}).
+They were invited to watch an animated video explaining the procedure on
+how to rate the EU external images in the survey.\footnote{\href{https://www.youtube.com/watch?v=P2NmxqHpt8g}{The
+  video is available on YouTube.}}
+
+To minimize acquiescence bias, each statement was formulated in a
+positive and a negative version. The respondents were randomly assigned
+positive or negative wording for each item, with the overall number of
+positive and negative worded statements balanced across the respondents.
+To our knowledge, this randomized polarity design, in which respondents
+receive randomly assigned positive or negative versions of each item,
+represents a novel methodological contribution to the Q-methodology. It
+enhances the validity of the data by reducing the influence of framing
+effects and ensuring that agreement reflects genuine evaluative
+judgments rather than a default tendency to affirm statements
+(\citeproc{ref-schuman1996questions}{Schuman \& Presser, 1996}).
+
+This approach is particularly suited to our research goals. First, it
+not only reveals what the respondents agree with, but also what they
+prioritize, making it particularly effective for capturing subjective
+and internally consistent belief systems
+(\citeproc{ref-brewer2000}{Brewer et al., 2000};
+\citeproc{ref-brown2008}{Steven R. Brown et al., 2008}). Second, because
+participants must compare even broadly agreeable statements, the method
+discourages the mere repetition of official policy lines and helps
+reduce social desirability bias. Third, unlike experimental methods such
+as conjoint analysis, our approach elicits stated perceptions in
+context, rather than relying on hypothetical scenarios. This provides a
+more grounded understanding of how EU representatives interpret the
+reputational environment in which they operate. Finally, the technique
+enables us to statistically identify clusters of shared perception,
+which we use as the main independent variable in testing how different
+views of the external image of the EU shape foreign policy practices
+(\citeproc{ref-dryzek2008discursive}{Dryzek \& Niemeyer, 2008}).
+
+To identify the shared perception clusters of the EU's external image,
+we uncover latent structures in the rankings of the respondents. After
+standardizing the responses to ensure comparability, we perform a
+hierarchical cluster analysis using the Ward method, which groups the
+respondents by minimizing the variance within the cluster at each step.
+This approach generates a nested tree of similarity, visualized through
+a dendrogram (see Figure 1 in the Appendix), which allows us to detect
+clusters of EU representatives with similar viewpoints. Based on the
+dendrogram's shape and the pattern of merging distances, we identify a
+two-cluster solution that captures the most salient divide in
+respondents' interpretations of the EU's external image. A principal
+component analysis (PCA) projecting high-dimensional Q-sort data (i.e.,
+the 42 statement rankings) onto two principal dimensions supports these
+two clusters (see Figure 2 in the Appendix).
+
+Table 1 lists the 15 statements with the largest differences in average
+rankings between the two groups of EU representatives in how they
+believe the EU is perceived by external actors. Based on the statements
+each cluster ranks most positively or negatively (highlighted in bold),
+we identify two distinct groups with differing meta-perceptions. The
+first group (`Cluster 1') believes the EU is viewed externally as
+falling short of its normative ambitions and objectives, but still seen
+as a competent institutional actor, capable of balancing internal
+dynamics and strategically leveraging its economic power. In contrast,
+the second group (`Cluster 2') sees the EU as perceived by its
+counterparts more broadly as a credible, effective, and principled
+international actor that delivers on its commitments and promotes
+stability, democracy, and development.
+
+\usepackage{tabularx}
+\begin{table}[htbp]
+\centering
+\caption{Meta-perceptions of the EU’s external image}
+\renewcommand\arraystretch{1.2}
+\begin{tabularx}{\textwidth}{l >{\centering\arraybackslash}X >{\centering\arraybackslash}X r r r}
+\toprule
+Statements (No.) &     Cluster 1 &     Cluster 2  &   Min &  Max & $\Delta$ \\
+\midrule
+09: EU operates efficiently & -2.64 &  \textbf{1.55} & -2.64 & 1.55 &        4.19 \\
+40: EU protects territorial integrity & -1.57 &  \textbf{1.82} & -1.57 & 1.82 &        3.39 \\
+36: EU supports civil society credibly &  \textbf{2.29} & -1.05 & -1.05 & 2.29 &        3.33 \\
+24: EU provides humanitarian aid & -1.50 &  \textbf{1.68} & -1.50 & 1.68 &        3.18 \\
+30: EU offers new market opportunities & -1.43 &  \textbf{1.50} & -1.43 & 1.50 &        2.93 \\
+07: EU balances power of member states &  \textbf{3.00} &  0.09 &  0.09 & 3.00 &        2.91 \\
+16: EU promotes free trade for poverty/peace &  \textbf{2.50} & -0.36 & -0.36 & 2.50 &        2.86 \\
+12: EU promotes democracy/rights credibly & -\textbf{2.43} &  0.32 & -2.43 & 0.32 &        2.75 \\
+14: EU uses economic sanctions effectively &  \textbf{2.86} &  0.14 &  0.14 & 2.86 &        2.72 \\
+27: EU is politically stabilizing & -1.36 &  \textbf{1.14} & -1.36 & 1.14 &        2.49 \\
+04: EU respects cultures  &  0.71 & -1.59 & -1.59 & 0.71 &        2.31 \\
+38: EU promotes national sovereignty  &  \textbf{2.36} &  0.18 &  0.18 & 2.36 &        2.18 \\
+39: EU mediates conflicts & -1.29 &  0.82 & -1.29 & 0.82 &        2.10 \\
+19: EU prioritizes agreements over geopolitics & -\textbf{1.64} &  0.18 & -1.64 & 0.18 &        1.82 \\
+37: EU conditionality interferes & -1.36 &  0.45 & -1.36 & 0.45 &        1.81 \\
+\bottomrule
+\end{tabularx}
+\caption*{\small\textit{Note:} Average statement scores by cluster, based on PCA, \textit{N }= 61. Bolded values highlight statements most relevant for interpreting Cluster 1 and Cluster 2, respectively. Statement wording is abbreviated and shown in positive form only. $\Delta$ indicates the absolute difference between clusters.}
+\end{table}
+
+\section{Empirical Analysis}\label{empirical-analysis}
+
+\section{Conclusion}\label{conclusion}
+
+When you click the \textbf{Render} button a document will be generated
+that includes both content and the output of embedded code. You can
+embed code like this:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DecValTok{1} \SpecialCharTok{+} \DecValTok{1}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+[1] 2
+\end{verbatim}
+
+You can add options to executable code like this
+
+\begin{verbatim}
+[1] 4
+\end{verbatim}
+
+The \texttt{echo:\ false} option disables the printing of code (only
+output is displayed).
+
+\phantomsection\label{refs}
+\begin{CSLReferences}{1}{0}
+\bibitem[\citeproctext]{ref-adler2011}
+Adler, E., \& Pouliot, V. (2011). International practices. \emph{Int.
+Theory}, \emph{3}(1), 1--36.
+
+\bibitem[\citeproctext]{ref-andretta_imagining_2007}
+Andretta, M., \& Doerr, N. (2007). Imagining europe: Internal and
+external non-state actors at the european crossroads. \emph{European
+Foreign Affairs Review}, \emph{12}(3), 385--400.
+\url{https://doi.org/10.54648/EERR2007032}
+
+\bibitem[\citeproctext]{ref-bailer2014interviews}
+Bailer, S. (2014). Interviews and surveys in legislative research.
+\emph{The Oxford Handbook of Legislative Studies}, 167--193.
+
+\bibitem[\citeproctext]{ref-bayoumi_egyptian_2007}
+Bayoumi, S. (2007). Egyptian views of the {EU}: Pragmatic, paternalistic
+and partnership concerns. \emph{European Foreign Affairs Review},
+\emph{12}(3), 331--347. \url{https://doi.org/10.54648/EERR2007029}
+
+\bibitem[\citeproctext]{ref-bicchi2018}
+Bicchi, F., \& Bremberg, N. (2018). European diplomatic practices:
+Contemporary challenges and innovative approaches. In \emph{European
+diplomacy in practice} (pp. 1--16). Routledge.
+
+\bibitem[\citeproctext]{ref-boulding1959national}
+Boulding, K. (1959). National images and international systems.
+\emph{Journal of Conflict Resolution}, \emph{3}(2), 120--131.
+
+\bibitem[\citeproctext]{ref-bretherton2005}
+Bretherton, C., \& Vogler, J. (2005). \emph{The european union as a
+global actor} (2nd ed.). London, England: Routledge.
+
+\bibitem[\citeproctext]{ref-brewer2000}
+Brewer, G. A., Selden, S. C., \& Facer, R. L., II. (2000). Individual
+conceptions of public service motivation. \emph{Public Adm. Rev.},
+\emph{60}(3), 254--264.
+
+\bibitem[\citeproctext]{ref-brown1980}
+Brown, Steven Randall. (1980). Political subjectivity: Applications of q
+methodology in political science. \emph{(No Title)}.
+
+\bibitem[\citeproctext]{ref-brown2008}
+Brown, Steven R., Durning, D. W., \& Selden, S. C. (2008). Q
+methodology. \emph{PUBLIC ADMINISTRATION AND PUBLIC POLICY-NEW YORK-},
+\emph{134}, 721.
+
+\bibitem[\citeproctext]{ref-carpenter2012reputation}
+Carpenter, D. P., \& Krause, G. A. (2012). Reputation and public
+administration. \emph{Public Administration Review}, \emph{72}(1),
+26--32.
+
+\bibitem[\citeproctext]{ref-chaban2014role}
+Chaban, Natalia, \& Elgström, O. (2014). The role of the EU in an
+emerging new world order in the eyes of the chinese, indian and russian
+press. \emph{Journal of European Integration}, \emph{36}(2), 170--188.
+
+\bibitem[\citeproctext]{ref-chaban2008}
+Chaban, N., \& Holland, M. (2008). \emph{The european union and the
+asia-pacific: Media, public and elite perceptions of the EU}. Taylor \&
+Francis. Retrieved from
+\url{https://books.google.ch/books?id=Bbhwlwxxc0YC}
+
+\bibitem[\citeproctext]{ref-chaban_east_2007}
+Chaban, Natalia, \& Kauffmann, M. (2007). 'East is east, and west is
+west': A survey of {EU} images in japan's public discourses.
+\emph{European Foreign Affairs Review}, \emph{12}(3), 363--384.
+\url{https://doi.org/10.54648/EERR2007031}
+
+\bibitem[\citeproctext]{ref-eucom2011}
+Commission, E. (2011). \emph{JOINT COMMUNICATION TO THE EUROPEAN
+COUNCIL, THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND
+SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS a PARTNERSHIP FOR
+DEMOCRACY AND SHARED PROSPERITY WITH THE SOUTHERN MEDITERRANEAN,
+COM:2011:0200:FIN:en:PDF}. European Commission.
+
+\bibitem[\citeproctext]{ref-coombs1996communication}
+Coombs, W. T., \& Holladay, S. J. (1996). Communication and attributions
+in a crisis: An experimental study in crisis communication.
+\emph{Journal of Public Relations Research}, \emph{8}(4), 279--295.
+
+\bibitem[\citeproctext]{ref-cooper2013oxford}
+Cooper, A. F., Heine, J., \& Thakur, R. (2013). \emph{The oxford
+handbook of modern diplomacy}. OUP Oxford.
+
+\bibitem[\citeproctext]{ref-dafoe2014reputation}
+Dafoe, A., Renshon, J., \& Huth, P. (2014). Reputation and status as
+motives for war. \emph{Annual Review of Political Science}, \emph{17},
+371--393.
+
+\bibitem[\citeproctext]{ref-delcour2013meandering}
+Delcour, L. (2013). Meandering europeanisation. EU policy instruments
+and policy convergence in georgia under the eastern partnership.
+\emph{East European Politics}, \emph{29}(3), 344--357.
+
+\bibitem[\citeproctext]{ref-delreux2021ego}
+Delreux, T., \& Pipart, F. (2021). Ego versus alter: Internal and
+external perceptions of the EU's role in global environmental
+negotiations. \emph{Journal of Common Market Studies}, \emph{59}(5),
+1284--1302.
+
+\bibitem[\citeproctext]{ref-deschouwer2014representing}
+Deschouwer, K., \& Depauw, S. (2014). \emph{Representing the people: A
+survey among members of statewide and substate parliaments}. Oxford
+University Press.
+
+\bibitem[\citeproctext]{ref-dimitrova2013}
+Dimitrova, A., \& Dragneva, R. (2013). Shaping convergence with the {EU}
+in foreign policy and state aid in post-orange ukraine: Weak external
+incentives, powerful veto players. \emph{Eur. Asia. Stud.},
+\emph{65}(4), 658--681.
+
+\bibitem[\citeproctext]{ref-dryzek2008discursive}
+Dryzek, J., \& Niemeyer, S. (2008). Discursive representation.
+\emph{American Political Science Review}, \emph{102}(4), 481--493.
+
+\bibitem[\citeproctext]{ref-elgstrom_outsiders_2007}
+Elgstrom, O. (2007). Outsiders' perceptions of the european union in
+international trade negotiations. \emph{Journal of Common Market
+Studies}, \emph{45}(4), 949--967.
+
+\bibitem[\citeproctext]{ref-hermann1967attempt}
+Hermann, C., \& Hermann, M. (1967). An attempt to simulate the outbreak
+of world war i. \emph{American Political Science Review}, \emph{61}(2),
+400--416.
+
+\bibitem[\citeproctext]{ref-hoffmann2008studying}
+Hoffmann-Lange, U. (2008). \emph{Studying elite vs mass opinion}. Sage.
+
+\bibitem[\citeproctext]{ref-holsti1970national}
+Holsti, K. (1970). National role conceptions in the study of foreign
+policy. \emph{International Studies Quarterly}, \emph{14}(3), 233--309.
+
+\bibitem[\citeproctext]{ref-holsti1962belief}
+Holsti, O. (1962). The belief system and national images: A case study.
+\emph{Journal of Conflict Resolution}, \emph{6}(3), 244--252.
+
+\bibitem[\citeproctext]{ref-hyde2008tragic}
+Hyde-Price, A. (2008). A'tragic actor'? A realist perspective on'ethical
+power europe'. \emph{International Affairs}, 29--44.
+
+\bibitem[\citeproctext]{ref-jervis1976}
+Jervis, R. (1976). \emph{Misperception in international politics}.
+Princeton University Press.
+
+\bibitem[\citeproctext]{ref-jervis1989logic}
+Jervis, R. (1989). \emph{The logic of images in international
+relations}. Columbia University Press.
+
+\bibitem[\citeproctext]{ref-keohane2005after}
+Keohane, R. (2005/ 1984). \emph{After hegemony: Cooperation and discord
+in the world political economy}. Princeton University Press.
+
+\bibitem[\citeproctext]{ref-khoury2020hard}
+Khoury, R. (2020). Hard-to-survey populations and respondent-driven
+sampling: Expanding the political science toolbox. \emph{Perspectives on
+Politics}, \emph{18}(2), 509--526.
+
+\bibitem[\citeproctext]{ref-lucarelli_european_2007}
+Lucarelli, Sonia. (2007). The european union in the eyes of others:
+Towards filling a gap in the literature. \emph{European Foreign Affairs
+Review}, \emph{12}(3), 249--270.
+
+\bibitem[\citeproctext]{ref-lucarelli_seen_2014}
+Lucarelli, Sonia. (2014). Seen from the outside: The state of the art on
+the external image of the {EU}. \emph{Journal of European Integration},
+\emph{36}(1), 1--16.
+
+\bibitem[\citeproctext]{ref-lucarelli2010}
+Lucarelli, S., \& Fioramonti, L. (2010). \emph{External perceptions of
+the european union as a global actor}. Taylor \& Francis. Retrieved from
+\url{https://books.google.ch/books?id=zkWOAgAAQBAJ}
+
+\bibitem[\citeproctext]{ref-manners2002normative}
+Manners, I. (2002). Normative power europe: A contradiction in terms?
+\emph{Journal of Common Market Studies}, \emph{40}(2), 235--258.
+
+\bibitem[\citeproctext]{ref-manners2006}
+Manners, I. (2006). European union, normative power and ethical foreign
+policy. \emph{Rethinking Ethical Foreign Policy: Pitfalls, Possibilities
+and Paradoxes}, \emph{116}.
+
+\bibitem[\citeproctext]{ref-mercer2018reputation}
+Mercer, J. (2018). \emph{Reputation and international politics}. Cornell
+University Press.
+
+\bibitem[\citeproctext]{ref-nye2004soft}
+Nye, J. (2004). \emph{Soft power: The means to success in world
+politics}. Public Affairs.
+
+\bibitem[\citeproctext]{ref-pace2014eu}
+Pace, M. (2014). The EU's interpretation of the {``arab uprisings''}:
+Understanding the different visions about democratic change in EU-MENA
+relations. \emph{Journal of Common Market Studies}, \emph{52}(5),
+969--984.
+
+\bibitem[\citeproctext]{ref-pouliot2010}
+Pouliot, V. (2010). \emph{International security in practice: The
+politics of NATO-russia diplomacy} (Vol. 113). Cambridge University
+Press.
+
+\bibitem[\citeproctext]{ref-renshon2008theory}
+Renshon, J., \& Renshon, S. A. (2008). The theory and practice of
+foreign policy decision making. \emph{Political Psychology},
+\emph{29}(4), 509--536.
+
+\bibitem[\citeproctext]{ref-scheipers_normative_2007}
+Scheipers, S., \& Sicurelli, D. (2007). Normative power europe: A
+credible utopia? \emph{Journal of Common Market Studies}, \emph{45}(2),
+435--457. \url{https://doi.org/10.1111/j.1468-5965.2007.00717.x}
+
+\bibitem[\citeproctext]{ref-schlipphak_action_2013}
+Schlipphak, B. (2013). Action and attitudes matter: International public
+opinion towards the european union. \emph{European Union Politics},
+\emph{14}(4), 590--618. \url{https://doi.org/10.1177/1465116513482527}
+
+\bibitem[\citeproctext]{ref-schuman1996questions}
+Schuman, H., \& Presser, S. (1996). \emph{Questions and answers in
+attitude surveys: Experiments on question form, wording, and context}.
+Sage.
+
+\bibitem[\citeproctext]{ref-shapiro1973cognitive}
+Shapiro, M., \& Bonham, M. (1973). Cognitive process and foreign policy
+decision-making. \emph{International Studies Quarterly}, \emph{17}(2),
+147--174.
+
+\bibitem[\citeproctext]{ref-sjostedt1977}
+Sjöstedt, G. (1977). The exercise of international civil power.
+\emph{Coop. Confl.}, \emph{12}(1), 21--39.
+
+\bibitem[\citeproctext]{ref-smith2011enlargement}
+Smith, K. E. (2011). Enlargement, the neighbourhood, and european order.
+\emph{International Relations and the European Union}, 299--323.
+
+\bibitem[\citeproctext]{ref-smith2014european}
+Smith, K. E. (2014). Is the european union's soft power in decline?
+\emph{Current History}, \emph{113}(761), 104.
+
+\bibitem[\citeproctext]{ref-sprout1957environmental}
+Sprout, H., \& Sprout, M. (1957). Environmental factors in the study of
+international politics. \emph{Conflict Resolution}, \emph{1}(4),
+309--328.
+
+\bibitem[\citeproctext]{ref-stephenson1935technique}
+Stephenson, W. (1935). Technique of factor analysis. \emph{Nature},
+\emph{136}(3434), 297--297.
+
+\bibitem[\citeproctext]{ref-stephenson1953}
+Stephenson, W. (1953). \emph{The study of behavior; q-technique and its
+methodology.}
+
+\bibitem[\citeproctext]{ref-tetlock1998social}
+Tetlock, P. (1998). \emph{Social psychology and world politics.}
+McGraw-Hill.
+
+\bibitem[\citeproctext]{ref-thomas2012still}
+Thomas, D. C. (2012). Still punching below its weight? Coherence and
+effectiveness in european union foreign policy. \emph{JCMS: Journal of
+Common Market Studies}, \emph{50}(3), 457--474.
+
+\bibitem[\citeproctext]{ref-torney2014external}
+Torney, D. (2014). External perceptions and EU foreign policy
+effectiveness: The case of climate change. \emph{Journal of Common
+Market Studies}, \emph{52}(6), 1358--1373.
+
+\bibitem[\citeproctext]{ref-walgrave2017surviving}
+Walgrave, S., \& Dejaeghere, Y. (2017). Surviving information overload:
+How elite politicians select information. \emph{Governance},
+\emph{30}(2), 229--244.
+
+\bibitem[\citeproctext]{ref-watts2012doing}
+Watts, S., \& Stenner, P. (2012). \emph{Doing q methodological research:
+Theory, method \& interpretation}.
+
+\bibitem[\citeproctext]{ref-wish1980foreign}
+Wish, N. B. (1980). Foreign policy makers and their national role
+conceptions. \emph{International Studies Quarterly}, \emph{24}(4),
+532--554.
+
+\end{CSLReferences}
+
+
+
+
+\end{document}

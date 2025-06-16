@@ -674,3 +674,51 @@ ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Row,Va
 2447,236,7,QA1,2,2025-04-08 07:24:35.425450172 +0000 UTC,36,10,1,1,"Commission staff in the EU delegation, staff members of EU member state embassies and consulates"
 2447,236,7,QA1,2,2025-04-08 07:24:35.425450172 +0000 UTC,36,11,1,1,"Representatives of International Organisations (e.g., UN bodies, ILO, OECD, NATO, Council of Europe)"
 2447,236,7,QA1,2,2025-04-08 07:24:35.425450172 +0000 UTC,36,12,0,0,"Representatives from OECD countries (e.g., North America, Israel, Japan)"
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,1,2,2,High-level representatives of the Ministries of Planning or Interior (or equivalent)
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,2,1,1,High-level representatives of Ministry of Foreign Affairs
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,3,2,2,"High-level representatives of other ministries (e.g., Water, Health, Economic Affairs)"
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,4,2,2,State officials (desk officers; mid-level officials) working in relevant ministries and state agencies
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,5,0,0,Members of the national parliament
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,6,1,1,Individuals employed in the private sector/ industry
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,7,2,2,"Members of NGOs, civil society associations, and local think tanks"
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,8,1,1,Journalists and other media representatives
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,9,2,2,Academics
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,10,2,2,"Commission staff in the EU delegation, staff members of EU member state embassies and consulates"
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,11,2,2,"Representatives of International Organisations (e.g., UN bodies, ILO, OECD, NATO, Council of Europe)"
+2519,244,7,QA1,2,2025-04-10 10:29:45.276383917 +0000 UTC,79,12,2,2,"Representatives from OECD countries (e.g., North America, Israel, Japan)"
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,1,2,2,High-level representatives of the Ministries of Planning or Interior (or equivalent)
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,2,2,2,High-level representatives of Ministry of Foreign Affairs
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,3,1,1,"High-level representatives of other ministries (e.g., Water, Health, Economic Affairs)"
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,4,2,2,State officials (desk officers; mid-level officials) working in relevant ministries and state agencies
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,5,0,0,Members of the national parliament
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,6,0,0,Individuals employed in the private sector/ industry
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,7,0,0,"Members of NGOs, civil society associations, and local think tanks"
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,8,0,0,Journalists and other media representatives
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,9,0,0,Academics
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,10,2,2,"Commission staff in the EU delegation, staff members of EU member state embassies and consulates"
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,11,2,2,"Representatives of International Organisations (e.g., UN bodies, ILO, OECD, NATO, Council of Europe)"
+2570,250,7,QA1,2,2025-04-22 08:24:10.337722304 +0000 UTC,78,12,0,0,"Representatives from OECD countries (e.g., North America, Israel, Japan)"
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,1,0,0,High-level representatives of the Ministries of Planning or Interior (or equivalent)
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,2,0,0,High-level representatives of Ministry of Foreign Affairs
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,3,0,0,"High-level representatives of other ministries (e.g., Water, Health, Economic Affairs)"
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,4,0,0,State officials (desk officers; mid-level officials) working in relevant ministries and state agencies
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,5,0,0,Members of the national parliament
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,6,0,0,Individuals employed in the private sector/ industry
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,7,0,0,"Members of NGOs, civil society associations, and local think tanks"
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,8,0,0,Journalists and other media representatives
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,9,0,0,Academics
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,10,0,0,"Commission staff in the EU delegation, staff members of EU member state embassies and consulates"
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,11,0,0,"Representatives of International Organisations (e.g., UN bodies, ILO, OECD, NATO, Council of Europe)"
+2604,252,7,QA1,2,2025-04-24 13:54:51.180969308 +0000 UTC,74,12,0,0,"Representatives from OECD countries (e.g., North America, Israel, Japan)"
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,1,0,0,High-level representatives of the Ministries of Planning or Interior (or equivalent)
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,2,0,0,High-level representatives of Ministry of Foreign Affairs
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,3,0,0,"High-level representatives of other ministries (e.g., Water, Health, Economic Affairs)"
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,4,0,0,State officials (desk officers; mid-level officials) working in relevant ministries and state agencies
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,5,0,0,Members of the national parliament
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,6,0,0,Individuals employed in the private sector/ industry
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,7,0,0,"Members of NGOs, civil society associations, and local think tanks"
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,8,0,0,Journalists and other media representatives
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,9,0,0,Academics
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,10,0,0,"Commission staff in the EU delegation, staff members of EU member state embassies and consulates"
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,11,0,0,"Representatives of International Organisations (e.g., UN bodies, ILO, OECD, NATO, Council of Europe)"
+2649,256,7,QA1,2,2025-04-28 11:51:53.03237005 +0000 UTC,107,12,0,0,"Representatives from OECD countries (e.g., North America, Israel, Japan)"

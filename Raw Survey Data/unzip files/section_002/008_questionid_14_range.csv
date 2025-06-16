@@ -503,3 +503,39 @@ ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Row,Va
 2455,236,14,QA8,2,2025-04-08 07:46:27.312684749 +0000 UTC,80,1,1,3,Maidan in Ukraine in 2013-2014
 2455,236,14,QA8,2,2025-04-08 07:46:27.312684749 +0000 UTC,80,2,1,3,Russian annexation of Crimea and Donbass invasion in 2014
 2455,236,14,QA8,2,2025-04-08 07:46:27.312684749 +0000 UTC,80,3,1,3,COVID-19 pandemic in 2019/2020
+2526,244,14,QA8,2,2025-04-10 10:48:04.496387757 +0000 UTC,83,5,2,4,Russian full-scale invasion in Ukraine starting in 2022
+2526,244,14,QA8,2,2025-04-10 10:48:04.496387757 +0000 UTC,83,9,1,3,Armenia's accession to the International Court of Justice in 2023
+2526,244,14,QA8,2,2025-04-10 10:48:04.496387757 +0000 UTC,83,7,2,4,Granting of EU candidate status to Ukraine and Moldova in June 2022
+2526,244,14,QA8,2,2025-04-10 10:48:04.496387757 +0000 UTC,83,6,1,3,Finland and Sweden application for NATO membership in 2022
+2526,244,14,QA8,2,2025-04-10 10:48:04.496387757 +0000 UTC,83,8,2,4,EU Commission’s announcement to open member state negotiations with Ukraine and Moldova in 2023
+2526,244,14,QA8,2,2025-04-10 10:48:04.496387757 +0000 UTC,83,4,98,5,Nagorno-Karabakh War escalation and armed conflict in 2020
+2526,244,14,QA8,2,2025-04-10 10:48:04.496387757 +0000 UTC,83,1,98,5,Maidan in Ukraine in 2013-2014
+2526,244,14,QA8,2,2025-04-10 10:48:04.496387757 +0000 UTC,83,2,1,3,Russian annexation of Crimea and Donbass invasion in 2014
+2526,244,14,QA8,2,2025-04-10 10:48:04.496387757 +0000 UTC,83,3,0,2,COVID-19 pandemic in 2019/2020
+2577,250,14,QA8,2,2025-04-22 08:38:45.334779093 +0000 UTC,46,5,2,4,Russian full-scale invasion in Ukraine starting in 2022
+2577,250,14,QA8,2,2025-04-22 08:38:45.334779093 +0000 UTC,46,9,98,5,Armenia's accession to the International Court of Justice in 2023
+2577,250,14,QA8,2,2025-04-22 08:38:45.334779093 +0000 UTC,46,7,2,4,Granting of EU candidate status to Ukraine and Moldova in June 2022
+2577,250,14,QA8,2,2025-04-22 08:38:45.334779093 +0000 UTC,46,6,0,2,Finland and Sweden application for NATO membership in 2022
+2577,250,14,QA8,2,2025-04-22 08:38:45.334779093 +0000 UTC,46,8,1,3,EU Commission’s announcement to open member state negotiations with Ukraine and Moldova in 2023
+2577,250,14,QA8,2,2025-04-22 08:38:45.334779093 +0000 UTC,46,4,1,3,Nagorno-Karabakh War escalation and armed conflict in 2020
+2577,250,14,QA8,2,2025-04-22 08:38:45.334779093 +0000 UTC,46,1,1,3,Maidan in Ukraine in 2013-2014
+2577,250,14,QA8,2,2025-04-22 08:38:45.334779093 +0000 UTC,46,2,1,3,Russian annexation of Crimea and Donbass invasion in 2014
+2577,250,14,QA8,2,2025-04-22 08:38:45.334779093 +0000 UTC,46,3,1,3,COVID-19 pandemic in 2019/2020
+2611,252,14,QA8,2,2025-04-24 14:04:48.965368841 +0000 UTC,20,5,98,5,Russian full-scale invasion in Ukraine starting in 2022
+2611,252,14,QA8,2,2025-04-24 14:04:48.965368841 +0000 UTC,20,9,98,5,Armenia's accession to the International Court of Justice in 2023
+2611,252,14,QA8,2,2025-04-24 14:04:48.965368841 +0000 UTC,20,7,98,5,Granting of EU candidate status to Ukraine and Moldova in June 2022
+2611,252,14,QA8,2,2025-04-24 14:04:48.965368841 +0000 UTC,20,6,98,5,Finland and Sweden application for NATO membership in 2022
+2611,252,14,QA8,2,2025-04-24 14:04:48.965368841 +0000 UTC,20,8,98,5,EU Commission’s announcement to open member state negotiations with Ukraine and Moldova in 2023
+2611,252,14,QA8,2,2025-04-24 14:04:48.965368841 +0000 UTC,20,4,98,5,Nagorno-Karabakh War escalation and armed conflict in 2020
+2611,252,14,QA8,2,2025-04-24 14:04:48.965368841 +0000 UTC,20,1,98,5,Maidan in Ukraine in 2013-2014
+2611,252,14,QA8,2,2025-04-24 14:04:48.965368841 +0000 UTC,20,2,98,5,Russian annexation of Crimea and Donbass invasion in 2014
+2611,252,14,QA8,2,2025-04-24 14:04:48.965368841 +0000 UTC,20,3,98,5,COVID-19 pandemic in 2019/2020
+2656,256,14,QA8,2,2025-04-28 12:08:37.931948899 +0000 UTC,72,5,1,1,Russian full-scale invasion in Ukraine starting in 2022
+2656,256,14,QA8,2,2025-04-28 12:08:37.931948899 +0000 UTC,72,9,-2,0,Armenia's accession to the International Court of Justice in 2023
+2656,256,14,QA8,2,2025-04-28 12:08:37.931948899 +0000 UTC,72,7,1,3,Granting of EU candidate status to Ukraine and Moldova in June 2022
+2656,256,14,QA8,2,2025-04-28 12:08:37.931948899 +0000 UTC,72,6,0,2,Finland and Sweden application for NATO membership in 2022
+2656,256,14,QA8,2,2025-04-28 12:08:37.931948899 +0000 UTC,72,8,2,4,EU Commission’s announcement to open member state negotiations with Ukraine and Moldova in 2023
+2656,256,14,QA8,2,2025-04-28 12:08:37.931948899 +0000 UTC,72,4,0,2,Nagorno-Karabakh War escalation and armed conflict in 2020
+2656,256,14,QA8,2,2025-04-28 12:08:37.931948899 +0000 UTC,72,1,0,2,Maidan in Ukraine in 2013-2014
+2656,256,14,QA8,2,2025-04-28 12:08:37.931948899 +0000 UTC,72,2,0,2,Russian annexation of Crimea and Donbass invasion in 2014
+2656,256,14,QA8,2,2025-04-28 12:08:37.931948899 +0000 UTC,72,3,1,1,COVID-19 pandemic in 2019/2020

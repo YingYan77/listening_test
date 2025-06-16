@@ -7,7 +7,7 @@ library(tidyverse)
 
 # define the path and file name
 path_unzip <- "unzip files/"
-destfile <- "survey_1_answers_20250409T144323.zip"
+destfile <- "survey_1_answers_20250502T075229.zip"
 
 # # download zip
 # curl::curl_download(url, destfile = paste(path_zip, destfile, sep = "/"))
@@ -94,7 +94,7 @@ process_file <- function(file_path) {
   if (question_id %in% multi_answer) {
     df_clean  <- df_clean %>%
       group_by(SurveySessionID) %>%
-      summarise(across(, ~ list(.x)), .groups = "drop")
+      summarise(across(everything(), ~ list(.x)), .groups = "drop")
   }
   
   if (question_id %in% stats_cols) {

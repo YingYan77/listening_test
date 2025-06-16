@@ -54,3 +54,7 @@ ID,SurveySessionID,QuestionID,QuestionName,SectionID,SubmittedAt,Duration,Select
 2389,231,25,QC3,4,2025-04-01 15:48:51.89752988 +0000 UTC,17,4,The European Union
 2417,232,25,QC3,4,2025-04-01 16:42:08.66833203 +0000 UTC,26,3,"A research team at the University of St.Gallen, Switzerland (funded through the Horizon Europe grant scheme)"
 2471,236,25,QC3,4,2025-04-08 07:58:03.050552431 +0000 UTC,12,3,"A research team at the University of St.Gallen, Switzerland (funded through the Horizon Europe grant scheme)"
+2537,244,25,QC3,4,2025-04-10 10:58:58.309288927 +0000 UTC,24,3,"A research team at the University of St.Gallen, Switzerland (funded through the Horizon Europe grant scheme)"
+2588,250,25,QC3,4,2025-04-22 08:48:59.545649577 +0000 UTC,37,3,"A research team at the University of St.Gallen, Switzerland (funded through the Horizon Europe grant scheme)"
+2622,252,25,QC3,4,2025-04-24 14:14:34.056414913 +0000 UTC,15,4,The European Union
+2667,256,25,QC3,4,2025-04-28 12:19:31.659464523 +0000 UTC,15,3,"A research team at the University of St.Gallen, Switzerland (funded through the Horizon Europe grant scheme)"
